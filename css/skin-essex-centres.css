@@ -1,0 +1,291 @@
+/* ------------------------------------
+   Essex Enterprise Centres Skin by Anthony Casey  27/07/15  
+   ------------------------------------  */
+   
+   
+::-moz-selection {
+	background: #8a2973; 
+	color:#ffffff;
+}
+::selection {
+	background: #8a2973; 
+	color:#ffffff;
+}
+
+
+
+
+
+
+h4 {
+	border-left-color: #d60a51;
+}
+
+
+
+
+
+/* ------------------------------------
+   Nav 
+   ------------------------------------  */
+
+.btn-menu {
+	background: #d60a51; 
+}
+
+.btn-menu:hover {
+	background: #f9216c;
+}
+
+.nav-bar-menu-tabs.nav-tabs>li.active>a, .nav-bar-menu-tabs.nav-tabs>li.active>a:hover, .nav-bar-menu-tabs.nav-tabs>li.active>a:focus {
+	background-color: #d60a51;
+}
+
+.nav-bar {
+	border-color: #8a2973;
+}
+
+#navMobile {
+    border-bottom: 2px solid #8a2973;
+}
+
+#navMobile.navbar-default .navbar-toggle {
+    background: #d60a51;
+}
+
+
+.col-listing-content>.content>h3:first-of-type {
+	margin-top: 30px;
+}
+
+
+
+
+/* ------------------------------------ 
+   Container Colourings/ Backgrounds
+   ------------------------------------ */
+   
+   
+   
+.btn {
+	background: #d60a51;
+}
+
+.btn:hover, .btn:focus {
+	background: #f9216c;
+}
+
+
+
+.container-content.coloured, .event-details-booking-block, .col-sidebar .sidebar-widget.newsletter form {	
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#752261+0,3e245c+100 */
+background: #752261; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzc1MjI2MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzZTI0NWMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #752261 0%, #3e245c 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#752261), color-stop(100%,#3e245c)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #752261 0%,#3e245c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #752261 0%,#3e245c 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #752261 0%,#3e245c 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #752261 0%,#3e245c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#752261', endColorstr='#3e245c',GradientType=0 ); /* IE6-8 */
+
+}
+
+
+
+/* ------------------------------------
+   Home Hero 
+   ------------------------------------  */
+
+.container-home.hero {
+	background-image: url('http://essexenterprisecentres.co.uk/images/global/home-hero.jpg');
+}
+
+
+.container-home.hero>.container-hero-intro .intro>h1 {
+	border-left-color: #ed8b00;
+}
+
+
+.col-latest-news h4 {
+	border-left-color: #d60a51;
+}
+
+
+
+
+/* ------------------------------------
+   Home Content
+   ------------------------------------  */
+
+
+.container-content.dark header.section-header>h2, .container-content.dark header.section-header>.synopsis, .container-content.coloured header.section-header>h2, .container-content.coloured header.section-header>.synopsis {
+	border-left-color: #d60a51;
+}
+
+
+.container-content.dark header.section-header .btn-header, .container-content.coloured header.section-header .btn-header {
+	background: #280323;
+	border-left-color: #7c1b79;
+}
+
+.container-content.dark header.section-header .btn-header:hover, .container-content.coloured header.section-header .btn-header:hover {
+	background: #7c1b79;
+}
+
+
+.row-counters-home p.counter-synopsis:before {
+	background: #d60a51;
+}
+
+
+header.section-header>h2 {
+	border-left-color: #d60a51;
+}
+
+
+header.section-header .btn-header {
+	background: #d60a51;
+	border-left-color: #fc2771;
+}
+
+header.section-header .btn-header:hover {
+	background: #fc2771;
+}
+
+
+
+.carousel-nav-owl .controls>.owl-prev, .carousel-nav-owl .controls>.owl-next {
+	background: #280323;
+}
+
+
+.carousel-nav-owl .controls>.owl-prev:hover, .carousel-nav-owl .controls>.owl-next:hover {
+	background: #7c1b79;
+}
+
+
+.col-recent-news .latest-news-item {
+	border-color: #961844;
+}
+
+.col-recent-news .latest-news-item>.date {
+	color: #d60a51;  
+}
+
+.col-recent-news .btn {
+	background: #280323;
+}
+
+.col-recent-news .btn:hover {
+	background: #7c1b79;
+}
+
+.col-latest-news .btn:hover {
+	background: none;
+}
+
+
+.tabs-family>.nav-tabs>li.active>a, .tabs-family>.nav-tabs>li.active>a:hover, .tabs-family>.nav-tabs>li.active>a:focus {
+	border-color: #d60a51;
+}
+
+
+.contact-panel .panel-title>a:hover {
+	color: #ed8b00;
+}
+
+.contact-panel .row-contact>.bio>h5 {
+	border-color: #d60a51;
+}
+
+
+
+/* ------------------------------------
+   Subpages
+   ------------------------------------  */
+
+
+.container-subpage-hero .section-header>h1, .col-listing-content>.content>h3, .col-sidebar h5 {
+	border-color: #d60a51;
+}
+
+
+.col-sidebar .list-links ul>li>a {
+	background: #d60a51;
+}
+
+.col-sidebar .list-links ul>li>a:hover {
+	background: #fc2771;
+}
+
+.col-listing-content>.content a {
+	color: #d60a51;
+}
+
+
+.pagination ul>li>a {
+	background: #d60a51;
+}
+
+.pagination ul>li>a:hover {
+	background: #fc2771;
+}
+
+
+.container-content.h1-only .section-header h1, .container-event-listing .event-header>h3, .event-details-info-block p.title {
+	border-color: #d60a51;	
+}
+
+.container-event-listing .col-event-time-date h4, .container-event-listing .col-event-location h4, .container-event-listing .col-event-details h4 {
+	border-color: #0093b5;	
+}
+
+
+.container-event-listing .event-header {
+	background: #280323;	
+}
+
+
+.event-details-booking-block h5 {
+	border-color: #d60a51; 
+}
+
+
+.event-details-booking-block .btn-event-submit {
+	background: #280323;
+}
+
+.event-details-booking-block .btn-event-submit:hover {
+	background: #7c1b79;
+}
+
+.notice-availability {
+	padding: 30px 0;
+	background: #8a2973;
+	color: #ffffff;
+	text-align: center;	
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.notice-availability>p>i {
+	margin-right: 10px;	
+}
+
+.notice-availability>p {
+	margin: 0;
+	padding: 0;	
+}
+
+.col-listing-content>.content .notice-availability a {
+	color: #ffffff;
+}
+
+
+#preloader { 
+	background: #181818 url('http://essexenterprisecentres.co.uk/images/global/preloader.gif') no-repeat center center;
+}
+
+

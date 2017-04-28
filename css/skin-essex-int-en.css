@@ -1,0 +1,483 @@
+/* ------------------------------------
+   Essex International Skin by Anthony Casey  27/05/15 
+   ------------------------------------  */
+   
+   
+::-moz-selection {
+	background: #00b3dc; 
+	color:#ffffff;
+}
+::selection {
+	background: #00b3dc; 
+	color:#ffffff;
+}
+
+
+a, a:hover {
+	color: #00b3dc;	
+}
+
+
+
+
+h4 {
+	border-left-color: #00b3dc;
+}
+
+
+
+
+
+/* ------------------------------------
+   Nav 
+   ------------------------------------  */
+
+.btn-menu {
+	background: #0d2c6b; 
+}
+
+.btn-menu:hover {
+	background: #15387f;
+}
+
+.nav-bar-menu-tabs.nav-tabs>li.active>a, .nav-bar-menu-tabs.nav-tabs>li.active>a:hover, .nav-bar-menu-tabs.nav-tabs>li.active>a:focus {
+	background-color: #0d2c6b;
+}
+
+.nav-bar {
+	border-color: #00b3dc;
+}
+
+#navMobile.navbar-default .navbar-toggle {
+    border: none;
+    background: #0d2c6b;
+}
+
+.nav-bar .nav-social {
+    border-left: 1px solid #eeeeee;
+	border-right: 1px solid #eeeeee;
+    padding-left: 20px;
+	padding-right: 23px;
+	margin-right: 0px;
+}
+
+
+.nav-language {
+	float: left;	
+	margin-right: 2px;
+}
+
+.nav-language>a {
+	display: inline-block;
+	padding: 28px 20px 0px 20px; 
+}
+
+.btn-language + .tooltip > .tooltip-inner { 
+	text-transform: uppercase;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+	padding: 10px 15px;
+	background-color: #c00;
+}
+
+.btn-language + .tooltip > .tooltip-arrow { 
+	border-bottom-color: #c00; 
+}
+
+.nav-language.mobile {
+	float: right;	
+	margin-top: 8px;
+	background: green;
+	height: 38px;
+}
+
+#navMobile .navbar-ecc-logo {
+    float: right;
+    height: 48px;
+	margin-right: 5px;
+    padding: 8px 2px 0 0;
+}
+
+
+/* ------------------------------------ 
+   Container Colourings/ Backgrounds
+   ------------------------------------ */
+   
+   
+   
+.btn {
+	background: #00b3dc;
+}
+
+.btn:hover, .btn:focus {
+	background: #10cbf6;
+}
+
+
+
+.container-content.coloured, .event-details-booking-block, .col-sidebar .sidebar-widget.newsletter form {	
+background: #0d2f6e; /* Old browsers */
+background: -moz-linear-gradient(top,  #0c4e8c 0%, #0d2f6e 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0c4e8c), color-stop(100%,#0d2f6e)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #0c4e8c 0%,#0d2f6e 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #0c4e8c 0%,#0d2f6e 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #0c4e8c 0%,#0d2f6e 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #0c4e8c 0%,#0d2f6e 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c4e8c', endColorstr='#0d2f6e',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+/* ------------------------------------
+   Language Modal
+   ------------------------------------  */
+
+
+#languageModal .modal-content {
+	color: #dddddd;
+	background: #151515;
+}
+
+#languageModal .modal-body {
+    text-align: center; 
+    padding: 20px;
+	padding-top: 45px;
+	padding-bottom: 20px;
+}
+
+#languageModal .modal-body>p:last-of-type {
+	margin-bottom: 0px;
+	padding-bottom: 0px;	
+}
+
+#languageModal .modal-header {
+	background: #151515;
+	text-align: center;
+	border-bottom: 1px solid #333333;	
+}
+
+
+#languageModal .modal-header .close {
+	color: #bbbbbb;	
+	opacity: 1;
+	font-weight: 400;
+}
+
+#languageModal .modal-footer {
+	margin-top: 0;
+	text-align: center;
+	border-top: none;
+	padding-bottom: 45px;
+}
+
+#languageModal .modal-footer a {
+	margin-right: 10px;	
+	cursor: pointer;
+}
+
+#languageModal .modal-title {
+	color: #ffffff;	
+	border-left: none;
+	font-size: 24px;
+}
+
+
+
+/* ------------------------------------
+   Home Hero 
+   ------------------------------------  */
+
+.container-home.hero {
+	background-image: url('http://essexinternational-en.org/images/global/home-hero.jpg');
+}
+
+
+.container-home.hero>.container-hero-intro .intro>h1 {
+	border-left-color: #f2a900;
+	-ms-word-break: break-all;
+
+     word-break: break-all;
+
+     word-break: break-word;
+
+	-webkit-hyphens: auto;
+	   -moz-hyphens: auto;
+			hyphens: auto;
+}
+
+
+.col-latest-news h4 {
+	border-left-color: #00b3dc;
+}
+
+.hero-logo-container { 
+	position: relative;
+	width: 250px;	 
+	height: 100px; 
+}
+
+.hero-logo-container svg {
+	position: absolute;
+	top: -20px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+/* ------------------------------------
+   Home Content
+   ------------------------------------  */
+
+
+.container-content.dark header.section-header>h2, .container-content.dark header.section-header>.synopsis, .container-content.coloured header.section-header>h2, .container-content.coloured header.section-header>.synopsis, .container-content.light header.section-header>h2  {
+	/* border-left-color: #35d9ff; */
+	border-left: none;
+}
+
+.container-content.dark header.section-header>h2, .container-content.coloured header.section-header>h2, .container-content.light header.section-header>h2 {
+	background: url("http://essexinternational-en.org/images/global/ei-header-icon-coloured.png") left 0px no-repeat;
+	background-size: contain;	 
+	padding-left: 42px;
+}
+
+.container-content.coloured header.section-header>h2 {
+	background: url("http://essexinternational-en.org/images/global/ei-header-icon-white.png") left 0px no-repeat;
+	background-size: contain;	
+}
+
+.container-content.light header.section-header>h2 {
+	background: url("http://essexinternational-en.org/images/global/ei-header-icon-coloured-grey.png") left 0px no-repeat;
+	background-size: contain;	
+}
+
+
+.container-content.dark header.section-header .btn-header, .container-content.coloured header.section-header .btn-header {
+	background: #03122e;
+	border-left-color: #0e3376;
+}
+
+.container-content.dark header.section-header .btn-header:hover, .container-content.coloured header.section-header .btn-header:hover {
+	background: #071e49;
+}
+
+
+.row-counters-home p.counter-synopsis:before {
+	background: #00b3dc;
+}
+
+
+header.section-header>h2 {
+	border-left-color: #00b3dc;
+}
+
+
+header.section-header .btn-header {
+	background: #00b3dc;
+	border-left-color: #4fd9f9;
+}
+
+header.section-header .btn-header:hover {
+	background: #10cbf6;
+}
+
+
+
+.carousel-nav-owl .controls>.owl-prev, .carousel-nav-owl .controls>.owl-next {
+	background: #03122e;
+}
+
+
+.carousel-nav-owl .controls>.owl-prev:hover, .carousel-nav-owl .controls>.owl-next:hover {
+	background: #0e3376;
+}
+
+
+.col-recent-news .latest-news-item {
+	border-color: #2368a9;
+}
+
+.col-recent-news .latest-news-item>.date {
+	color: #00b3dc;  
+}
+
+.col-recent-news .btn {
+	background: #03122e;
+}
+
+.col-recent-news .btn:hover {
+	background: #071e49;
+}
+
+.col-latest-news .btn:hover {
+	background: none;
+}
+
+
+.tabs-family>.nav-tabs>li.active>a, .tabs-family>.nav-tabs>li.active>a:hover, .tabs-family>.nav-tabs>li.active>a:focus {
+	border-color: #00b3dc;
+}
+
+
+.contact-panel .panel-title>a:hover {
+	color: #f2a900;
+}
+
+.contact-panel .row-contact>.bio>h5, .contact-panel.contact-panel-light .row-contact>.bio>h5  {
+	border-color: #00b3dc;
+}
+
+
+
+
+/* ------------------------------------
+   Subpages
+   ------------------------------------  */
+
+
+.container-subpage-hero .section-header>h1, .col-listing-content>.content>h3, .col-sidebar h5 {
+	border-color: #00b3dc;
+}
+
+
+.col-sidebar .list-links ul>li>a {
+	background: #00b3dc;
+}
+
+.col-sidebar .list-links ul>li>a:hover {
+	background: #10cbf6;
+}
+
+.col-listing-content>.content a {
+	color: #00b3dc;
+}
+
+.pagination ul>li>a {
+	background: #00b3dc;
+}
+
+.pagination ul>li>a:hover {
+	background: #10cbf6;
+}
+
+
+.container-content.h1-only .section-header h1, .container-event-listing .event-header>h3, .event-details-info-block p.title {
+	border-color: #00b3dc;	
+}
+
+.container-event-listing .col-event-time-date h4, .container-event-listing .col-event-location h4, .container-event-listing .col-event-details h4 {
+	border-color: #0093b5;	
+}
+
+
+.container-event-listing .event-header {
+	background: #03122e;	
+}
+
+
+.event-details-booking-block h5 {
+	border-color: #35d9ff; 
+}
+
+
+.event-details-booking-block .btn-event-submit {
+	background: #03122e;
+}
+
+.event-details-booking-block .btn-event-submit:hover {
+	background: #071e49;
+}
+
+
+
+/* ------------------------------------ 
+   China Newsletter
+   ------------------------------------ */
+   
+.col-newsletter p.sign-up {
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
+.col-newsletter p.sign-up:last-of-type {
+	margin-bottom: 25px;	
+}
+
+.col-newsletter #formNewsletterSignup>.row {
+	margin-bottom: 15px; 
+}	
+
+.col-newsletter #formNewsletterSignup .form-group>input {
+	height: 45px;	
+}
+
+.col-newsletter #formNewsletterSignup .form-group>label {
+	text-transform: uppercase;	
+	margin-bottom: 5px;
+}
+
+.col-newsletter #formNewsletterSignup .form-group.terms>label, .col-newsletter #formNewsletterSignup .form-group.terms>p { 
+	margin-bottom: 0px;
+	font-size: 11px;	
+}
+
+
+.col-newsletter #formNewsletterSignup label.error {
+    border: 1px solid #97d0f0;
+    color: #33779e;
+}   
+   
+
+
+
+#preloader { 
+	background: #181818 url('http://essexinternational-en.org/images/global/preloader.gif') no-repeat center center;
+}
+
+
+
+
+@media (min-width: 768px) {	
+
+	.container-home.hero>.container-hero-intro .intro>h1 {
+		-ms-word-break: normal;
+	
+		 word-break: normal;
+
+		-webkit-hyphens: auto;
+		   -moz-hyphens: auto;
+				hyphens: auto;
+	}
+	
+	.hero-logo-container { 
+		position: relative;
+		width: 345px;	 
+		height: 115px;
+		margin-bottom: 25px;
+	}
+	
+	.hero-logo-container svg {
+		top: 0px;
+	}
+		
+	.container-content.dark header.section-header>h2, .container-content.coloured header.section-header>h2, .container-content.light header.section-header>h2 {
+		background-position: left 4px;
+		background-size: auto;	
+		padding-left: 56px;
+	}	
+	
+	.container-content.coloured header.section-header>h2 {
+		background-position: left 4px;
+		background-size: auto;	
+	}
+	
+	.container-content.light header.section-header>h2 {
+		background-position: left 4px;
+		background-size: auto;	
+	}
+
+}
+
+
