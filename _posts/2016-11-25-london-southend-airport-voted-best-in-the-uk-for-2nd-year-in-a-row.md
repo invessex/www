@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: London Southend Airport voted ‘Best in the UK’ for 2nd year in a row
 url: london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row
 sectors:

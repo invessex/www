@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: UK’s most technically advanced quay cranes delivered to DP World London Gateway
 url: uks-most-technically-advanced-quay-cranes-delivered-to-dp-world-london-gateway
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: James Hallam Ltd - Insurance Brokers
 url: james-hallam-ltd-insurance-brokers
 sectors:

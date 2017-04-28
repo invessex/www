@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Braintree Skyline120
 url: braintree-skyline120
 sectors:

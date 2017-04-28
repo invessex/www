@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Essex – ‘The UK’s Back Office’ for Financial Services Businesses
 url: essex-the-uks-back-office-for-financial-services-businesses
 sectors:

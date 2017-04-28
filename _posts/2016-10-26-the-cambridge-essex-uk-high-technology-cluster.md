@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The Cambridge-Essex UK High-Technology Cluster
 url: the-cambridge-essex-uk-high-technology-cluster
 sectors:

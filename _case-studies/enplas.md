@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Enplas
 url: enplas
 sectors:

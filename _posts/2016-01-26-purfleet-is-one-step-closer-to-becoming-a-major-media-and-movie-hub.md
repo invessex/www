@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Purfleet is one step closer to becoming a major media and movie hub
 url: purfleet-is-one-step-closer-to-becoming-a-major-media-and-movie-hub
 sectors:

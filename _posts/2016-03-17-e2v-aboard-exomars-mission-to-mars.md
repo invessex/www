@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: e2v aboard ExoMars mission to Mars
 url: e2v-aboard-exomars-mission-to-mars
 sectors:

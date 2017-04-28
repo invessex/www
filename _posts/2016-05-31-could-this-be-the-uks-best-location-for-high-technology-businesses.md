@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Could this be the UK’s Best Location for High-Technology Businesses?
 url: could-this-be-the-uks-best-location-for-high-technology-businesses
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: M25 Business Centre
 url: m25-business-centre
 sectors:

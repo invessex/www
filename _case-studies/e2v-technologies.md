@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: e2v technologies
 url: e2v-technologies
 sectors:

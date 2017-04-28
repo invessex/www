@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: What Makes Essex ‘the UK’s Multimodal Gateway’?
 url: what-makes-essex-the-uks-multimodal-gateway
 sectors:

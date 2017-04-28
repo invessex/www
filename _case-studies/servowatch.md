@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Servowatch
 url: servowatch
 sectors:

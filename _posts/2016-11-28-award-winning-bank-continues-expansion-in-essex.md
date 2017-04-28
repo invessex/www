@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Award-winning bank continues expansion in Essex
 url: award-winning-bank-continues-expansion-in-essex
 sectors:

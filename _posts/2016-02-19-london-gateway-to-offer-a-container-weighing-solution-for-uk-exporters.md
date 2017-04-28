@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: London Gateway to offer a container weighing solution for UK exporters
 url: london-gateway-to-offer-a-container-weighing-solution-for-uk-exporters
 sectors:

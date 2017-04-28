@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Medical iPad case innovators expanding at the MedBIC…
 url: medical-ipad-case-innovators-expanding-at-the-medbic
 sectors:

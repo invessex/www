@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Chesterford Research Park chosen for diabetes research laboratory space
 url: chesterford-research-park-chosen-for-diabetes-research-laboratory-space
 sectors:

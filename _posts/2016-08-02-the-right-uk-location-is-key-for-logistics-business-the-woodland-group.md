@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The Right UK Location Is Key for Logistics Business ‘The Woodland Group’
 url: the-right-uk-location-is-key-for-logistics-business-the-woodland-group
 sectors:

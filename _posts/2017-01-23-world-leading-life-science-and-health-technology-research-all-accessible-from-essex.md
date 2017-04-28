@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: World-Leading Life Science and Health Technology Research All Accessible from Essex
 url: world-leading-life-science-and-health-technology-research-all-accessible-from-essex
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: New £250m data centre construction underway
 url: new-GBP250m-data-centre-construction-underway
 sectors:

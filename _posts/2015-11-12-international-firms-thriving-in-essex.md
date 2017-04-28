@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: International firms thriving in Essex
 url: international-firms-thriving-in-essex
 sectors:

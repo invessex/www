@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: For Essex-based high-technology companies, world-leading university research is close at hand
 url: for-essex-based-high-technology-companies-world-leading-university-research-is-close-at-hand
 sectors:

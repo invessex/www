@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Contact centre expands to meet rising demand
 url: contact-centre-expands-to-meet-rising-demand
 sectors:

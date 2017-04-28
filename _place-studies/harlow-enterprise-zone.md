@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Harlow Enterprise Zone
 url: harlow-enterprise-zone
 sectors:

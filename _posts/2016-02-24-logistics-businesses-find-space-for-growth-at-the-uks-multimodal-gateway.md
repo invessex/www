@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Logistics Businesses Find Space for Growth at ‘the UK’s Multimodal Gateway’
 url: logistics-businesses-find-space-for-growth-at-the-uks-multimodal-gateway
 sectors:

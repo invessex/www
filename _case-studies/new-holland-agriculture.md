@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: New Holland Agriculture
 url: new-holland-agriculture
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Visteon Engineering Services
 url: visteon-engineering-services
 sectors:

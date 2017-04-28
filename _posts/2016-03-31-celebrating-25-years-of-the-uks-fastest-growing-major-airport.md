@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Celebrating 25 years of the UK’s fastest growing major airport
 url: celebrating-25-years-of-the-uks-fastest-growing-major-airport
 sectors:

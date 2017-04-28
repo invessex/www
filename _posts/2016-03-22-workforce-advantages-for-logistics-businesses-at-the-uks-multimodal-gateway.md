@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Workforce Advantages for Logistics Businesses at ‘the UK’s Multimodal Gateway’
 url: workforce-advantages-for-logistics-businesses-at-the-uks-multimodal-gateway
 sectors:

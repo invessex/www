@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: London Southend Airport
 url: london-southend-airport
 sectors:

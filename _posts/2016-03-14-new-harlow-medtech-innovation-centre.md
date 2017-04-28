@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: New Harlow MedTech Innovation Centre
 url: new-harlow-medtech-innovation-centre
 sectors:

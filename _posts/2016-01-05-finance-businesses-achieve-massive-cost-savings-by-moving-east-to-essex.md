@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Finance Businesses Achieve Massive Cost Savings by Moving East – to Essex
 url: finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
 sectors:

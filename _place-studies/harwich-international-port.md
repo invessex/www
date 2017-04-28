@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Harwich International Port
 url: harwich-international-port
 sectors:

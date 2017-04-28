@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £20m funding for Airport Business Park Southend
 url: GBP20m-funding-for-airport-business-park-southend
 sectors:

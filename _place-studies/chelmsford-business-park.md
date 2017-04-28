@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Chelmsford Business Park
 url: chelmsford-business-park
 sectors:

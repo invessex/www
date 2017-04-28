@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Japanese specialist plastics company opens first UK premises in Essex
 url: japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Winners of the North Essex Business Awards announced
 url: winners-of-the-north-essex-business-awards-announced
 sectors:

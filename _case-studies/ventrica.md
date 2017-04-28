@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Ventrica
 url: ventrica
 sectors:

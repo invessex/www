@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Port of Tilbury continues to expand following major land acquisition
 url: port-of-tilbury-continues-to-expand-following-major-land-acquisition
 sectors:

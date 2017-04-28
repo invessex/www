@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: How Essex’s Multimodal Connectivity Saves Money and Emissions for Logistics Businesses
 url: how-essexs-multimodal-connectivity-saves-money-and-emissions-for-logistics-businesses
 sectors:

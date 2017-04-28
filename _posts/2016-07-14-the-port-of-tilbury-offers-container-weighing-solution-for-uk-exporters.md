@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The Port of Tilbury offers container weighing solution for UK exporters
 url: the-port-of-tilbury-offers-container-weighing-solution-for-uk-exporters
 sectors:

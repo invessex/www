@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Illumina
 url: illumina
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Virtual tour released of world’s deepest research pool proposed for the University of Essex
 url: virtual-tour-released-of-worlds-deepest-research-pool-proposed-for-the-university-of-essex
 sectors:

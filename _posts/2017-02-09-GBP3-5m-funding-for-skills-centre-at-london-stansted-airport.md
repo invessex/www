@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £3.5m funding for skills centre at London Stansted Airport
 url: GBP3-5m-funding-for-skills-centre-at-london-stansted-airport
 sectors:

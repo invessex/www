@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Harlow Group
 url: harlow-group
 sectors:

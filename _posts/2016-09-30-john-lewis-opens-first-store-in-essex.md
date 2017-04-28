@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: John Lewis opens first store in Essex
 url: john-lewis-opens-first-store-in-essex
 sectors:

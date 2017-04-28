@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £21m carbon neutral business school opens
 url: GBP21m-carbon-neutral-business-school-opens
 sectors:

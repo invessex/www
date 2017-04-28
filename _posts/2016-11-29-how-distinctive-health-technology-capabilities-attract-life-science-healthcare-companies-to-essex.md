@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: How Distinctive Health Technology Capabilities Attract Life Science & Healthcare Companies to Essex
 url: how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
 sectors:

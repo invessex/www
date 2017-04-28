@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Stem cell company relocate to Essex
 url: stem-cell-company-relocate-to-essex
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Earls Colne Business Park
 url: earls-colne-business-park
 sectors:

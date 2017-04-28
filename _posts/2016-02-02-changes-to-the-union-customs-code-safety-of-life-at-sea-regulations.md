@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Changes to the Union Customs Code & Safety of Life at Sea regulations
 url: changes-to-the-union-customs-code-safety-of-life-at-sea-regulations
 sectors:

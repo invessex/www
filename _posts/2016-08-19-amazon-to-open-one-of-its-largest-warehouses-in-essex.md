@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Amazon to open one of its largest warehouses in Essex
 url: amazon-to-open-one-of-its-largest-warehouses-in-essex
 sectors:

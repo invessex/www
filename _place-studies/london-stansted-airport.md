@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: London Stansted Airport
 url: london-stansted-airport
 sectors:

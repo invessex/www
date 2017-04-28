@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: The University of Essex Knowledge Gateway
 url: the-university-of-essex-knowledge-gateway
 sectors:

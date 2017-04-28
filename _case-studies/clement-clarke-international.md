@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Clement Clarke International
 url: clement-clarke-international
 sectors:

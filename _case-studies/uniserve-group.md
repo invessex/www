@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Uniserve Group
 url: uniserve-group
 sectors:

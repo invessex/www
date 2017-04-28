@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Chesterford Research Park
 url: chesterford-research-park
 sectors:

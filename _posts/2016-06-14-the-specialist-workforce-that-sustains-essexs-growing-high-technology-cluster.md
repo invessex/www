@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The specialist workforce that sustains Essex’s growing high-technology cluster
 url: the-specialist-workforce-that-sustains-essexs-growing-high-technology-cluster
 sectors:

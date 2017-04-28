@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: London Gateway Port
 url: london-gateway-port
 sectors:

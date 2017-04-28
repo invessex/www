@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The High-Technology Capabilities that are Attracting Global Businesses to Essex, UK
 url: the-high-technology-capabilities-that-are-attracting-global-businesses-to-essex-uk
 sectors:

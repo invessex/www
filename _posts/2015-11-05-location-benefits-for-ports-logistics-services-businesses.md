@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Location benefits for ports logistics services businesses
 url: location-benefits-for-ports-logistics-services-businesses
 sectors:

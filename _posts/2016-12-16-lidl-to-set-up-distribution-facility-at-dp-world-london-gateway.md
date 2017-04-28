@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Lidl to set up distribution facility at DP World London Gateway
 url: lidl-to-set-up-distribution-facility-at-dp-world-london-gateway
 sectors:

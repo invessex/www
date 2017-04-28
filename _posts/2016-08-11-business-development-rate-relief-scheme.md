@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Business Development Rate Relief Scheme
 url: business-development-rate-relief-scheme
 sectors:

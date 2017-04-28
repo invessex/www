@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: University of Essex
 url: university-of-essex
 sectors:

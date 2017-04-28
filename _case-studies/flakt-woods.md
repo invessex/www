@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Fläkt Woods
 url: flakt-woods
 sectors:

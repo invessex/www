@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Woodland Group
 url: woodland-group
 sectors:

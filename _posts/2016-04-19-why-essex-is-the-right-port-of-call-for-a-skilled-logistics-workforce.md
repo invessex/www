@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Why Essex is the Right Port of Call for a Skilled Logistics Workforce
 url: why-essex-is-the-right-port-of-call-for-a-skilled-logistics-workforce
 sectors:

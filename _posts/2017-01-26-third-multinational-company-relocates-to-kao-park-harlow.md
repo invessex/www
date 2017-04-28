@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Third multinational company relocates to KAO Park, Harlow
 url: third-multinational-company-relocates-to-kao-park-harlow
 sectors:

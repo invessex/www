@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Opportunities in the offshore wind industry for Essex based businesses
 url: opportunities-in-the-offshore-wind-industry-for-essex-based-businesses
 sectors:

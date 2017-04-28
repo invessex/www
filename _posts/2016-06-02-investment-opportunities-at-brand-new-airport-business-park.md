@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Investment opportunities at brand new airport business park
 url: investment-opportunities-at-brand-new-airport-business-park
 sectors:

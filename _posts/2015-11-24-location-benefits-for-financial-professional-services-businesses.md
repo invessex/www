@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Location Benefits for Financial & Professional Services Businesses
 url: location-benefits-for-financial-professional-services-businesses
 sectors:

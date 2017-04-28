@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Colchester Business Park
 url: colchester-business-park
 sectors:

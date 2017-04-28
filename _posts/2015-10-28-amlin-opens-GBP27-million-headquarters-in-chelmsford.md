@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Amlin opens £27 million headquarters in Chelmsford
 url: amlin-opens-GBP27-million-headquarters-in-chelmsford
 sectors:

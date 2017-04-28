@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Plans for wind farm operations & maintenance base in Harwich confirmed
 url: plans-for-wind-farm-operations-maintenance-base-in-harwich-confirmed
 sectors:

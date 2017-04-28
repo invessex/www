@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: RWO Marine
 url: rwo-marine
 sectors:

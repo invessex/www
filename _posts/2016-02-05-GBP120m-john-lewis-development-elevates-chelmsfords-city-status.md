@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £120m John Lewis development elevates Chelmsford’s city status
 url: GBP120m-john-lewis-development-elevates-chelmsfords-city-status
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: New data driven datacentre to drive innovation in life sciences
 url: new-data-driven-datacentre-to-drive-innovation-in-life-sciences
 sectors:

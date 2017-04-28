@@ -1,4 +1,5 @@
 ---
+layout: place-study
 heading: Port of Tilbury
 url: port-of-tilbury
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The London Advantage Without the Costs The London-Essex UK Finance Corridor
 url: the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: One of the UK’s largest plastic card manufacturers
 url: one-of-the-uks-largest-plastic-card-manufacturers
 sectors:

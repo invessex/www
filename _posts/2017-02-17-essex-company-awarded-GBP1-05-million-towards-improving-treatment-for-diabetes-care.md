@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Essex company awarded £1.05 million towards improving treatment for diabetes care
 url: essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
 sectors:

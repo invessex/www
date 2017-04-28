@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £2million Solar Farm opens at London Southend Airport
 url: GBP2million-solar-farm-opens-at-london-southend-airport
 sectors:

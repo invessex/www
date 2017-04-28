@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Education and innovation how Essex UK is securing the future of its high-technology businesses
 url: education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-technology-businesses
 sectors:

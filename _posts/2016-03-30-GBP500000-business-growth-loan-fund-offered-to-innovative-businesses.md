@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: £500,000 business growth loan fund offered to innovative businesses
 url: GBP500000-business-growth-loan-fund-offered-to-innovative-businesses
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Arecor
 url: arecor
 sectors:

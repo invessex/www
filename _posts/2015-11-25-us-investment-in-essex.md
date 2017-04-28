@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: US investment in Essex
 url: us-investment-in-essex
 sectors:

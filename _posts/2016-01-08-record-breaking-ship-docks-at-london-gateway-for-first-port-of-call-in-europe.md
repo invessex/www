@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Record breaking ship docks at London Gateway for first port of call in Europe
 url: record-breaking-ship-docks-at-london-gateway-for-first-port-of-call-in-europe
 sectors:

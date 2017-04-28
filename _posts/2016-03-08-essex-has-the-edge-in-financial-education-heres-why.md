@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Essex Has The Edge In Financial Education. Here’s Why…
 url: essex-has-the-edge-in-financial-education-heres-why
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: QuickLink Systems
 url: quicklink-systems
 sectors:

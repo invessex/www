@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Continued expansion at the Port of Tilbury
 url: continued-expansion-at-the-port-of-tilbury
 sectors:

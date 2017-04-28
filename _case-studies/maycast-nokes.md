@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Maycast Nokes
 url: maycast-nokes
 sectors:

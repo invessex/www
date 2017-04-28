@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Passenger and cargo volumes at London Stansted Airport continue to grow
 url: passenger-and-cargo-volumes-at-london-stansted-airport-continue-to-grow
 sectors:

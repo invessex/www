@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Turkish Airlines begins operating out of London Stansted Airport
 url: turkish-airlines-begins-operating-out-of-london-stansted-airport
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Discussing opportunities for businesses in Essex at the Brexit & Global Expansion Summit
 url: discussing-opportunities-for-businesses-in-essex-at-the-brexit-global-expansion-summit
 sectors:

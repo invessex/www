@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Advantages of Essex for logistics businesses serving European & international markets
 url: advantages-of-essex-for-logistics-businesses-serving-european-international-markets
 sectors:

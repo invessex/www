@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: International Financial Data Services (IFDS)
 url: international-financial-data-services-ifds
 sectors:

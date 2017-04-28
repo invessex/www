@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The Essex Business Briefing showcases services available to the business community
 url: the-essex-business-briefing-showcases-services-available-to-the-business-community
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Business collaboration with University of Essex wins top award
 url: business-collaboration-with-university-of-essex-wins-top-award
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Martindale Pharma
 url: martindale-pharma
 sectors:

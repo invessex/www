@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Leonardo
 url: leonardo
 sectors:

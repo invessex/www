@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Chesterford Research Park The Cambridge Life Sciences Cluster, in Essex
 url: chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex
 sectors:

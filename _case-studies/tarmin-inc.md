@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Tarmin Inc.
 url: tarmin-inc
 sectors:

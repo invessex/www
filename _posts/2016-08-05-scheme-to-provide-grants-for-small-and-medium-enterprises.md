@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Scheme to provide grants for Small and Medium Enterprises
 url: scheme-to-provide-grants-for-small-and-medium-enterprises
 sectors:

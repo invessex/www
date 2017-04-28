@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Raytheon Company
 url: raytheon-company
 sectors:

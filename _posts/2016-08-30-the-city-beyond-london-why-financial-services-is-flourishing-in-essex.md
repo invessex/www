@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: The City beyond London – Why Financial Services is flourishing in Essex
 url: the-city-beyond-london-why-financial-services-is-flourishing-in-essex
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Why London’s Finance Sector is Moving East – to Essex…
 url: why-londons-finance-sector-is-moving-east-to-essex
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Workforce Advantages for Businesses in the London-Essex UK Finance Corridor
 url: workforce-advantages-for-businesses-in-the-london-essex-uk-finance-corridor
 sectors:

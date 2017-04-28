@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Pheonix Product Development
 url: pheonix-product-development
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Portcentric Distribution From Essex Can Save Your Business Money. Here’s Why…
 url: portcentric-distribution-from-essex-can-save-your-business-money-heres-why
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: BAE Systems
 url: bae-systems
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Metro Bank opens its second store in three weeks in Essex
 url: metro-bank-opens-its-second-store-in-three-weeks-in-essex
 sectors:

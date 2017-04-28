@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: How Essex combines a UK-leading health technology workforce with lower labour costs
 url: how-essex-combines-a-uk-leading-health-technology-workforce-with-lower-labour-costs
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Metro Bank
 url: metro-bank
 sectors:

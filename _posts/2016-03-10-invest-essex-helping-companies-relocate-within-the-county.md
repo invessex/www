@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: INVEST Essex helping companies relocate within the county
 url: invest-essex-helping-companies-relocate-within-the-county
 sectors:

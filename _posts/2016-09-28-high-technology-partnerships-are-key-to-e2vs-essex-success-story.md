@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: High-technology partnerships are key to e2v’s Essex success story
 url: high-technology-partnerships-are-key-to-e2vs-essex-success-story
 sectors:

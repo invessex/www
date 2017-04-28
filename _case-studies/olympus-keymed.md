@@ -1,4 +1,5 @@
 ---
+layout: case-study
 heading: Olympus KeyMed
 url: olympus-keymed
 sectors:

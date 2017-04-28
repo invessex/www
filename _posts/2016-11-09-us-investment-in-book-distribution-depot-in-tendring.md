@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: US investment in book distribution depot in Tendring
 url: us-investment-in-book-distribution-depot-in-tendring
 sectors:

@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: Colchester Set for Ultra-High-Speed Broadband
 url: colchester-set-for-ultra-high-speed-broadband
 sectors:

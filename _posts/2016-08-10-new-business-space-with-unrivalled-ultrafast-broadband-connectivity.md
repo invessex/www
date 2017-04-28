@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: New business space with unrivalled ultrafast broadband connectivity
 url: new-business-space-with-unrivalled-ultrafast-broadband-connectivity
 sectors:

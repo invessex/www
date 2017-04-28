@@ -1,4 +1,5 @@
 ---
+layout: post
 heading: South Essex the location of choice for outsourcing
 url: south-essex-the-location-of-choice-for-outsourcing
 sectors:
