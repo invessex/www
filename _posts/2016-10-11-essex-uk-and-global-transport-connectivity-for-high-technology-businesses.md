@@ -1,5 +1,5 @@
 ---
-heading: Essex: UK and global transport connectivity for high-technology businesses…
+heading: Essex UK and global transport connectivity for high-technology businesses…
 url: essex-uk-and-global-transport-connectivity-for-high-technology-businesses
 sectors:
   - high-technology-cluster 

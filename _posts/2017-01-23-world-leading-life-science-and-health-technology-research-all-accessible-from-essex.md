@@ -1,5 +1,5 @@
 ---
-heading: World-Leading Life Science and Health Technology Research: All Accessible from Essex
+heading: World-Leading Life Science and Health Technology Research All Accessible from Essex
 url: world-leading-life-science-and-health-technology-research-all-accessible-from-essex
 sectors:
   - life-sciences-healthcare-cluster 

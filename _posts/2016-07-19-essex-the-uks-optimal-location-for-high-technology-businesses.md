@@ -1,5 +1,5 @@
 ---
-heading: Essex: The UK’s optimal location for high-technology businesses
+heading: Essex The UK’s optimal location for high-technology businesses
 url: essex-the-uks-optimal-location-for-high-technology-businesses
 sectors:
   - high-technology-cluster 
