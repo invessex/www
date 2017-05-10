@@ -1,13 +1,14 @@
 ---
 layout: case-study
 heading: Metro Bank
+synopsis: Metro Bank - an independent bank, focused on providing the best in service and convenience
 url: metro-bank
 sectors:
   - london-essex-uk-finance-corridor
 related:
-  - /blog/metro-bank-opens-its-second-store-in-three-weeks-in-essex
-  - /blog/bank-of-the-year-opens-in-chelmsford
-pubdate: 26/01/2017
+  - metro-bank-opens-its-second-store-in-three-weeks-in-essex
+  - bank-of-the-year-opens-in-chelmsford
+pubdate: 2017-01-26
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Metro_Bank_store_1980.jpg'

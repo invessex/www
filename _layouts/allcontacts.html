@@ -1,0 +1,60 @@
+---
+layout: default
+title: All Contacts
+---
+<section class="container-full-width container-content container-auto-height h1-only light">
+    <article class="container">    
+        <div class="row">        
+            <div class="col-sm-12 col-listing-content">            
+                <header class="section-header clearfix">
+                	<h1>Contacts</h1>                    
+                </header>              
+            </div>            
+         </div>         
+     </article>     
+</section>
+{% for contact in site.contacts %}
+<section id="contact-block" class="container-full-width container-content container-contacts-list container-auto-height  light">
+    <article class="container">               
+        <div class="row">
+            <div class="col-sm-12"> 
+                <div class="contact-panel contact-panel-light">                    					
+                    <div class="panel panel-default last">                    
+                        <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1">                        
+                            <div class="panel-body ">                                                                                     
+                                <div class="row-contact clearfix no-border">                                
+                                    <div class="image">
+                                        <figure>
+                                            <img src="{{ contact.photo }}" alt="Corinne Hearne" border="0">
+                                        </figure>
+                                    </div>                                    
+                                    <div class="details">
+                                        <h5>{{ contact.name }}</h5>
+                                        <p class="job-title">{{ contact.job_title }}</p>
+                                        <p class="phone-number">{{ contact.telno}}</p>
+                                        <ul class="social-icons clearfix">
+                                            <li class="twitter"><a href="https://twitter.com/{{ contact.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li class="linkedin"><a href="https://www.linkedin.com/in/{{contact.linkedin}}/" target="_blank"><i class="fa fa-linkedin"></i></a></li>                                               
+                                            <li class="email"><a href="mailto:{{contact.email}}"><i class="fa fa-envelope"></i></a></li>
+                                        </ul>
+                                    </div>                                                                
+                                    <div class="bio">
+                                        <h5>Biography</h5>
+                                        <p>{{ contact.bio }}</p>
+                                    </div>                                                                                                                                            
+                                </div> 
+                                     {% for sector in contact.sectors %}
+                                                                                                                                      
+                                        <a href="http://www.investessex.co.uk/sectors/{{sector}}" class="btn">{{ sector | replace: '-', ' ' }}</a>
+                                     
+                                     {% endfor%}     
+                                                                                         
+                            </div>                            
+                        </div>
+                    </div>                    			
+                </div>               
+            </div>
+        </div>        
+     </article>     
+</section>
+{% endfor%}

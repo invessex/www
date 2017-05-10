@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Office space at Kao Park already 60% pre-let
-url: office-space-at-kao-park-already-60-pre-let
+posturl: office-space-at-kao-park-already-60-pre-let
+metadesc: 1st phase of Kao Park Harlow Enterprise Zone development has pre let 60% of office space
+apermalink: /blog/office-space-at-kao-park-already-60-pre-let
 sectors:
   -  
 pubdate: 24/08/2015

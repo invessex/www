@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: University of Essex planning world’s deepest research pool
-url: university-of-essex-planning-worlds-deepest-research-pool
+posturl: university-of-essex-planning-worlds-deepest-research-pool
+metadesc: University of Essex planning world's deepest space & marine research pool
+apermalink: /blog/university-of-essex-planning-worlds-deepest-research-pool
 sectors:
   -  
 pubdate: 23/07/2015

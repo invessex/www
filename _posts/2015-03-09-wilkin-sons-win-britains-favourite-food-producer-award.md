@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Wilkin & Sons win Britain’s Favourite Food Producer award
-url: wilkin-sons-win-britains-favourite-food-producer-award
+posturl: wilkin-sons-win-britains-favourite-food-producer-award
+metadesc: LandLove Magazine Awards, Tiptree jam & preserves, Wilkin & Sons
+apermalink: /blog/wilkin-sons-win-britains-favourite-food-producer-award
 sectors:
   -  
 pubdate: 09/03/2015

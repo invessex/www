@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Could this be the UK’s Best Location for High-Technology Businesses?
-url: could-this-be-the-uks-best-location-for-high-technology-businesses
+posturl: could-this-be-the-uks-best-location-for-high-technology-businesses
+metadesc: Could this be the UK’s Best Location for High-Technology Businesses? Essex has high-tech credentials, a strategic UK location & big property cost savings
+apermalink: /blog/could-this-be-the-uks-best-location-for-high-technology-businesses
 sectors:
   - high-technology-cluster 
 pubdate: 31/05/2016

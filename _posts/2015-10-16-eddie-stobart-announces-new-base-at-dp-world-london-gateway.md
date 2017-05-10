@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Eddie Stobart Announces New Base at DP World London Gateway
-url: eddie-stobart-announces-new-base-at-dp-world-london-gateway
+posturl: eddie-stobart-announces-new-base-at-dp-world-london-gateway
+metadesc: Eddie Stobart to set up new container transport base at DP World London Gateway
+apermalink: /blog/eddie-stobart-announces-new-base-at-dp-world-london-gateway
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 16/10/2015

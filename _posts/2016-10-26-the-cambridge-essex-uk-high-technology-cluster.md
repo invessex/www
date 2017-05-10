@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The Cambridge-Essex UK High-Technology Cluster
-url: the-cambridge-essex-uk-high-technology-cluster
+posturl: the-cambridge-essex-uk-high-technology-cluster
+metadesc: The Cambridge-Essex UK High-Technology Cluster The Benefits for High-Technology Businesses
+apermalink: /blog/the-cambridge-essex-uk-high-technology-cluster
 sectors:
   - high-technology-cluster 
 pubdate: 26/10/2016

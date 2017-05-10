@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: US investment in book distribution depot in Tendring
-url: us-investment-in-book-distribution-depot-in-tendring
+posturl: us-investment-in-book-distribution-depot-in-tendring
+metadesc: US investment in book distribution depot in Tendring. Penguin Random House expanding their facility in Essex.
+apermalink: /blog/us-investment-in-book-distribution-depot-in-tendring
 sectors:
   -  
 pubdate: 09/11/2016

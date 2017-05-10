@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Japanese specialist plastics company opens first UK premises in Essex
-url: japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
+posturl: japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
+metadesc: Japanese specialist plastics company opens first UK premises in Essex. Chesterford Research Park chosen for company's first R&D location outside Japan
+apermalink: /blog/japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 17/11/2016

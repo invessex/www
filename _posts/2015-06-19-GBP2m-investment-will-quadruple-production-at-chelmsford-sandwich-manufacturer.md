@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £2m investment will quadruple production at Chelmsford sandwich manufacturer
-url: GBP2m-investment-will-quadruple-production-at-chelmsford-sandwich-manufacturer
+posturl: GBP2m-investment-will-quadruple-production-at-chelmsford-sandwich-manufacturer
+metadesc: Chelmsford based sandwich manufacturer Raynor Foods is set to quadruple production and create 65 new jobs with a £2m capital investment
+apermalink: /blog/GBP2m-investment-will-quadruple-production-at-chelmsford-sandwich-manufacturer
 sectors:
   -  
 pubdate: 19/06/2015

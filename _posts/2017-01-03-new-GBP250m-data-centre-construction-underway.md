@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New £250m data centre construction underway
-url: new-GBP250m-data-centre-construction-underway
+posturl: new-GBP250m-data-centre-construction-underway
+metadesc: New £250m data centre construction underway. KAO Park to become the first world-class data centre campus in the UK
+apermalink: /blog/new-GBP250m-data-centre-construction-underway
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster 

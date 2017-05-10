@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £2,000 for small to medium businesses to grow
-url: GBP2000-for-small-to-medium-businesses-to-grow
+posturl: GBP2000-for-small-to-medium-businesses-to-grow
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/GBP2000-for-small-to-medium-businesses-to-grow
 sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor

@@ -1,0 +1,11 @@
+---
+name:
+url:
+job_title:
+photo:
+telno:
+twitter:
+linkedin:
+email:
+sectors:
+---

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Business collaboration with University of Essex wins top award
-url: business-collaboration-with-university-of-essex-wins-top-award
+posturl: business-collaboration-with-university-of-essex-wins-top-award
+metadesc: Knowledge Transfer Partnership, KTP, project results in 2 year partnership between Signal & the University of Essex
+apermalink: /blog/business-collaboration-with-university-of-essex-wins-top-award
 sectors:
   - life-sciences-healthcare-cluster
   - high-technology-cluster 

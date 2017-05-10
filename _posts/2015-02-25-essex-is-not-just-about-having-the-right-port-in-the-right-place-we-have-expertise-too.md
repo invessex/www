@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex is not just about having the right port in the right place, we have expertise too…
-url: essex-is-not-just-about-having-the-right-port-in-the-right-place-we-have-expertise-too
+posturl: essex-is-not-just-about-having-the-right-port-in-the-right-place-we-have-expertise-too
+metadesc: electromechanical, composite engineering, operations & maintenance, European Wind Energy Association Conference & Exhibition
+apermalink: /blog/essex-is-not-just-about-having-the-right-port-in-the-right-place-we-have-expertise-too
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 25/02/2015

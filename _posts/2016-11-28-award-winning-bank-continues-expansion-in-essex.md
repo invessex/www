@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Award-winning bank continues expansion in Essex
-url: award-winning-bank-continues-expansion-in-essex
+posturl: award-winning-bank-continues-expansion-in-essex
+metadesc: Award-winning bank continues expansion in Essex. ‘Bank of the year’ opens in Chelmsford. 
+apermalink: /blog/award-winning-bank-continues-expansion-in-essex
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 28/11/2016

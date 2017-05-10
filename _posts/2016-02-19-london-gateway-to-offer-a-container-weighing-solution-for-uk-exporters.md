@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: London Gateway to offer a container weighing solution for UK exporters
-url: london-gateway-to-offer-a-container-weighing-solution-for-uk-exporters
+posturl: london-gateway-to-offer-a-container-weighing-solution-for-uk-exporters
+metadesc: London Gateway to offer a container weighing solution for UK exporters. The new Safety of Life at Sea (SOLAS) regulations will come into force July 1st 2016.
+apermalink: /blog/london-gateway-to-offer-a-container-weighing-solution-for-uk-exporters
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 19/02/2016

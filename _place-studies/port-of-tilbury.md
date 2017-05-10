@@ -12,7 +12,7 @@ related:
   - /studies/place-studies/london-gateway-port
   - /studies/place-studies/london-southend-airport
   - /studies/place-studies/london-stansted-airport 
-pubdate: 10/02/2017
+pubdate: 2017-02-10
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/PS_TilburyPort_Banner.jpg'

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: London Stansted Airport only UK airport to offer direct cargo link between UK and China
-url: london-stansted-airport-only-uk-airport-to-offer-direct-cargo-link-between-uk-and-china
+posturl: london-stansted-airport-only-uk-airport-to-offer-direct-cargo-link-between-uk-and-china
+metadesc: London Stansted Airport only UK airport to offer direct air cargo link to China, China Southern Cargo to become latest major carrier to join global cargo network at airport
+apermalink: /blog/london-stansted-airport-only-uk-airport-to-offer-direct-cargo-link-between-uk-and-china
 sectors:
   -  
 pubdate: 16/06/2015

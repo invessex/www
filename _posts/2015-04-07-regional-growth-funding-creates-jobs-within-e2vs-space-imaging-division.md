@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Regional Growth Funding creates jobs within e2v’s Space Imaging division
-url: regional-growth-funding-creates-jobs-within-e2vs-space-imaging-division
+posturl: regional-growth-funding-creates-jobs-within-e2vs-space-imaging-division
+metadesc: Regional Growth Fund creating jobs within e2v's Space Imaging department, RGF, e2v, space technology, sensors
+apermalink: /blog/regional-growth-funding-creates-jobs-within-e2vs-space-imaging-division
 sectors:
   - high-technology-cluster 
 pubdate: 07/04/2015

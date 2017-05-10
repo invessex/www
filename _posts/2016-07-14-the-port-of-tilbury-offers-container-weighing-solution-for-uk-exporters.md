@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The Port of Tilbury offers container weighing solution for UK exporters
-url: the-port-of-tilbury-offers-container-weighing-solution-for-uk-exporters
+posturl: the-port-of-tilbury-offers-container-weighing-solution-for-uk-exporters
+metadesc: The Port of Tilbury offers container weighing solution for UK exporters. The port has made significant investment to meet regulations and increase in business.
+apermalink: /blog/the-port-of-tilbury-offers-container-weighing-solution-for-uk-exporters
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 14/07/2016

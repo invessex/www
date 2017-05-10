@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: FedEx Express processes 7000 packages an hour at London Stansted Airport
-url: fedex-express-processes-7000-packages-an-hour-at-london-stansted-airport
+posturl: fedex-express-processes-7000-packages-an-hour-at-london-stansted-airport
+metadesc: London Stansted Airport expands cargo links FedEx Express International Gateway at London Stansted Airport processes 7000 packages an hour
+apermalink: /blog/fedex-express-processes-7000-packages-an-hour-at-london-stansted-airport
 sectors:
   -  
 pubdate: 02/07/2015

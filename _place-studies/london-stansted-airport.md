@@ -13,7 +13,7 @@ related:
   - /studies/place-studies/london-southend-airport
   - /studies/place-studies/london-stansted-airport
   - /studies/place-studies/port-of-tilbury 
-pubdate: 17/02/2017
+pubdate: 2017-02-17
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/PS_StansteadAirport_Banner.jpg'

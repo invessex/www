@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Portcentric Distribution From Essex Can Save Your Business Money. Here’s Why…
-url: portcentric-distribution-from-essex-can-save-your-business-money-heres-why
+posturl: portcentric-distribution-from-essex-can-save-your-business-money-heres-why
+metadesc: The financial and environmental advantages to be gained from portcentric distribution centres
+apermalink: /blog/portcentric-distribution-from-essex-can-save-your-business-money-heres-why
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 07/12/2015

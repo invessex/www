@@ -6,7 +6,7 @@ sectors:
   - london-essex-uk-finance-corridor
 related:
  
-pubdate: 27/04/2017
+pubdate: 2017-04-27
 Author: Paul Martin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/KG_Image_6-EBS_CGI_-_940-x327.jpg'

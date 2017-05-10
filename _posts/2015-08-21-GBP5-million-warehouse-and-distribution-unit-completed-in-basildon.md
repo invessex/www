@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £5 million warehouse and distribution unit completed in Basildon
-url: GBP5-million-warehouse-and-distribution-unit-completed-in-basildon
+posturl: GBP5-million-warehouse-and-distribution-unit-completed-in-basildon
+metadesc: Plumbing supplies group Wolseley UK purchases £5m warehouse & distribution unit in Basildon for Pipe Center and Climate Center from commercial property developer Stoford
+apermalink: /blog/GBP5-million-warehouse-and-distribution-unit-completed-in-basildon
 sectors:
   -  
 pubdate: 21/08/2015

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Port of Tilbury continues to expand following major land acquisition
-url: port-of-tilbury-continues-to-expand-following-major-land-acquisition
+posturl: port-of-tilbury-continues-to-expand-following-major-land-acquisition
+metadesc: Port of Tilbury continues to expand following major land acquisition of site of former Tilbury Power Station
+apermalink: /blog/port-of-tilbury-continues-to-expand-following-major-land-acquisition
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 04/03/2016

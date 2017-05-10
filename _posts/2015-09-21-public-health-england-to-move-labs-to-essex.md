@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Public Health England to move labs to Essex
-url: public-health-england-to-move-labs-to-essex
+posturl: public-health-england-to-move-labs-to-essex
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/public-health-england-to-move-labs-to-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 21/09/2015

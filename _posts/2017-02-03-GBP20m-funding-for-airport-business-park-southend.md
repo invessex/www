@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £20m funding for Airport Business Park Southend
-url: GBP20m-funding-for-airport-business-park-southend
+posturl: GBP20m-funding-for-airport-business-park-southend
+metadesc: £20m funding for Airport Business Park Southend. Airport Business Park Southend has received £20m government funding for a new innovation centre project
+apermalink: /blog/GBP20m-funding-for-airport-business-park-southend
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 03/02/2017

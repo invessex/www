@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex The UK’s Optimal Location for Life Sciences and Health Technology Companies
-url: essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
+posturl: essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
+metadesc: Essex The UK’s Optimal Location for Life Sciences and Health Technology Companies. The drivers of Essex as a HealthTech business location
+apermalink: /blog/essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 16/11/2016

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex - home to award winning insurance companies
-url: essex-home-to-award-winning-insurance-companies
+posturl: essex-home-to-award-winning-insurance-companies
+metadesc: Essex home to award winning insurance companies, British Insurance Awards 2015, Insurance Fraud Awards 2015, LV=, the Hood Group, QBE, Royal Sun Alliance (RSA), Kennedys
+apermalink: /blog/essex-home-to-award-winning-insurance-companies
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 31/07/2015

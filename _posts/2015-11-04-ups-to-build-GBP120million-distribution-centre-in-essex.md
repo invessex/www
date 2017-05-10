@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: UPS to build £120million distribution centre in Essex
-url: ups-to-build-GBP120million-distribution-centre-in-essex
+posturl: ups-to-build-GBP120million-distribution-centre-in-essex
+metadesc: UPS to build £120million distribution centre in Essex. Centre will act as a UK hub & key gateway to UPS's global transportation network.
+apermalink: /blog/ups-to-build-GBP120million-distribution-centre-in-essex
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 04/11/2015

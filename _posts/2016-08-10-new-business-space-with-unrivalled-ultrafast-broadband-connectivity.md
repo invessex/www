@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New business space with unrivalled ultrafast broadband connectivity
-url: new-business-space-with-unrivalled-ultrafast-broadband-connectivity
+posturl: new-business-space-with-unrivalled-ultrafast-broadband-connectivity
+metadesc: New business space with unrivalled ultrafast broadband connectivity will be a hub for emerging & established creative/digital businesses, finance and IT companies.
+apermalink: /blog/new-business-space-with-unrivalled-ultrafast-broadband-connectivity
 sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor 

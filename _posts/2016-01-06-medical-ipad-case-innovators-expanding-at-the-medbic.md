@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Medical iPad case innovators expanding at the MedBIC…
-url: medical-ipad-case-innovators-expanding-at-the-medbic
+posturl: medical-ipad-case-innovators-expanding-at-the-medbic
+metadesc: Medical iPad case innovators FutureNova expanding at the MedBIC, Anglia Ruskin University Business Innovation Centre for Medical and Advanced Engineering.
+apermalink: /blog/medical-ipad-case-innovators-expanding-at-the-medbic
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 06/01/2016

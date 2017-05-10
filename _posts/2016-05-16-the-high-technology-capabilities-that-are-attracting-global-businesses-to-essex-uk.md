@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The High-Technology Capabilities that are Attracting Global Businesses to Essex, UK
-url: the-high-technology-capabilities-that-are-attracting-global-businesses-to-essex-uk
+posturl: the-high-technology-capabilities-that-are-attracting-global-businesses-to-essex-uk
+metadesc: The High-Technology Capabilities that are Attracting Global Businesses to Essex, UK. Essex is a leading UK and European location for high-technology companies…
+apermalink: /blog/the-high-technology-capabilities-that-are-attracting-global-businesses-to-essex-uk
 sectors:
   - high-technology-cluster 
 pubdate: 16/05/2016

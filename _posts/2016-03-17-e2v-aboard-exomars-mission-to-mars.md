@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: e2v aboard ExoMars mission to Mars
-url: e2v-aboard-exomars-mission-to-mars
+posturl: e2v-aboard-exomars-mission-to-mars
+metadesc: e2v aboard ExoMars mission to Mars enabling scientists to study Mars and the atmosphere
+apermalink: /blog/e2v-aboard-exomars-mission-to-mars
 sectors:
   - high-technology-cluster 
 pubdate: 17/03/2016

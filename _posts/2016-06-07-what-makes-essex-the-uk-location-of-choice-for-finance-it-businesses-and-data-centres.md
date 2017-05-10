@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: What Makes Essex the UK ‘Location of Choice’ for Finance IT Businesses and Data Centres?
-url: what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-data-centres
+posturl: what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-data-centres
+metadesc: What Makes Essex the UK ‘Location of Choice’ for Finance IT Businesses and Data Centres? Essex's data centre value proposition costs, workforce, connectivity etc
+apermalink: /blog/what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-data-centres
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 07/06/2016

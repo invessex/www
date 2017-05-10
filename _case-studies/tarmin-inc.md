@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Tarmin Inc.
+synopsis: Tarmin Inc, a specialist provider of data management and storage technologies, has grown from a start-up in Essex to a leading...
 url: tarmin-inc
 sectors:
 
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Tarmin_banner.jpg'

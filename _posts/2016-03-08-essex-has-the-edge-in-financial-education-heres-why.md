@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex Has The Edge In Financial Education. Here’s Why…
-url: essex-has-the-edge-in-financial-education-heres-why
+posturl: essex-has-the-edge-in-financial-education-heres-why
+metadesc: Education & knowledge for finance businesses the Essex advantage. Overview of finance-related higher education specialisms (courses, qualifications and research).
+apermalink: /blog/essex-has-the-edge-in-financial-education-heres-why
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 08/03/2016

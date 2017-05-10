@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Plans for wind farm operations & maintenance base in Harwich confirmed
-url: plans-for-wind-farm-operations-maintenance-base-in-harwich-confirmed
+posturl: plans-for-wind-farm-operations-maintenance-base-in-harwich-confirmed
+metadesc: Plans for wind farm operations & maintenance base in Harwich confirmed. £1.5 billion Galloper project to be led by energy company Innogy SE
+apermalink: /blog/plans-for-wind-farm-operations-maintenance-base-in-harwich-confirmed
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 21/11/2016

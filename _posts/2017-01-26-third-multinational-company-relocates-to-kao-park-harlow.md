@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Third multinational company relocates to KAO Park, Harlow
-url: third-multinational-company-relocates-to-kao-park-harlow
+posturl: third-multinational-company-relocates-to-kao-park-harlow
+metadesc: Third multinational company relocates to KAO Park, Harlow. Pearson is moving its 300 Harlow based staff into the new science & enterprise site.
+apermalink: /blog/third-multinational-company-relocates-to-kao-park-harlow
 sectors:
   - high-technology-cluster 
 pubdate: 26/01/2017

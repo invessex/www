@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: What Makes Essex ‘the UK’s Multimodal Gateway’?
-url: what-makes-essex-the-uks-multimodal-gateway
+posturl: what-makes-essex-the-uks-multimodal-gateway
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/what-makes-essex-the-uks-multimodal-gateway
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 24/05/2016

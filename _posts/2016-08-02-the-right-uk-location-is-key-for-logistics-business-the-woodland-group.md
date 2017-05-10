@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The Right UK Location Is Key for Logistics Business ‘The Woodland Group’
-url: the-right-uk-location-is-key-for-logistics-business-the-woodland-group
+posturl: the-right-uk-location-is-key-for-logistics-business-the-woodland-group
+metadesc: The Right UK Location Is Key for Logistics Business ‘The Woodland Group’. Essex is fast becoming a hot spot for logistics businesses looking to expand or relocate.
+apermalink: /blog/the-right-uk-location-is-key-for-logistics-business-the-woodland-group
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 02/08/2016

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Business travellers up 20% at London Stansted Airport
-url: business-travellers-up-20-at-london-stansted-airport
+posturl: business-travellers-up-20-at-london-stansted-airport
+metadesc: Business travellers up 20% at London Stansted Airport
+apermalink: /blog/business-travellers-up-20-at-london-stansted-airport
 sectors:
   -  
 pubdate: 24/07/2015

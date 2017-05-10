@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex universities recognised for business links
-url: essex-universities-recognised-for-business-links
+posturl: essex-universities-recognised-for-business-links
+metadesc: University of Essex Knowledge Gateway, Lord Ashcroft International Business School
+apermalink: /blog/essex-universities-recognised-for-business-links
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 24/02/2015

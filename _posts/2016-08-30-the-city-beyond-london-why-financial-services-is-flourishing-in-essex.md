@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The City beyond London – Why Financial Services is flourishing in Essex
-url: the-city-beyond-london-why-financial-services-is-flourishing-in-essex
+posturl: the-city-beyond-london-why-financial-services-is-flourishing-in-essex
+metadesc: The City beyond London – Why Financial Services is flourishing in Essex. Brentwood has a higher percentage of ‘Finance and Other Business Services’ workers than any major city in the UK... 
+apermalink: /blog/the-city-beyond-london-why-financial-services-is-flourishing-in-essex
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 30/08/2016

@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: e2v technologies
+synopsis: e2v technologies - Bright ideas in technology and materials science.
 url: e2v-technologies
 sectors:
   - uk-multimodal-gateway-essex
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/E2v_banner.jpg'

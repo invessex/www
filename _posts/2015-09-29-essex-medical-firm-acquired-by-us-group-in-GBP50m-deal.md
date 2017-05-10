@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex medical firm acquired by US group in £50m deal
-url: essex-medical-firm-acquired-by-us-group-in-GBP50m-deal
+posturl: essex-medical-firm-acquired-by-us-group-in-GBP50m-deal
+metadesc: Medical Innovations Group acquired by US group Cantel in £50m deal
+apermalink: /blog/essex-medical-firm-acquired-by-us-group-in-GBP50m-deal
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 29/09/2015

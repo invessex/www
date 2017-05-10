@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Stem cell company relocate to Essex
-url: stem-cell-company-relocate-to-essex
+posturl: stem-cell-company-relocate-to-essex
+metadesc: Stem cell company relocate to London-Stansted-Cambridge corridor. Axol Bioscience have relocated to the Science Village at Chesterford Research Park in Essex.
+apermalink: /blog/stem-cell-company-relocate-to-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 19/11/2015

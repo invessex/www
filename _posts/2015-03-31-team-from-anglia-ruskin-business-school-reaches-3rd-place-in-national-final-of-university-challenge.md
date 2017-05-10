@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Team from Anglia Ruskin business school reaches 3rd place in national final of University Challenge
-url: team-from-anglia-ruskin-business-school-reaches-3rd-place-in-national-final-of-university-challenge
+posturl: team-from-anglia-ruskin-business-school-reaches-3rd-place-in-national-final-of-university-challenge
+metadesc: Anglia Ruskin University, ARU, Lord Ashcroft Business School, LAIBS, University Business Challenge
+apermalink: /blog/team-from-anglia-ruskin-business-school-reaches-3rd-place-in-national-final-of-university-challenge
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 31/03/2015

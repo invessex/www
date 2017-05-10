@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: John Lewis opens first store in Essex
-url: john-lewis-opens-first-store-in-essex
+posturl: john-lewis-opens-first-store-in-essex
+metadesc: John Lewis opens first Essex store. Retailer opens store at the £150m Bond Street shopping development.
+apermalink: /blog/john-lewis-opens-first-store-in-essex
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 30/09/2016

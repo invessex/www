@@ -1,13 +1,14 @@
 ---
 layout: case-study
 heading: One of the UK’s largest plastic card manufacturers
+synopsis: Thames Card Technology supply blue chip customers across various industries
 url: one-of-the-uks-largest-plastic-card-manufacturers
 sectors:
   - london-essex-uk-finance-corridor
 related:
-  - /blog/thames-card-technology-wins-contract-to-produce-over-one-million-chip-payme
-  - /blog/payment-technology-company-reports-increased-manufacturing-sales-of-18m
-pubdate: 
+  - thames-card-technology-wins-contract-to-produce-over-one-million-chip-payme
+  - payment-technology-company-reports-increased-manufacturing-sales-of-18m
+pubdate: 2017-04-25
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/TCT_Building2_600H.jpg'

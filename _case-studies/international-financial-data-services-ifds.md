@@ -1,19 +1,20 @@
 ---
 layout: case-study
 heading: International Financial Data Services (IFDS)
+synopsis: International Financial Data Services (IFDS) - outsourced services for the financial services sector
 url: international-financial-data-services-ifds
 sectors:
   - london-essex-uk-finance-corridor
 related:
-  - /blog/finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
-  - /blog/new-business-space-with-unrivalled-ultrafast-broadband-connectivity
-  - /blog/colchester-set-for-ultra-high-speed-broadband
-  - /blog/what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-da
-  - /blog/why-londons-finance-sector-is-moving-east-to-essex
-  - /blog/the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
-  - /blog/contact-centre-expands-to-meet-rising-demand
-  - /blog/businesses-expanding-their-operations-in-chelmsford
-pubdate: 31/01/2017
+  - finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
+  - new-business-space-with-unrivalled-ultrafast-broadband-connectivity
+  - colchester-set-for-ultra-high-speed-broadband
+  - what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-data-centres
+  - why-londons-finance-sector-is-moving-east-to-essex
+  - the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
+  - contact-centre-expands-to-meet-rising-demand
+  - businesses-expanding-their-operations-in-chelmsford
+pubdate: 2017-01-31
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Officeatnite_1980.jpg'

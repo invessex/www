@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex accountancy firms join forces to become the largest independent firm in the county
-url: essex-accountancy-firms-join-forces-to-become-the-largest-independent-firm-in-the-county
+posturl: essex-accountancy-firms-join-forces-to-become-the-largest-independent-firm-in-the-county
+metadesc: Rickard Keen & Bird Luckin join forces to become Rickard Luckin
+apermalink: /blog/essex-accountancy-firms-join-forces-to-become-the-largest-independent-firm-in-the-county
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 05/10/2015

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: How Distinctive Health Technology Capabilities Attract Life Science & Healthcare Companies to Essex
-url: how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
+posturl: how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
+metadesc: How Distinctive Health Technology Capabilities Attract Life Science & Healthcare Companies to Essex. Where advanced technology meets healthcare
+apermalink: /blog/how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 29/11/2016

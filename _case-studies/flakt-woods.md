@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Fläkt Woods
+synopsis: Fläkt Woods - Bringing air to life.
 url: flakt-woods
 sectors:
 
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Flaktwood_banner.jpg'

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Costa Coffee’s new £36m roastery strategically positioned in Essex
-url: costa-coffees-new-GBP36m-roastery-strategically-positioned-in-essex
+posturl: costa-coffees-new-GBP36m-roastery-strategically-positioned-in-essex
+metadesc: Costa Coffee’s new £36m roastery strategically positioned in Basildon, Essex
+apermalink: /blog/costa-coffees-new-GBP36m-roastery-strategically-positioned-in-essex
 sectors:
   -  
 pubdate: 21/07/2015

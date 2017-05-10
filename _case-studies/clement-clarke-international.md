@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Clement Clarke International
+synopsis: Clement Clarke International - Helping to manage asthma worldwide.
 url: clement-clarke-international
 sectors:
   - life-sciences-healthcare-cluster
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Clement_Banner.jpg'

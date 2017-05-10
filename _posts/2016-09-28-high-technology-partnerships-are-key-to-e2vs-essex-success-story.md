@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: High-technology partnerships are key to e2v’s Essex success story
-url: high-technology-partnerships-are-key-to-e2vs-essex-success-story
+posturl: high-technology-partnerships-are-key-to-e2vs-essex-success-story
+metadesc: Essex has a heritage in high-technology and innovation and high-technology partnerships are key to e2v’s Essex success story. 
+apermalink: /blog/high-technology-partnerships-are-key-to-e2vs-essex-success-story
 sectors:
   - high-technology-cluster 
 pubdate: 28/09/2016

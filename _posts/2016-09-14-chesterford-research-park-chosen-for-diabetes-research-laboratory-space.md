@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Chesterford Research Park chosen for diabetes research laboratory space
-url: chesterford-research-park-chosen-for-diabetes-research-laboratory-space
+posturl: chesterford-research-park-chosen-for-diabetes-research-laboratory-space
+metadesc: Chesterford Research Park chosen for diabetes research laboratory space by leading biopharmaceutical company Arecor who chose Chesterford as the location from which to expand and grow their portfolio of products to enable improved treatments for diabetes care.
+apermalink: /blog/chesterford-research-park-chosen-for-diabetes-research-laboratory-space
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 14/09/2016

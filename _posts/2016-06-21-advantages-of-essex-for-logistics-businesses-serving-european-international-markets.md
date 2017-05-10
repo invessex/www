@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Advantages of Essex for logistics businesses serving European & international markets
-url: advantages-of-essex-for-logistics-businesses-serving-european-international-markets
+posturl: advantages-of-essex-for-logistics-businesses-serving-european-international-markets
+metadesc: Advantages of Essex for logistics businesses serving European & international markets. Yes - Your European Logistics Hub Can be Located in the UK…
+apermalink: /blog/advantages-of-essex-for-logistics-businesses-serving-european-international-markets
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 21/06/2016

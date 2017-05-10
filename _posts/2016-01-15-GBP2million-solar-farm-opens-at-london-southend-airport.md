@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £2million Solar Farm opens at London Southend Airport
-url: GBP2million-solar-farm-opens-at-london-southend-airport
+posturl: GBP2million-solar-farm-opens-at-london-southend-airport
+metadesc: £2million Solar Farm Opens at London Southend Airport. The largest solar farm at a UK airport will generate around 20% of the airport’s annual electricity.
+apermalink: /blog/GBP2million-solar-farm-opens-at-london-southend-airport
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 15/01/2016

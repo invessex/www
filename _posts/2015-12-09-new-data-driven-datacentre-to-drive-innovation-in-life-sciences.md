@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New data driven datacentre to drive innovation in life sciences
-url: new-data-driven-datacentre-to-drive-innovation-in-life-sciences
+posturl: new-data-driven-datacentre-to-drive-innovation-in-life-sciences
+metadesc: New datacentre Kao DATA to drive innovation in life sciences, Kao Park, Harlow Enterprise Zone, Essex 
+apermalink: /blog/new-data-driven-datacentre-to-drive-innovation-in-life-sciences
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster 

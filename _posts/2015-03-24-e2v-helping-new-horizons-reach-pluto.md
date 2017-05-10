@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: e2v helping New Horizons reach Pluto
-url: e2v-helping-new-horizons-reach-pluto
+posturl: e2v-helping-new-horizons-reach-pluto
+metadesc: e2v, New Horizons mission, NASA, Pluto
+apermalink: /blog/e2v-helping-new-horizons-reach-pluto
 sectors:
   - high-technology-cluster 
 pubdate: 24/03/2015

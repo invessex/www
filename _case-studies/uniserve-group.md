@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Uniserve Group
+synopsis: Uniserve Group - The Essex gateway to a global supply chain.
 url: uniserve-group
 sectors:
   - uk-multimodal-gateway-essex
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Uniserve_banner.jpg'

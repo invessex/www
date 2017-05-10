@@ -1,0 +1,67 @@
+---
+layout: default
+--- 	
+
+
+<section class="container-full-width container-subpage-hero dark"  style="background-image: url('{{ page.heroimg }}');">
+    <div class="black-overlay"></div>              
+    <div class="container">                        
+        <div class="inner">     
+            <header class="section-header clearfix to-be-animated">
+                <h1>{{ page.heading }}</h1>
+                <div class="synopsis">
+					{{ page.synopsis }}
+                </div>
+            </header> 
+        </div>        
+    </div>
+</section>        
+<section class="container-full-width container-content container-auto-height light">
+    <article class="container">    
+        <div class="row">        
+            <div class="col-sm-7 col-md-8 col-listing-content">            
+                <header class="section-header carousel-below clearfix">
+                    <h2>Case<br/>Study</h2>
+                </header>                 
+                <div class="content">   
+{{ content }}      
+                </div>
+            </div>
+            <aside class="col-sm-5 col-md-4 col-sidebar">            
+            <!-- Start Widget -->
+                <div class="sidebar-widget articles">
+                    <h5>Related Articles</h5>
+                    {% for article in page.related %}
+                    {% assign relposts = site.posts | where: "posturl", article %}
+                        {% for item in relposts %}
+                            <div class="article">
+                                <h6>{{ item.title }}</h6>
+                                <ul class="info clearfix">
+                                    <li class="date">{{ item.date | date_to_long_string }}</li>
+                                    <li><a href="{{ item.url }}" class="btn">Read More</a></li>
+                                </ul>
+                            </div>
+                        {% endfor %}
+                    {% endfor %}    
+                </div>
+                <!-- Start Widget -->
+                <div class="sidebar-widget list-links">
+                    <h5>Related Sectors</h5>
+                    <ul>
+                    {% for sector in page.sectors%}
+                    <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+                    {% endfor %}
+                    </ul>  
+                </div>
+            </aside>          
+        </div>           
+    </article>    
+</section>
+{% assign contact = site.contacts | where: "name", page.contact | first%}
+
+{% include contactblock.html %}    
+
+</body>
+</html>
+
+

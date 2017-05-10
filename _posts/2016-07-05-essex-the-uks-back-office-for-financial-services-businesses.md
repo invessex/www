@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex – ‘The UK’s Back Office’ for Financial Services Businesses
-url: essex-the-uks-back-office-for-financial-services-businesses
+posturl: essex-the-uks-back-office-for-financial-services-businesses
+metadesc: Essex – ‘The UK’s Back Office’ for Financial Services Businesses. Why leading finance businesses choose Essex...
+apermalink: /blog/essex-the-uks-back-office-for-financial-services-businesses
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 05/07/2016

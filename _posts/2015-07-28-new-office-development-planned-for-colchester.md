@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New office development planned for Colchester
-url: new-office-development-planned-for-colchester
+posturl: new-office-development-planned-for-colchester
+metadesc: Birkett Long to relocate their financial advice business to new Sheepen Place Office Development in Colchester
+apermalink: /blog/new-office-development-planned-for-colchester
 sectors:
   -  
 pubdate: 28/07/2015

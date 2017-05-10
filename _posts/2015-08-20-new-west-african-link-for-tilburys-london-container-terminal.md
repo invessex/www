@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New West African link for Tilbury’s London Container Terminal
-url: new-west-african-link-for-tilburys-london-container-terminal
+posturl: new-west-african-link-for-tilburys-london-container-terminal
+metadesc: New Euraf1 service between Northern Europe & West Africa stops at Port of Tilbury
+apermalink: /blog/new-west-african-link-for-tilburys-london-container-terminal
 sectors:
   -  
 pubdate: 20/08/2015

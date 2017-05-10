@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Continued expansion at the Port of Tilbury
-url: continued-expansion-at-the-port-of-tilbury
+posturl: continued-expansion-at-the-port-of-tilbury
+metadesc: Transport minister Robert Goodwill MP visits Port of Tilbury, London Container Terminal, London Construction Link, London Distribution Park, Thames Gateway to see impacts of significant port investment
+apermalink: /blog/continued-expansion-at-the-port-of-tilbury
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 16/12/2015

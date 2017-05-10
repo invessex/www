@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Harlow Group
+synopsis: The Harlow Group, one of the UK’s leading manufacturers of precision sheet metal components
 url: harlow-group
 sectors:
 
 related:
 
-pubdate: 13/04/2015
+pubdate: 2015-04-13
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Harlow_Banner.jpg'

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Turkish Airlines begins operating out of London Stansted Airport
-url: turkish-airlines-begins-operating-out-of-london-stansted-airport
+posturl: turkish-airlines-begins-operating-out-of-london-stansted-airport
+metadesc: Cargo air freight London Stansted INVEST Essex
+apermalink: /blog/turkish-airlines-begins-operating-out-of-london-stansted-airport
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 29/10/2015

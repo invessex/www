@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Introducing Cambridge-Essex UK A World-Class High-Technology Cluster
-url: introducing-cambridge-essex-uk-a-world-class-high-technology-cluster
+posturl: introducing-cambridge-essex-uk-a-world-class-high-technology-cluster
+metadesc: Introducing Cambridge-Essex UK A World-Class High-Technology Cluster. How Essex industry complements Cambridge research.
+apermalink: /blog/introducing-cambridge-essex-uk-a-world-class-high-technology-cluster
 sectors:
   - high-technology-cluster 
 pubdate: 26/04/2016

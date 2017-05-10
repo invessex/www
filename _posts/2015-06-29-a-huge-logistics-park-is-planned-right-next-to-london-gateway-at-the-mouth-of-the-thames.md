@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: A huge logistics park is planned right next to London Gateway at the mouth of the Thames
-url: a-huge-logistics-park-is-planned-right-next-to-london-gateway-at-the-mouth-of-the-thames
+posturl: a-huge-logistics-park-is-planned-right-next-to-london-gateway-at-the-mouth-of-the-thames
+metadesc: Land available at the Thames Enterprise Park on the site of the former Coryton refinery will build on the great logistics offer in Essex
+apermalink: /blog/a-huge-logistics-park-is-planned-right-next-to-london-gateway-at-the-mouth-of-the-thames
 sectors:
   -  
 pubdate: 29/06/2015

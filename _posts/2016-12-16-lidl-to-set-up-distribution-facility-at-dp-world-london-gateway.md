@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Lidl to set up distribution facility at DP World London Gateway
-url: lidl-to-set-up-distribution-facility-at-dp-world-london-gateway
+posturl: lidl-to-set-up-distribution-facility-at-dp-world-london-gateway
+metadesc: Lidl to set up distribution facility at DP World London Gateway. Essex is a prime location for international companies looking to set up distribution facilities
+apermalink: /blog/lidl-to-set-up-distribution-facility-at-dp-world-london-gateway
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 16/12/2016

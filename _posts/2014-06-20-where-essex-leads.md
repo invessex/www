@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Where Essex leads
-url: where-essex-leads
+posturl: where-essex-leads
+metadesc: Helping companies and organisations to access the Chinese market.  Email Peter.Manning@essex.gov.uk
+apermalink: /blog/where-essex-leads
 sectors:
   -  
 pubdate: 20/06/2014

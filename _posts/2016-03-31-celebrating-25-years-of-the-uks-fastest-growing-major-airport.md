@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Celebrating 25 years of the UK’s fastest growing major airport
-url: celebrating-25-years-of-the-uks-fastest-growing-major-airport
+posturl: celebrating-25-years-of-the-uks-fastest-growing-major-airport
+metadesc: Celebrating 25 years of the UK’s fastest growing major airport. London Stansted Airport has grown significantly since HM the Queen officially opened 25 years ago
+apermalink: /blog/celebrating-25-years-of-the-uks-fastest-growing-major-airport
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 31/03/2016

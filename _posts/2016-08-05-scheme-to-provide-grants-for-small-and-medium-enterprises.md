@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Scheme to provide grants for Small and Medium Enterprises
-url: scheme-to-provide-grants-for-small-and-medium-enterprises
+posturl: scheme-to-provide-grants-for-small-and-medium-enterprises
+metadesc: The Tendring SME Growth Fund is a £750,000 programme to support Small and Medium Enterprises (SMEs). The scheme will provide grants for new and existing businesses and the grants are intended to contribute to the costs of starting up or growing a business. 
+apermalink: /blog/scheme-to-provide-grants-for-small-and-medium-enterprises
 sectors:
   -  
 pubdate: 05/08/2016

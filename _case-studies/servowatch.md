@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Servowatch
+synopsis: Servowatch - Innovation in global marine automation.
 url: servowatch
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/ServoWatch_banner.jpg'

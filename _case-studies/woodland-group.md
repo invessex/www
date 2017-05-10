@@ -1,13 +1,14 @@
 ---
 layout: case-study
 heading: Woodland Group
+synopsis: Woodland Group - global freight forwarding and supply chain specialists
 url: woodland-group
 sectors:
   - uk-multimodal-gateway-essex
 related:
-  - /blog/the-right-uk-location-is-key-for-logistics-business-the-woodland-group
-  - /blog/south-essex-logistics-offer
-pubdate: 01/03/2017
+  - the-right-uk-location-is-key-for-logistics-business-the-woodland-group
+  - south-essex-logistics-offer
+pubdate: 2017-03-01
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Woodland_trucks_2_1980.png'

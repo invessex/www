@@ -1,14 +1,15 @@
 ---
 layout: case-study
 heading: Ventrica
+synopsis: Ventrica – a fast-growing outsourced contact centre business
 url: ventrica
 sectors:
   - london-essex-uk-finance-corridor
 related:
-  - /blog/contact-centre-expands-to-meet-rising-demand
-  - /blog/south-essex-the-location-of-choice-for-outsourcing
-  - /blog/southend-commercial-growth-boom
-pubdate: 13/01/2017
+  - contact-centre-expands-to-meet-rising-demand
+  - south-essex-the-location-of-choice-for-outsourcing
+  - southend-commercial-growth-boom
+pubdate: 2017-01-13
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/PTAIT_20150112_0579_1980.jpg'

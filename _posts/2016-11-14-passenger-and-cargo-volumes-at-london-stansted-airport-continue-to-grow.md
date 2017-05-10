@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Passenger and cargo volumes at London Stansted Airport continue to grow
-url: passenger-and-cargo-volumes-at-london-stansted-airport-continue-to-grow
+posturl: passenger-and-cargo-volumes-at-london-stansted-airport-continue-to-grow
+metadesc: Passenger and cargo volumes at London Stansted Airport continue to grow. London Stansted Airport had its busiest ever October.
+apermalink: /blog/passenger-and-cargo-volumes-at-london-stansted-airport-continue-to-grow
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 14/11/2016

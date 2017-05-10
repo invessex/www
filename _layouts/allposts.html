@@ -1,0 +1,97 @@
+---
+layout: default
+title: Invest Essex News
+---
+<section class="container-full-width container-content container-auto-height h1-only light">
+    
+        <article class="container">
+        
+            <div class="row">
+            
+                <div class="col-sm-12 col-listing-content">
+                
+                    <header class="section-header clearfix">
+                        
+                        <h1>News</h1>	
+                        
+                    </header> 
+                 
+                </div>
+                
+             </div>
+             
+         </article>
+         
+    </section>
+<!-- This loops through the paginated posts -->
+<section class="container-full-width container-content container-auto-height light">
+<div class="container">
+<div class="row">
+<div class="col-sm-7 col-md-8">
+{% for post in paginator.posts %}
+<article class="listing-blog-block">
+                        
+<div class="header">
+    <div class="title">
+        <h3>{{ post.heading }}</h3>
+    </div>
+</div>
+
+<div class="summary clearfix">
+
+    <div class="image" style="background-image: url('{{post.thumb}}');"></div>
+    <div class="content">
+        <p>{{post.metadesc}}</p>
+        <ul class="info clearfix">
+            <li class="date">{{post.date | date_to_long_string }}</li>
+            <li><a href="{{ post.url }}" class="btn">Read More</a></li>
+        </ul>         
+    </div>
+
+
+</div>
+                        
+</article>
+
+{% endfor %}
+</div>
+
+<!-- Pagination links 
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+-->
+    {% if paginator.page_trail %}
+    <div id="pagination" class="pagination">
+        <p class="current">Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</p>
+    <ul>
+    {% if paginator.previous_page %}
+     <li><a href="{{ '/blog/' | prepend: site.baseurl }}" title="{{trail.title}}">First Page</a></li>
+    {% endif %} 
+  {% for trail in paginator.page_trail %}
+    <li>
+        <a {% if page.url == trail.path %}style="background:#f1f1f1;color:#000;"{% endif %} href="{{ trail.path | prepend: site.baseurl | replace: '/index.html', ''}}" title="{{trail.title}}">{{ trail.num }}</a>
+    </li>
+  {% endfor %}
+  {% if paginator.next_page %}
+  <li><a href="{{ page.pagination_info.total_pages | prepend: '/blog/' | prepend: site.baseurl }}" title="{{trail.title}}">Last Page</a></li>
+  {% endif %}
+  </ul>
+  </div>
+{% endif %}
+
+
+</div>
+</div>
+<!-- sidebars -->
+</section>

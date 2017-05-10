@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Business growth in Chelmsford
-url: business-growth-in-chelmsford
+posturl: business-growth-in-chelmsford
+metadesc: Bellway, Marconi Evolution, Genesis, City Park West, Bond St development, Chelmsford, Amlin, Benefit
+apermalink: /blog/business-growth-in-chelmsford
 sectors:
   -  
 pubdate: 19/03/2015

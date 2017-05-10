@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Which? names London Southend Airport the ‘Best in Britain’
-url: which-names-london-southend-airport-the-best-in-britain
+posturl: which-names-london-southend-airport-the-best-in-britain
+metadesc: Which? names London Southend Airport the ‘Best in Britain’
+apermalink: /blog/which-names-london-southend-airport-the-best-in-britain
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 24/09/2015

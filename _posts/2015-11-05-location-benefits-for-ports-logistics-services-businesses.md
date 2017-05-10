@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Location benefits for ports logistics services businesses
-url: location-benefits-for-ports-logistics-services-businesses
+posturl: location-benefits-for-ports-logistics-services-businesses
+metadesc: Portcentric distribution from EssexThe Savings
+apermalink: /blog/location-benefits-for-ports-logistics-services-businesses
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 05/11/2015

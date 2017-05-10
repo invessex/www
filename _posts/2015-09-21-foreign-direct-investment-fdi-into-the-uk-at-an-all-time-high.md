@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Foreign Direct Investment (FDI) into the UK at an all-time high
-url: foreign-direct-investment-fdi-into-the-uk-at-an-all-time-high
+posturl: foreign-direct-investment-fdi-into-the-uk-at-an-all-time-high
+metadesc: Foreign Direct Investment (FDI) into the UK at an all-time high, ‘Unlocking the Potential of a Global Investment’ at the Financial Times FDI Forum
+apermalink: /blog/foreign-direct-investment-fdi-into-the-uk-at-an-all-time-high
 sectors:
   -  
 pubdate: 21/09/2015

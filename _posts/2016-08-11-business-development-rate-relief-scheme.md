@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Business Development Rate Relief Scheme
-url: business-development-rate-relief-scheme
+posturl: business-development-rate-relief-scheme
+metadesc: Business Development Rate Relief Scheme to encourage and support business growth in the Uttlesford District
+apermalink: /blog/business-development-rate-relief-scheme
 sectors:
   -  
 pubdate: 11/08/2016

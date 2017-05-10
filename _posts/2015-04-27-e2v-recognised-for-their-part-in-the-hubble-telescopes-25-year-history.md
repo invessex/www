@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: e2v recognised for their part in the Hubble Telescope’s 25 year history
-url: e2v-recognised-for-their-part-in-the-hubble-telescopes-25-year-history
+posturl: e2v-recognised-for-their-part-in-the-hubble-telescopes-25-year-history
+metadesc: e2v imaging sensor captures the Hubble Telescope's silver anniversary Celestial Fireworks image
+apermalink: /blog/e2v-recognised-for-their-part-in-the-hubble-telescopes-25-year-history
 sectors:
   - high-technology-cluster 
 pubdate: 27/04/2015

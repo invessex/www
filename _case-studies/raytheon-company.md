@@ -1,18 +1,19 @@
 ---
 layout: case-study
 heading: Raytheon Company
+synopsis: Raytheon Company - Global leader in technology and innovation.
 url: raytheon-company
 sectors:
   - high-technology-cluster
 related:
-  - /blog/new-250m-data-centre-construction-underway
-  - /blog/us-technology-and-innovation-company-commit-to-large-scale-investment-in-es
-  - /blog/education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-te
-  - /blog/the-specialist-workforce-that-sustains-essexs-growing-high-technology-clust
-  - /blog/us-investment-in-essex
-  - /blog/the-high-technology-capabilities-that-are-attracting-global-businesses-to-e
-  - /blog/international-firms-thriving-in-essex
-pubdate: 20/12/2016
+  - new-250m-data-centre-construction-underway
+  - us-technology-and-innovation-company-commit-to-large-scale-investment-in-es
+  - education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-te
+  - the-specialist-workforce-that-sustains-essexs-growing-high-technology-clust
+  - us-investment-in-essex
+  - the-high-technology-capabilities-that-are-attracting-global-businesses-to-e
+  - international-firms-thriving-in-essex
+pubdate: 2016-12-20
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Raytheon_banner.jpg'

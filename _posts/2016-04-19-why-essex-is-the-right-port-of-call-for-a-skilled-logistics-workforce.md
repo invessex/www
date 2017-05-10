@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Why Essex is the Right Port of Call for a Skilled Logistics Workforce
-url: why-essex-is-the-right-port-of-call-for-a-skilled-logistics-workforce
+posturl: why-essex-is-the-right-port-of-call-for-a-skilled-logistics-workforce
+metadesc: Why Essex is the Right Port of Call for a Skilled Logistics Workforce. Bringing the county’s educational establishments hand-in-hand with industry.
+apermalink: /blog/why-essex-is-the-right-port-of-call-for-a-skilled-logistics-workforce
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 19/04/2016

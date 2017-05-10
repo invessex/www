@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Lambert Smith Hampton Enterprise Award 2015
-url: lambert-smith-hampton-enterprise-award-2015
+posturl: lambert-smith-hampton-enterprise-award-2015
+metadesc: Lambert Smith Hampton Enterprise Award 2015
+apermalink: /blog/lambert-smith-hampton-enterprise-award-2015
 sectors:
   -  
 pubdate: 02/09/2015

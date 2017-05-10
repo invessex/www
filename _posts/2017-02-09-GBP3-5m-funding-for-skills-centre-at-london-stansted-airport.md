@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £3.5m funding for skills centre at London Stansted Airport
-url: GBP3-5m-funding-for-skills-centre-at-london-stansted-airport
+posturl: GBP3-5m-funding-for-skills-centre-at-london-stansted-airport
+metadesc: £3.5m funding for skills centre at London Stansted Airport. London Stansted Airport received £3.5million to build a new Technical and Professional Skills Centre 
+apermalink: /blog/GBP3-5m-funding-for-skills-centre-at-london-stansted-airport
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 09/02/2017

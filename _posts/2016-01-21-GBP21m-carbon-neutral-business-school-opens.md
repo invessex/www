@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £21m carbon neutral business school opens
-url: GBP21m-carbon-neutral-business-school-opens
+posturl: GBP21m-carbon-neutral-business-school-opens
+metadesc: £21m carbon neutral business school opens. This comes at a time when the University of Essex has also just been ranked the 5th most international university in the UK.
+apermalink: /blog/GBP21m-carbon-neutral-business-school-opens
 sectors:
   - high-technology-cluster 
 pubdate: 21/01/2016

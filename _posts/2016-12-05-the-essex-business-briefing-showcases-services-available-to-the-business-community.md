@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The Essex Business Briefing showcases services available to the business community
-url: the-essex-business-briefing-showcases-services-available-to-the-business-community
+posturl: the-essex-business-briefing-showcases-services-available-to-the-business-community
+metadesc: The Essex Business Briefing showcases services available to the business community. Innovation and cybercrime forums were recently held by Essex Business Briefing
+apermalink: /blog/the-essex-business-briefing-showcases-services-available-to-the-business-community
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 05/12/2016

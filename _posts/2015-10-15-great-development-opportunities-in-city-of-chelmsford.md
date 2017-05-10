@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Great development opportunities in City of Chelmsford
-url: great-development-opportunities-in-city-of-chelmsford
+posturl: great-development-opportunities-in-city-of-chelmsford
+metadesc: City of Chelmsford Investment Development Grade A Office
+apermalink: /blog/great-development-opportunities-in-city-of-chelmsford
 sectors:
   - london-essex-uk-finance-corridor
   - high-technology-cluster 

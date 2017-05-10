@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Making sense of BIg Data
-url: making-sense-of-big-data
+posturl: making-sense-of-big-data
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/making-sense-of-big-data
 sectors:
   -  
 pubdate: 20/10/2015

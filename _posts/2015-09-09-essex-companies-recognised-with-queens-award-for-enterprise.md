@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex companies recognised with Queen’s Award for Enterprise
-url: essex-companies-recognised-with-queens-award-for-enterprise
+posturl: essex-companies-recognised-with-queens-award-for-enterprise
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/essex-companies-recognised-with-queens-award-for-enterprise
 sectors:
   -  
 pubdate: 09/09/2015

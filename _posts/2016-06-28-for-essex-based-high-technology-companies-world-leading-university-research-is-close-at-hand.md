@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: For Essex-based high-technology companies, world-leading university research is close at hand
-url: for-essex-based-high-technology-companies-world-leading-university-research-is-close-at-hand
+posturl: for-essex-based-high-technology-companies-world-leading-university-research-is-close-at-hand
+metadesc: For Essex-based high-technology companies, world-leading university research is close at hand. Companies at the forefront of their fields engaging in high-value collaborations with nearby universities.
+apermalink: /blog/for-essex-based-high-technology-companies-world-leading-university-research-is-close-at-hand
 sectors:
   - high-technology-cluster 
 pubdate: 28/06/2016

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: London Southend Airport voted ‘Best in the UK’ for 2nd year in a row
-url: london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row
+posturl: london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row
+metadesc: London Southend Airport voted ‘Best in the UK’ for 2nd year in a row. London's newest airport once again showed outstanding results
+apermalink: /blog/london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 25/11/2016

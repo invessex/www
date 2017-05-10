@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Discussing opportunities for businesses in Essex at the Brexit & Global Expansion Summit
-url: discussing-opportunities-for-businesses-in-essex-at-the-brexit-global-expansion-summit
+posturl: discussing-opportunities-for-businesses-in-essex-at-the-brexit-global-expansion-summit
+metadesc: Brexit & Global Expansion Summit - the world’s leading event on Brexit
+apermalink: /blog/discussing-opportunities-for-businesses-in-essex-at-the-brexit-global-expansion-summit
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster

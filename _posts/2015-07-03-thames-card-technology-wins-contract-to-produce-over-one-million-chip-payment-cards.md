@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Thames Card Technology wins contract to produce over one million chip payment cards
-url: thames-card-technology-wins-contract-to-produce-over-one-million-chip-payment-cards
+posturl: thames-card-technology-wins-contract-to-produce-over-one-million-chip-payment-cards
+metadesc: Thames Card Technology plastic card manufacturer has won a three year deal to provide Serbia's leading commercial bank
+apermalink: /blog/thames-card-technology-wins-contract-to-produce-over-one-million-chip-payment-cards
 sectors:
   - high-technology-cluster 
 pubdate: 03/07/2015

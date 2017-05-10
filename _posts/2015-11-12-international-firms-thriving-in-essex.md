@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: International firms thriving in Essex
-url: international-firms-thriving-in-essex
+posturl: international-firms-thriving-in-essex
+metadesc: International firms thriving in Essex
+apermalink: /blog/international-firms-thriving-in-essex
 sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor

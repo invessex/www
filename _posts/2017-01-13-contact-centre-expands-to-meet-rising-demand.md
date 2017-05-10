@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Contact centre expands to meet rising demand
-url: contact-centre-expands-to-meet-rising-demand
+posturl: contact-centre-expands-to-meet-rising-demand
+metadesc: Contact centre expands to meet rising demand. Multi award-winning company Ventrica experiences phenomenal growth
+apermalink: /blog/contact-centre-expands-to-meet-rising-demand
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 13/01/2017

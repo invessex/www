@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Opportunities in the offshore wind industry for Essex based businesses
-url: opportunities-in-the-offshore-wind-industry-for-essex-based-businesses
+posturl: opportunities-in-the-offshore-wind-industry-for-essex-based-businesses
+metadesc: Opportunities in the offshore wind industry for Essex based businesses. Workshop being held at SNS2016 for companies in the manufacturing, engineering or construction industries.
+apermalink: /blog/opportunities-in-the-offshore-wind-industry-for-essex-based-businesses
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 26/02/2016

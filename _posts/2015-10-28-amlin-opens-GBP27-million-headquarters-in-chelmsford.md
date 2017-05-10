@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Amlin opens £27 million headquarters in Chelmsford
-url: amlin-opens-GBP27-million-headquarters-in-chelmsford
+posturl: amlin-opens-GBP27-million-headquarters-in-chelmsford
+metadesc: Amlin opens £27 million headquarters in Chelmsford, Essex. This will see them become one of Chelmsford's biggest private sector employers.
+apermalink: /blog/amlin-opens-GBP27-million-headquarters-in-chelmsford
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 28/10/2015

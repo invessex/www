@@ -1,0 +1,79 @@
+---
+layout: default
+title: Case Studies
+---
+<section class="container-full-width container-content container-auto-height h1-only light">
+    
+        <article class="container">
+        
+            <div class="row">
+            
+                <div class="col-sm-12 col-listing-content">
+                
+                    <header class="section-header clearfix">
+                        
+                        <h1>Case Studies</h1>	
+                        
+                        
+                    </header> 
+                 
+                </div>
+                
+             </div>
+             
+         </article>
+         
+    </section>
+<!-- This loops through the paginated posts -->
+<section class="container-full-width container-content container-auto-height light">
+<div class="container">
+{% for study in paginator.posts %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 1 %}
+<!-- open the row -->
+    <div class="row">
+    {% endif %}
+<!--  output the post-->
+    <div class="col-sm-6">            
+        <div class="grid-2x2-block">
+            <div class="image" style="background-image: url('{{study.heroimg}}');">
+                <a href="{{ study.url }}"></a>
+            </div>            
+            <div class="content">                    
+                <h3>{{ study.heading }}</h3>
+                <p>{{study.synopsis}}</p>
+                <a href="{{ study.url }}" class="btn btn-ghost">Read More</a>
+            </div>    
+        </div>                        
+    </div>
+    {% if mod == 0 %}
+    <!-- close the row -->
+    </div>
+    {% endif %}
+
+{% endfor %}
+
+
+<!-- Pagination links -->
+ {% if paginator.page_trail %}
+    <div id="pagination" class="pagination">
+        <p class="current">Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</p>
+    <ul>
+    {% if paginator.previous_page %}
+     <li><a href="{{ '/studies/list/case-studies' | prepend: site.baseurl }}" title="{{trail.title}}">First Page</a></li>
+    {% endif %} 
+  {% for trail in paginator.page_trail %}
+    <li>
+        <a {% if page.url == trail.path %}style="background:#f1f1f1;color:#000;"{% endif %} href="{{ trail.path | prepend: site.baseurl | replace: '/index.html', ''}}" title="{{trail.title}}">{{ trail.num }}</a>
+    </li>
+  {% endfor %}
+  {% if paginator.next_page %}
+  <li><a href="{{ page.pagination_info.total_pages | prepend: '/studies/list/case-studies/' | prepend: site.baseurl }}" title="{{trail.title}}">Last Page</a></li>
+  {% endif %}
+  </ul>
+  </div>
+{% endif %}
+</div>
+</div>
+</div>
+</section>

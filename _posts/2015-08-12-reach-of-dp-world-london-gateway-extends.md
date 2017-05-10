@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Reach of DP World London Gateway extends
-url: reach-of-dp-world-london-gateway-extends
+posturl: reach-of-dp-world-london-gateway-extends
+metadesc: A new trade lane & expansion of port centric distribution at DP World London Gateway increase offer to UK importers and exporters
+apermalink: /blog/reach-of-dp-world-london-gateway-extends
 sectors:
   -  
 pubdate: 12/08/2015

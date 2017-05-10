@@ -1,18 +1,19 @@
 ---
 layout: case-study
 heading: Arecor
+synopsis: Arecor - a leading biopharmaceutical company
 url: arecor
 sectors:
   - life-sciences-healthcare-cluster
 related:
-  - /blog/essex-company-awarded-1.05-million-towards-improving-treatment-for-diabetes
-  - /blog/chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex
-  - /blog/essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-h
-  - /blog/how-distinctive-health-technology-capabilities-attract-life-science-and-hea
-  - /blog/specialist-plastics-company-opens-first-uk-premises-in-essex
-  - /blog/essex-the-uks-optimal-location-for-life-sciences-and-health-technology-comp
-  - /blog/chesterford-research-park-chosen-for-diabetes-research-laboratory-space
-pubdate: 19/01/2017
+  - essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
+  - chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex
+  - essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
+  - how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
+  - japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
+  - essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
+  - chesterford-research-park-chosen-for-diabetes-research-laboratory-space
+pubdate: 2017-01-19
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Chesterford_RP_2_1980.jpg'

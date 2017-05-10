@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The London-Essex UK Finance Corridor - London & international connectivity advantages
-url: the-london-essex-uk-finance-corridor-london-international-connectivity-advantages
+posturl: the-london-essex-uk-finance-corridor-london-international-connectivity-advantages
+metadesc: The London-Essex UK Finance Corridor - London & international connectivity advantages. London-Essex UK Finance Corridor key locations and connectivity.
+apermalink: /blog/the-london-essex-uk-finance-corridor-london-international-connectivity-advantages
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 10/05/2016

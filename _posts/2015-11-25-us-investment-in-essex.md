@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: US investment in Essex
-url: us-investment-in-essex
+posturl: us-investment-in-essex
+metadesc: US investment in Essex - county is attracting attention from US investors with investments in projects valuing £250-300million
+apermalink: /blog/us-investment-in-essex
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster

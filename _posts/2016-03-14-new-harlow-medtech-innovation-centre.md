@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: New Harlow MedTech Innovation Centre
-url: new-harlow-medtech-innovation-centre
+posturl: new-harlow-medtech-innovation-centre
+metadesc: New Harlow MedTech Innovation Centre announced. Science park campuses to attract international investment.
+apermalink: /blog/new-harlow-medtech-innovation-centre
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 14/03/2016

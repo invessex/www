@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex – an ideal location for a European HQ
-url: essex-an-ideal-location-for-a-european-hq
+posturl: essex-an-ideal-location-for-a-european-hq
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/essex-an-ideal-location-for-a-european-hq
 sectors:
   - high-technology-cluster 
 pubdate: 31/08/2011

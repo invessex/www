@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Logistics Businesses Find Space for Growth at ‘the UK’s Multimodal Gateway’
-url: logistics-businesses-find-space-for-growth-at-the-uks-multimodal-gateway
+posturl: logistics-businesses-find-space-for-growth-at-the-uks-multimodal-gateway
+metadesc: Logistics Businesses Find Space for Growth at ‘the UK’s Multimodal Gateway’. Essex has more than 1,000 acres of portcentric, tri-modal logistics sites…
+apermalink: /blog/logistics-businesses-find-space-for-growth-at-the-uks-multimodal-gateway
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 24/02/2016

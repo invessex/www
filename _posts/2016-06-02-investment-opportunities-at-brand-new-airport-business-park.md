@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Investment opportunities at brand new airport business park
-url: investment-opportunities-at-brand-new-airport-business-park
+posturl: investment-opportunities-at-brand-new-airport-business-park
+metadesc: Investment opportunities at brand new airport business park. The new £150 million Airport Business Park Southend is now taking enquiries from interested occupiers.
+apermalink: /blog/investment-opportunities-at-brand-new-airport-business-park
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster 

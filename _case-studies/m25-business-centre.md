@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: M25 Business Centre
+synopsis: M25 Business Centre providing high quality serviced office space
 url: m25-business-centre
 sectors:
   - london-essex-uk-finance-corridor
 related:
-  - /blog/office-expansion-in-essex
-pubdate: 15/02/2017
+  - office-expansion-in-essex
+pubdate: 2017-02-15
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/waltham-abbey_1980.jpg'

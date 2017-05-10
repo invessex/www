@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Purfleet is one step closer to becoming a major media and movie hub
-url: purfleet-is-one-step-closer-to-becoming-a-major-media-and-movie-hub
+posturl: purfleet-is-one-step-closer-to-becoming-a-major-media-and-movie-hub
+metadesc: Purfleet is one step closer to becoming a major media and movie hub thanks to a £27m investment from residential developers L&Q. This is the first phase of a £1bn regeneration project that will transform a brownfield site on the Thames Estuary. 
+apermalink: /blog/purfleet-is-one-step-closer-to-becoming-a-major-media-and-movie-hub
 sectors:
   -  
 pubdate: 26/01/2016

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Shipping agency moves operations to London Gateway Logistics Centre
-url: shipping-agency-moves-operations-to-london-gateway-logistics-centre
+posturl: shipping-agency-moves-operations-to-london-gateway-logistics-centre
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/shipping-agency-moves-operations-to-london-gateway-logistics-centre
 sectors:
   -  
 pubdate: 05/08/2015

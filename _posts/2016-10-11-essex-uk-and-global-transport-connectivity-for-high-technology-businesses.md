@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex UK and global transport connectivity for high-technology businesses…
-url: essex-uk-and-global-transport-connectivity-for-high-technology-businesses
+posturl: essex-uk-and-global-transport-connectivity-for-high-technology-businesses
+metadesc: Essex UK and global transport connectivity for high-technology businesses. A range of location advantages are attracting high-tech businesses to Essex...
+apermalink: /blog/essex-uk-and-global-transport-connectivity-for-high-technology-businesses
 sectors:
   - high-technology-cluster 
 pubdate: 11/10/2016

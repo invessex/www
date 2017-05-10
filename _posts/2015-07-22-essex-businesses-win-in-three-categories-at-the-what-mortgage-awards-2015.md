@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex businesses win in three categories at the What Mortgage Awards 2015
-url: essex-businesses-win-in-three-categories-at-the-what-mortgage-awards-2015
+posturl: essex-businesses-win-in-three-categories-at-the-what-mortgage-awards-2015
+metadesc: Essex businesses win in three categories at the What Mortgage Awards 2015
+apermalink: /blog/essex-businesses-win-in-three-categories-at-the-what-mortgage-awards-2015
 sectors:
   -  
 pubdate: 22/07/2015

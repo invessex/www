@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: World-Leading Life Science and Health Technology Research All Accessible from Essex
-url: world-leading-life-science-and-health-technology-research-all-accessible-from-essex
+posturl: world-leading-life-science-and-health-technology-research-all-accessible-from-essex
+metadesc: World-Leading Life Science and Health Technology Research All Accessible from Essex. Businesses located in Essex are ideally positioned to access world-leading university research
+apermalink: /blog/world-leading-life-science-and-health-technology-research-all-accessible-from-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 23/01/2017

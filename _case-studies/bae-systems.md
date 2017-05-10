@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: BAE Systems
+synopsis: Bae Systems - Building technology clusters in Essex.
 url: bae-systems
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 16/12/2016
+pubdate: 2016-12-16
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/BAE_Banner.jpg'

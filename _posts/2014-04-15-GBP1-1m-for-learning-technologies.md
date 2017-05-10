@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £1.1m for Learning Technologies
-url: GBP1-1m-for-learning-technologies
+posturl: GBP1-1m-for-learning-technologies
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/GBP1-1m-for-learning-technologies
 sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor

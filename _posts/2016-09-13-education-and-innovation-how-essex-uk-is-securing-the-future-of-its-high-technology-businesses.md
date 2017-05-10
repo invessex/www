@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Education and innovation how Essex UK is securing the future of its high-technology businesses
-url: education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-technology-businesses
+posturl: education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-technology-businesses
+metadesc: Education and innovation how Essex UK is securing the future of its high-technology businesses with specialist skills provision for high-technology industry
+apermalink: /blog/education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-technology-businesses
 sectors:
   - high-technology-cluster 
 pubdate: 13/09/2016

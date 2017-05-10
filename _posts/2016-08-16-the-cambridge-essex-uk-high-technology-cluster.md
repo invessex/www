@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The Cambridge-Essex UK High-Technology Cluster
-url: the-cambridge-essex-uk-high-technology-cluster
+posturl: the-cambridge-essex-uk-high-technology-cluster
+metadesc: The Cambridge-Essex UK High-Technology Cluster is the UK’s optimal location for high-technology businesses…
+apermalink: /blog/the-cambridge-essex-uk-high-technology-cluster
 sectors:
   - high-technology-cluster 
 pubdate: 16/08/2016

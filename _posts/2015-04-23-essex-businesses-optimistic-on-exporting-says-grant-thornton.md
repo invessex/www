@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex businesses optimistic on exporting says Grant Thornton
-url: essex-businesses-optimistic-on-exporting-says-grant-thornton
+posturl: essex-businesses-optimistic-on-exporting-says-grant-thornton
+metadesc: Businesses in the region looking to expand their overseas trade according to poll by Grant Thornton financial and business advisors, doing business with China, exporting to China
+apermalink: /blog/essex-businesses-optimistic-on-exporting-says-grant-thornton
 sectors:
   -  
 pubdate: 23/04/2015

@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: New Holland Agriculture
+synopsis: New Holland Agriculture – one of the global leaders in agricultural machinery manufacturing
 url: new-holland-agriculture
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 26/01/2017
+pubdate: 2017-01-26
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/BB_1290_Plus_16_421_1980.jpg'

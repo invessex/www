@@ -1,0 +1,57 @@
+<section id="contact-block" class="container-full-width container-content container-auto-height container-contact dark">    
+    <article class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <header class="section-header carousel-below clearfix ">
+                    <h2>Contact</h2>                       
+                </header> 
+            </div>
+        </div>
+        <div class="row row-contact-panels ">
+            <div class="col-sm-12">
+                <div class="contact-panel panel-group" id="accordion" role="tablist" aria-multiselectable="true">                
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="heading1">
+                            <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                            {{ contact.name }} <span>{{ contact.job_title }}</span>
+                            </a>
+                            </h4>
+                        </div>
+                        <div id="collapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1">
+                            <div class="panel-body">                                
+                                <div class="row-contact clearfix">
+                                    <div class="image">
+                                        <figure>
+                                            <img src="{{ contact.photo }}" alt="{{ contact.name }}" border="0">
+                                        </figure>
+                                    </div>
+                                    <div class="details">
+                                        <h5>{{ contact.name }}</h5>
+                                        <p class="job-title">{{ contact.job_title }}</p>
+                                        <p class="phone-number">{{ contact.telno }}</p>
+                                        <ul class="social-icons clearfix">
+                                            <li class="twitter"><a href="https://twitter.com/{{ contact.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li class="linkedin"><a href="https://www.linkedin.com/in/{{ contact.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a></li>                                               
+                                            <li class="email"><a href="mailto:{{ contact.email }}"><i class="fa fa-envelope"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="bio">
+                                        <h5>Biography</h5>
+                                        <p>{{ contact.bio }}</p>
+                                    </div>                                  
+                                </div>
+                                <div class="row-contact-buttons">
+                                    {% for sector in contact.sectors %}
+                                	<a href="/sectors/{{ sector }}" class="btn">{{ sector | replace: '-', ' ' | camelcase }}</a>
+                                    {% endfor %}
+                                    <a href="/contacts" class="btn">View All Contacts</a>                                                                                
+                                </div>                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </article>
+</section>

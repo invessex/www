@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Colchester Set for Ultra-High-Speed Broadband
-url: colchester-set-for-ultra-high-speed-broadband
+posturl: colchester-set-for-ultra-high-speed-broadband
+metadesc: Colchester Set for Ultra-High-Speed Broadband. Significant opportunity for digital and creative business development.
+apermalink: /blog/colchester-set-for-ultra-high-speed-broadband
 sectors:
   - high-technology-cluster 
 pubdate: 12/12/2016

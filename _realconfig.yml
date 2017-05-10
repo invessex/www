@@ -1,0 +1,104 @@
+# ----
+# Site
+
+title: investessex.co.uk
+url: "https://xxxxxxx.cloudvent.net"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: App marketing template for Jekyll.
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Frisco Template
+  links:
+    - https://github.com/CloudCannon/frisco-jekyll-template
+
+# -----
+# Build
+
+permalink: /blog/:slug
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  staff_members:
+    _hide_content: true
+  case-studies:
+    output: true
+    permalink: /studies/case-studies/:path
+  place-studies:
+    output: true
+    permalink: /studies/place-studies/:path
+  posts:
+    output: true
+    permalink: /blog/:slug
+  
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories','tags']
+  layout: 'archive'
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+    #year: '/:year/'
+    #month: '/:year/:month/'
+    #day: '/:year/:month/:day/'
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+
+# -----------
+# CloudCannon
+_editable_regions:
+  image:
+    url_src: true
+    
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - Email
+  - RSS
+
+_comments:
+  description: Text shown when sharing on social media
+  blurb: Short bio or description of this person

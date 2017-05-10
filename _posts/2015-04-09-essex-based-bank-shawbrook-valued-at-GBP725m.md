@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex based bank, Shawbrook, valued at £725m
-url: essex-based-bank-shawbrook-valued-at-GBP725m
+posturl: essex-based-bank-shawbrook-valued-at-GBP725m
+metadesc: Essex based Shawbrook Bank valued at £725m following formal admission on London Stock Exchange, LSE, initial public offering, IPO, specialist bank
+apermalink: /blog/essex-based-bank-shawbrook-valued-at-GBP725m
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 09/04/2015

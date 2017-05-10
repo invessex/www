@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The London Advantage Without the Costs The London-Essex UK Finance Corridor
-url: the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
+posturl: the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
+metadesc: The London-Essex UK Finance Corridor extends eastwards from the City of London incorporating key Essex towns
+apermalink: /blog/the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 05/04/2016

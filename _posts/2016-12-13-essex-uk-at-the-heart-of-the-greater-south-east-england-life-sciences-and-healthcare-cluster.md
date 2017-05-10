@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex UK At the Heart of the ‘Greater South East England’ Life Sciences and Healthcare Cluster
-url: essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
+posturl: essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
+metadesc: Essex UK At the Heart of the 'Greater South East England' Life Sciences and Healthcare Cluster. Essex offers distinct location advantages to health technology companies
+apermalink: /blog/essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 13/12/2016

@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Maycast Nokes
+synopsis: A leading manufacturer of high-quality castings
 url: maycast-nokes
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 03/04/2017
+pubdate: 2017-04-03
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/aa_015_maycast_nokes_24_1980.jpg'

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: INVEST Essex helping companies relocate within the county
-url: invest-essex-helping-companies-relocate-within-the-county
+posturl: invest-essex-helping-companies-relocate-within-the-county
+metadesc: INVEST Essex helping companies relocate within the county. Essex offers significant cost advantages for companies looking to be close to London & Cambridge. 
+apermalink: /blog/invest-essex-helping-companies-relocate-within-the-county
 sectors:
   - london-essex-uk-finance-corridor
   - life-sciences-healthcare-cluster 

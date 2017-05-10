@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £500,000 business growth loan fund offered to innovative businesses
-url: GBP500000-business-growth-loan-fund-offered-to-innovative-businesses
+posturl: GBP500000-business-growth-loan-fund-offered-to-innovative-businesses
+metadesc: £500,000 business growth loan fund offered to innovative businesses. Growing businesses in the Braintree District area invited to apply for capital investment loans.
+apermalink: /blog/GBP500000-business-growth-loan-fund-offered-to-innovative-businesses
 sectors:
   -  
 pubdate: 30/03/2016

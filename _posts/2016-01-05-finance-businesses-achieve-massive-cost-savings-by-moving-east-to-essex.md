@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Finance Businesses Achieve Massive Cost Savings by Moving East – to Essex
-url: finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
+posturl: finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
+metadesc: Finance Businesses Achieve Massive Cost Savings by Moving East to Essex - the London-Essex UK Finance Corridor 
+apermalink: /blog/finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 05/01/2016

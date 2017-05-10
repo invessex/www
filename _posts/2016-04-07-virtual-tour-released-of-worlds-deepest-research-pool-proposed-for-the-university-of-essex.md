@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Virtual tour released of world’s deepest research pool proposed for the University of Essex
-url: virtual-tour-released-of-worlds-deepest-research-pool-proposed-for-the-university-of-essex
+posturl: virtual-tour-released-of-worlds-deepest-research-pool-proposed-for-the-university-of-essex
+metadesc: Virtual tour released of world’s deepest research pool proposed for the University of Essex. £40m Blue Abyss Project, backed by British astronaut Major Tim Peake, is one step closer to development
+apermalink: /blog/virtual-tour-released-of-worlds-deepest-research-pool-proposed-for-the-university-of-essex
 sectors:
   - high-technology-cluster 
 pubdate: 07/04/2016

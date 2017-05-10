@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Technology Strategy Board Launches £5 Million Innovation in Location-Based Services
-url: technology-strategy-board-launches-GBP5-million-innovation-in-location-based-services
+posturl: technology-strategy-board-launches-GBP5-million-innovation-in-location-based-services
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/technology-strategy-board-launches-GBP5-million-innovation-in-location-based-services
 sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor

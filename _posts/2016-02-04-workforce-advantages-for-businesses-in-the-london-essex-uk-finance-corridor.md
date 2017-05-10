@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Workforce Advantages for Businesses in the London-Essex UK Finance Corridor
-url: workforce-advantages-for-businesses-in-the-london-essex-uk-finance-corridor
+posturl: workforce-advantages-for-businesses-in-the-london-essex-uk-finance-corridor
+metadesc: The London-Essex UK Finance Corridor – extending from the City eastwards into Essex – has attracted leading financial services business seeking to combine reduced costs with fast transport access to London.
+apermalink: /blog/workforce-advantages-for-businesses-in-the-london-essex-uk-finance-corridor
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 04/02/2016

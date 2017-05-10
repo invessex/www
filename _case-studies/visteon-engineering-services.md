@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Visteon Engineering Services
+synopsis: Visteon Engineering Services - Innovation for the global automotive industry.
 url: visteon-engineering-services
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Visteon_Banner.jpg'

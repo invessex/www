@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: The specialist workforce that sustains Essex’s growing high-technology cluster
-url: the-specialist-workforce-that-sustains-essexs-growing-high-technology-cluster
+posturl: the-specialist-workforce-that-sustains-essexs-growing-high-technology-cluster
+metadesc: The specialist workforce that sustains Essex’s growing high-technology cluster. Essex provides access to Cambridge & London knowledge workers & reduced labour costs.
+apermalink: /blog/the-specialist-workforce-that-sustains-essexs-growing-high-technology-cluster
 sectors:
   - high-technology-cluster 
 pubdate: 14/06/2016

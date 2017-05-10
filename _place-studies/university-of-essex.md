@@ -8,7 +8,7 @@ related:
   - /studies/place-studies/university-of-essex
   - /studies/place-studies/colchester-business-park
   - /studies/place-studies/earls-colne-business-park 
-pubdate: 27/04/2017
+pubdate: 2017-04-27
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Uni_Essex_banner.jpg'

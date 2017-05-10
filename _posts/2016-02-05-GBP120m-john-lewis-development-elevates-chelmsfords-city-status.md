@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: £120m John Lewis development elevates Chelmsford’s city status
-url: GBP120m-john-lewis-development-elevates-chelmsfords-city-status
+posturl: GBP120m-john-lewis-development-elevates-chelmsfords-city-status
+metadesc: £120m John Lewis development elevates Chelmsford’s city status. Bond Street development includes a retail & leisure offer previously only available in London.
+apermalink: /blog/GBP120m-john-lewis-development-elevates-chelmsfords-city-status
 sectors:
   -  
 pubdate: 05/02/2016

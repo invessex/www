@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: James Hallam Ltd - Insurance Brokers
+synopsis: Essex is convenient for London, train services makes it easy to meet clients
 url: james-hallam-ltd-insurance-brokers
 sectors:
   - london-essex-uk-finance-corridor
 related:
 
-pubdate: 11/04/2014
+pubdate: 2014-04-11
 Author: Paul Martin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/ECC5_940x327.jpg'

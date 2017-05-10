@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: South Essex the location of choice for outsourcing
-url: south-essex-the-location-of-choice-for-outsourcing
+posturl: south-essex-the-location-of-choice-for-outsourcing
+metadesc: South Essex the location of choice for outsourcing. Ventrica has seen a 50% growth in turnover last year
+apermalink: /blog/south-essex-the-location-of-choice-for-outsourcing
 sectors:
   - london-essex-uk-finance-corridor 
 pubdate: 16/11/2015

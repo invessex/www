@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Changes to the Union Customs Code & Safety of Life at Sea regulations
-url: changes-to-the-union-customs-code-safety-of-life-at-sea-regulations
+posturl: changes-to-the-union-customs-code-safety-of-life-at-sea-regulations
+metadesc: Changes to the Union Customs Code & Safety of Life at Sea regulations which will come into force in 2016 & have an impact on international trade
+apermalink: /blog/changes-to-the-union-customs-code-safety-of-life-at-sea-regulations
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 02/02/2016

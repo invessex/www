@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: QuickLink Systems
+synopsis: QuickLink Systems - Innovative educational resources.
 url: quicklink-systems
 sectors:
 
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Quicklinks_banner.jpg'

@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: US technology and innovation company commit to large scale investment in Essex
-url: us-technology-and-innovation-company-commit-to-large-scale-investment-in-essex
+posturl: us-technology-and-innovation-company-commit-to-large-scale-investment-in-essex
+metadesc: Raytheon is to move its entire UK research and development operation to the Harlow Enterprise Zone
+apermalink: /blog/us-technology-and-innovation-company-commit-to-large-scale-investment-in-essex
 sectors:
   - high-technology-cluster
   - life-sciences-healthcare-cluster 

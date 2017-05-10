@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Enplas
+synopsis: Enplas - one of the largest independent manufacturers of engineered plastics
 url: enplas
 sectors:
   - life-sciences-healthcare-cluster
 related:
-  - /blog/specialist-plastics-company-opens-first-uk-premises-in-essex
-pubdate: 21/12/2016
+  - japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
+pubdate: 2016-12-21
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg'

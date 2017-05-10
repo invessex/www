@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Med Tech research and development in Essex
-url: med-tech-research-and-development-in-essex
+posturl: med-tech-research-and-development-in-essex
+metadesc: Med Tech research and development in Essex, Anglia Ruskin MedTech, Anglia Ruskin University MedBIC, Anglia Ruskin Postgraduate Medical Institute (PMI), University of Essex, Olympus Keymed, e2v
+apermalink: /blog/med-tech-research-and-development-in-essex
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 19/05/2015

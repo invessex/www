@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: World’s largest automotive services co. injects investment in vehicle logistics firm
-url: worlds-largest-automotive-services-co-injects-investment-in-vehicle-logistics-firm
+posturl: worlds-largest-automotive-services-co-injects-investment-in-vehicle-logistics-firm
+metadesc: Manheim part of the world's largest automotive services company injects investment in vehicle logistics firm Movex
+apermalink: /blog/worlds-largest-automotive-services-co-injects-investment-in-vehicle-logistics-firm
 sectors:
   -  
 pubdate: 27/08/2015

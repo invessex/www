@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: e2v to capture first ever close up images of Pluto
-url: e2v-to-capture-first-ever-close-up-images-of-pluto
+posturl: e2v-to-capture-first-ever-close-up-images-of-pluto
+metadesc: e2v to capture first ever close up images of Pluto
+apermalink: /blog/e2v-to-capture-first-ever-close-up-images-of-pluto
 sectors:
   - high-technology-cluster 
 pubdate: 01/01/1970

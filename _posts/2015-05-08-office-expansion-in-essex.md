@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Office expansion in Essex
-url: office-expansion-in-essex
+posturl: office-expansion-in-essex
+metadesc: Spacio designs new Benefit Cosmetics headquarters in Chelmsford. Business growth in Essex with developments such as Tri Sail Towers, Skyline 120, Eastlink & M25 Business Centre.
+apermalink: /blog/office-expansion-in-essex
 sectors:
   -  
 pubdate: 08/05/2015

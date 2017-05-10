@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: How Essex’s Multimodal Connectivity Saves Money and Emissions for Logistics Businesses
-url: how-essexs-multimodal-connectivity-saves-money-and-emissions-for-logistics-businesses
+posturl: how-essexs-multimodal-connectivity-saves-money-and-emissions-for-logistics-businesses
+metadesc: How Essex’s Multimodal Connectivity Saves Money and Emissions for Logistics Businesses. Access to multiple transport modes helps logistics planners maximise efficiency and minimise costs while maintaining supply chain integrity.
+apermalink: /blog/how-essexs-multimodal-connectivity-saves-money-and-emissions-for-logistics-businesses
 sectors:
   - uk-multimodal-gateway-essex 
 pubdate: 19/01/2016

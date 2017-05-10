@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: UK’s most technically advanced quay cranes delivered to DP World London Gateway
-url: uks-most-technically-advanced-quay-cranes-delivered-to-dp-world-london-gateway
+posturl: uks-most-technically-advanced-quay-cranes-delivered-to-dp-world-london-gateway
+metadesc: For UK business relocation and professional business relocation services contact Invest Essex today! Email contact@investessex.co.uk.
+apermalink: /blog/uks-most-technically-advanced-quay-cranes-delivered-to-dp-world-london-gateway
 sectors:
   -  
 pubdate: 17/06/2016

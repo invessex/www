@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Leonardo
+synopsis: Leonardo – a global high-tech company specialising in aerospace, defence and security
 url: leonardo
 sectors:
   - high-technology-cluster
 related:
 
-pubdate: 15/03/2017
+pubdate: 2017-03-15
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Leonardo_office_1980.jpg'

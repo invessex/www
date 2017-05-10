@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: RWO Marine
+synopsis: RWO Marine is an Essex company manufacturing high-performance equipment for sailing vessels around the world.
 url: rwo-marine
 sectors:
 
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://essexinnovation.co.uk/uploads/studies/RWO_1980x600px.jpg'

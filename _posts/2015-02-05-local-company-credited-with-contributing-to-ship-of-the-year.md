@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Local company credited with contributing to Ship of the Year
-url: local-company-credited-with-contributing-to-ship-of-the-year
+posturl: local-company-credited-with-contributing-to-ship-of-the-year
+metadesc: Ship of the Year, Servowatch, marine automation, Essex, Dutch Sea Rescue
+apermalink: /blog/local-company-credited-with-contributing-to-ship-of-the-year
 sectors:
   - high-technology-cluster 
 pubdate: 05/02/2015

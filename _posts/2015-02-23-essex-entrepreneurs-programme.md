@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex Entrepreneurs Programme
-url: essex-entrepreneurs-programme
+posturl: essex-entrepreneurs-programme
+metadesc: Essex Entrepreneurs Programme, Essex Innovation Programme
+apermalink: /blog/essex-entrepreneurs-programme
 sectors:
   -  
 pubdate: 23/02/2015

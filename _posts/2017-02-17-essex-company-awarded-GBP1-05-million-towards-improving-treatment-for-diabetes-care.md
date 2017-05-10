@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Essex company awarded £1.05 million towards improving treatment for diabetes care
-url: essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
+posturl: essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
+metadesc: Essex company awarded £1.05 million towards improving treatment for diabetes care. Arecor wins Innovate UK grant to develop liquid glucagon for severe hypoglycaemia
+apermalink: /blog/essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
 sectors:
   - life-sciences-healthcare-cluster 
 pubdate: 17/02/2017

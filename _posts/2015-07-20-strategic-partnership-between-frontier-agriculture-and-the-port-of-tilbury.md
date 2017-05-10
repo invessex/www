@@ -1,7 +1,9 @@
 ---
 layout: post
 heading: Strategic partnership between Frontier Agriculture and the Port of Tilbury
-url: strategic-partnership-between-frontier-agriculture-and-the-port-of-tilbury
+posturl: strategic-partnership-between-frontier-agriculture-and-the-port-of-tilbury
+metadesc: Strategic partnership announced between Frontier Agriculture and the Port of Tilbury
+apermalink: /blog/strategic-partnership-between-frontier-agriculture-and-the-port-of-tilbury
 sectors:
   -  
 pubdate: 20/07/2015

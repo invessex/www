@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Illumina
+synopsis: Illumina - Accelerating the understanding of human genetics.
 url: illumina
 sectors:
   - life-sciences-healthcare-cluster
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Illumina_banner.jpg'

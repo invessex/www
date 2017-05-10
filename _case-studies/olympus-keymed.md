@@ -1,12 +1,13 @@
 ---
 layout: case-study
 heading: Olympus KeyMed
+synopsis: Olympus KeyMed - Award-winning global market leader.
 url: olympus-keymed
 sectors:
   - life-sciences-healthcare-cluster
 related:
 
-pubdate: 23/08/2012
+pubdate: 2012-08-23
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Olympus_Banner.jpg'
