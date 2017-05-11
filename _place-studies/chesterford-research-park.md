@@ -6,7 +6,7 @@ sectors:
   - life-sciences-healthcare-cluster
 related:
  
-pubdate: 2017-02-15
+pubdate: 2017-02-15 00:00:00
 Author: 
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg'

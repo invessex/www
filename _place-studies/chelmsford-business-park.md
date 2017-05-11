@@ -11,7 +11,7 @@ related:
   - /studies/place-studies/braintree-skyline120
   - /studies/place-studies/colchester-business-park
   - /studies/place-studies/earls-colne-business-park 
-pubdate: 2012-08-23
+pubdate: 2012-08-23 00:00:00
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/PS_ChelmsfordBusinessPark_Banner.jpg'

@@ -13,7 +13,7 @@ related:
   - /studies/place-studies/london-southend-airport
   - /studies/place-studies/london-stansted-airport
   - /studies/place-studies/port-of-tilbury 
-pubdate: 2012-08-23
+pubdate: 2012-08-23 00:00:00
 Author: pxadmin
 thumb: 
 heroimg: 'http://investessex.co.uk/uploads/studies/Sunset_over_harwich_940.jpg'
