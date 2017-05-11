@@ -40,7 +40,8 @@ collections:
     output: true
     permalink: /sectors/:path
   contacts:
-    _hide_content: true
+    output: true
+    permalink: /contacts/:path
 
   
 
