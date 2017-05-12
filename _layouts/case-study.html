@@ -57,8 +57,7 @@ layout: default
         </div>           
     </article>    
 </section>
-{% assign contact = site.contacts | where: "name", page.contact | first%}
-
+{% assign thecontact = site.contacts | where: "contact_url", page.contact | first %}
 {% include contactblock.html %}    
 
 </body>

@@ -1,6 +1,6 @@
 ---
 name: Simon Papworth
-url: simon-papworth
+contact_url: simon-papworth
 job_title: Inward Investment Manager (High-Technology Cluster)
 photo: //investessex.co.uk/uploads/contacts/SPapworth_175px.jpg
 telno: +44 (0) 7515 199255

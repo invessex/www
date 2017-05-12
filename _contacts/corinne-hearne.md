@@ -1,6 +1,6 @@
 ---
 name: Corinne  Hearne
-url: corinne-hearne
+contact_url: corinne-hearne
 job_title: Inward Investment Manager (London-Essex UK Finance Corridor)
 photo: //investessex.co.uk/uploads/contacts/CHearne_175px.jpg
 telno: +44 (0) 7702 900667

@@ -1,6 +1,6 @@
 ---
 name: Robert Edge
-url: robert-edge
+contact_url: robert-edge
 job_title: Inward Investment Manager (UK Multimodal Gateway - Essex)
 photo: //investessex.co.uk/uploads/contacts/REdge_175px.jpg
 telno: +44 (0) 7515 199255
