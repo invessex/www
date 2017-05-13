@@ -42,6 +42,9 @@ collections:
   contacts:
     output: true
     permalink: /contacts/:path
+  events:
+    output: true
+    permalink: /events/:path
 
   
 
