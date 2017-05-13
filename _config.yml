@@ -45,6 +45,9 @@ collections:
   events:
     output: true
     permalink: /events/:path
+  invest-essex-events:
+    output: true
+    permalink: /invest-essex-events/:path
 
   
 
