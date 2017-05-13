@@ -43,10 +43,10 @@ collections:
     output: true
     permalink: /contacts/:path
   events:
-    output: true
+    output: false
     permalink: /events/:path
   invest-essex-events:
-    output: true
+    output: false
     permalink: /invest-essex-events/:path
 
   
