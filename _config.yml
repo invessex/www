@@ -42,6 +42,12 @@ collections:
   contacts:
     output: true
     permalink: /contacts/:path
+  events:
+    output: false
+    permalink: /events/:path
+  invest-essex-events:
+    output: false
+    permalink: /invest-essex-events/:path
 
   
 
