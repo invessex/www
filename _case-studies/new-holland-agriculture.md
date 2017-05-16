@@ -2,7 +2,7 @@
 Author: null
 contact: simon-papworth
 heading: New Holland Agriculture
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/BB_1290_Plus_16_421_1980.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/BB_1290_Plus_16_421_1980.jpg
 layout: case-study
 pub_date: '2017-01-26 00:00:00'
 related: null
@@ -10,7 +10,7 @@ sectors:
 - high-technology-cluster
 synopsis: "New Holland Agriculture \u2013 one of the global leaders in agricultural\
   \ machinery manufacturing"
-thumb: None
+thumbnail_image: None
 url: new-holland-agriculture
 ---
 

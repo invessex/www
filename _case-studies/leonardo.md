@@ -2,7 +2,7 @@
 Author: null
 contact: simon-papworth
 heading: Leonardo
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Leonardo_office_1980.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Leonardo_office_1980.jpg
 layout: case-study
 pub_date: '2017-03-15 00:00:00'
 related: null
@@ -10,7 +10,7 @@ sectors:
 - high-technology-cluster
 synopsis: "Leonardo \u2013 a global high-tech company specialising in aerospace, defence\
   \ and security"
-thumb: None
+thumbnail_image: None
 url: leonardo
 ---
 

@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: simon-papworth
 heading: BAE Systems
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/BAE_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/BAE_Banner.jpg
 layout: case-study
 pub_date: '2016-12-16 00:00:00'
 related: null
 sectors:
 - high-technology-cluster
 synopsis: Bae Systems - Building technology clusters in Essex.
-thumb: None
+thumbnail_image: None
 url: bae-systems
 ---
 

@@ -14,7 +14,13 @@ title: All Contacts
      </article>     
 </section>
 {% for contact in site.contacts %}
-<section id="contact-block" class="container-full-width container-content container-contacts-list container-auto-height  light">
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 0 %}
+        {% assign bgstyle = 'grey' %}
+    {% else %}
+        {% assign bgstyle = 'light' %}
+    {% endif %}
+<section id="contact-block" class="container-full-width container-content container-contacts-list container-auto-height  {{ bgstyle }}">
     <article class="container">               
         <div class="row">
             <div class="col-sm-12"> 

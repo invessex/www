@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: London Southend Airport
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_SouthendAirport_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_SouthendAirport_Banner.jpg
 layout: place-study
 pub_date: 2017-04-27 00:00:00
 related:
@@ -16,7 +16,7 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
-thumb: None
+thumbnail_image: None
 url: london-southend-airport
 ---
 

@@ -2,7 +2,7 @@
 Author: null
 contact: corinne-hearne
 heading: Ventrica
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PTAIT_20150112_0579_1980.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PTAIT_20150112_0579_1980.jpg
 layout: case-study
 pub_date: '2017-01-13 00:00:00'
 related:
@@ -12,7 +12,7 @@ related:
 sectors:
 - london-essex-uk-finance-corridor
 synopsis: "Ventrica \u2013 a fast-growing outsourced contact centre business"
-thumb: None
+thumbnail_image: None
 url: ventrica
 ---
 

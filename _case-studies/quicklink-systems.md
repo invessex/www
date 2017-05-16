@@ -2,13 +2,13 @@
 Author: pxadmin
 contact: david-rooke
 heading: QuickLink Systems
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Quicklinks_banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Quicklinks_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors: null
 synopsis: QuickLink Systems - Innovative educational resources.
-thumb: None
+thumbnail_image: None
 url: quicklink-systems
 ---
 

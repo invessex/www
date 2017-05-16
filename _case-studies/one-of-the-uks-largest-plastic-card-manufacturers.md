@@ -2,7 +2,7 @@
 Author: null
 contact: corinne-hearne
 heading: "One of the UK\u2019s largest plastic card manufacturers"
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/TCT_Building2_600H.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/TCT_Building2_600H.jpg
 layout: case-study
 pub_date: '2017-04-25 00:00:00'
 related:
@@ -11,7 +11,7 @@ related:
 sectors:
 - london-essex-uk-finance-corridor
 synopsis: Thames Card Technology supply blue chip customers across various industries
-thumb: None
+thumbnail_image: None
 url: one-of-the-uks-largest-plastic-card-manufacturers
 ---
 

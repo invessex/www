@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: simon-papworth
 heading: Servowatch
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/ServoWatch_banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/ServoWatch_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - high-technology-cluster
 synopsis: Servowatch - Innovation in global marine automation.
-thumb: None
+thumbnail_image: None
 url: servowatch
 ---
 

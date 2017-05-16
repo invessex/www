@@ -2,14 +2,14 @@
 Author: null
 contact: david-rooke
 heading: Harlow Enterprise Zone
-heroimg: //clarity-strategies.github.io/ie-uploads/uploads/studies/DSC_6790a_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/DSC_6790a_1980.jpg
 layout: place-study
 pub_date: 2017-02-22 00:00:00
 related: null
 sectors:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
-thumb: None
+thumbnail_image: None
 url: harlow-enterprise-zone
 ---
 

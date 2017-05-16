@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: dave-russell-graham
 heading: Martindale Pharma
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Martindale_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Martindale_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - life-sciences-healthcare-cluster
 synopsis: Martindale Pharma - Supplying healthcare professionals worldwide.
-thumb: None
+thumbnail_image: None
 url: martindale-pharma
 ---
 

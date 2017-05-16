@@ -2,14 +2,14 @@
 Author: null
 contact: simon-papworth
 heading: Maycast Nokes
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/aa_015_maycast_nokes_24_1980.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/aa_015_maycast_nokes_24_1980.jpg
 layout: case-study
 pub_date: '2017-04-03 00:00:00'
 related: null
 sectors:
 - high-technology-cluster
 synopsis: A leading manufacturer of high-quality castings
-thumb: None
+thumbnail_image: None
 url: maycast-nokes
 ---
 

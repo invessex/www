@@ -3,7 +3,7 @@ Author: Jacinda
 apermalink: /blog/profits-more-than-double-at-tiptree-jam-producer
 contact: david-rooke
 heading: Profits more than double at Tiptree jam producer
-heroimg: null
+hero_image: null
 layout: post
 metadesc: Profits more than double at Wilkin & Sons, world famous Essex producer of
   jams and preserves
@@ -11,7 +11,7 @@ posturl: profits-more-than-double-at-tiptree-jam-producer
 pub_date: '2015-07-31 00:00:00'
 sectors:
 - null
-thumb: //clarity-strategies.github.io/ie-uploads/uploads/blog/Tiptree_Jam_mini.jpg
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Tiptree_Jam_mini.jpg
 ---
 
 <p>Profits at Wilkin &amp; Sons have more than doubled to almost £1.5 million in a year rising from £557,000 to £2.1 million. The producer of Tiptree jams and marmalades attributed the 2014 results to improved performances from its farms and bakeries. With turnover showing a 3% increase, Wilkin &amp; Sons also increased staff numbers from 461 to a record 485.</p><blockquote><img alt='Wilkin &amp; Sons jams and preserves' src='//clarity-strategies.github.io/ie-uploads/uploads/blog/Tiptree_Jam_300.jpg' style='width: 300px; height: 199px; margin-left: 2px; margin-right: 2px; float: right;'/><p>'2014 may have been an unexceptional year in terms of events but it was certainly a good year in terms of outcomes and my sincere thanks go to my fellow directors and all the company's staff for this achievement.'<br/>Peter Wilkin, Chairman, Wilkin &amp; Sons</p></blockquote><p><strong>Expanding the jam business</strong><br/>Figures for Wilkin &amp; Sons jam business marginally exceeded its previous sales record set in 2013. Exact sales figures for the UK preserves market were obscured by the sales of honey, sauces, pickles, chutneys and relishes. Wilkin &amp; Sons products, including Cole's Puddings, Thursday Cottage and Tiptree Patisserie, can be found in high end hotels, restaurants, Eurostar and supermarkets.<br/><br/>The overseas market continues to grow with the range of Wilkin &amp; Sons jams and marmalades currently exported to more than 70 countries. </p><blockquote><p>“The Tiptree name is now a global brand with a long history of success. The Wilkin family has been farming in Tiptree since 1711 and has produced jam since 1885.”<br/>Ian Thurgood, Joint Managing Director, Wilkin &amp; Sons</p></blockquote><p><strong>About the Tiptree brand</strong><br/><img alt='Wilkin &amp; Sons producers of Tiptree jams &amp; preserves' src='//clarity-strategies.github.io/ie-uploads/uploads/blog/Fruit_picking_300.jpg' style='width: 300px; height: 199px; margin-left: 2px; margin-right: 2px; float: right;'/>Kept within the Wilkin family since the mid-19th century, Tiptree is a quintessentially English brand producing conserves, jellies, curds and sauces using fruit grown on their very own farms in Essex, including their famous mulberries and the company has been a holder of a Royal Warrant from the reigning monarch since 1911.<br/><br/>Earlier this year Wilkin &amp; Sons won an award for ‘Britain’s favourite food producer’ from Landlove magazine which celebrates the best of produce from the British countryside.<br/><br/>See <a href='http://www.investessex.co.uk/studies/case-studies/wilkin-sons/' target='_blank'>here</a> for more information on Wilkin &amp; Sons.<br/><br/>Source [<a href='http://www.insidermedia.com/insider/central-and-east/143547-profits-soar-historic-jam-maker/' target='_blank'>Insider Media</a>]</p>

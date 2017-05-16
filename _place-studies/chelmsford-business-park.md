@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: Chelmsford Business Park
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_ChelmsfordBusinessPark_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_ChelmsfordBusinessPark_Banner.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -14,7 +14,7 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
-thumb: None
+thumbnail_image: None
 url: chelmsford-business-park
 ---
 

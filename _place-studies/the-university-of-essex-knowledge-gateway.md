@@ -2,13 +2,13 @@
 Author: Paul Martin
 contact: david-rooke
 heading: The University of Essex Knowledge Gateway
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/KG_Image_6-EBS_CGI_-_940-x327.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/KG_Image_6-EBS_CGI_-_940-x327.jpg
 layout: place-study
 pub_date: 2017-04-27 00:00:00
 related: null
 sectors:
 - london-essex-uk-finance-corridor
-thumb: None
+thumbnail_image: None
 url: the-university-of-essex-knowledge-gateway
 ---
 

@@ -2,14 +2,14 @@
 Author: null
 contact: simon-papworth
 heading: Harlow Group
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Harlow_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Harlow_Banner.jpg
 layout: case-study
 pub_date: '2015-04-13 00:00:00'
 related: null
 sectors: null
 synopsis: "The Harlow Group, one of the UK\u2019s leading manufacturers of precision\
   \ sheet metal components"
-thumb: None
+thumbnail_image: None
 url: harlow-group
 ---
 

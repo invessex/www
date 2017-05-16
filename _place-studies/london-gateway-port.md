@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: London Gateway Port
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_LondonGateway_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_LondonGateway_Banner.jpg
 layout: place-study
 pub_date: 2017-02-20 00:00:00
 related:
@@ -16,7 +16,7 @@ sectors:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
-thumb: None
+thumbnail_image: None
 url: london-gateway-port
 ---
 

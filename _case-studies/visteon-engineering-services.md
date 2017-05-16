@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: simon-papworth
 heading: Visteon Engineering Services
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Visteon_Banner.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Visteon_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - high-technology-cluster
 synopsis: Visteon Engineering Services - Innovation for the global automotive industry.
-thumb: None
+thumbnail_image: None
 url: visteon-engineering-services
 ---
 

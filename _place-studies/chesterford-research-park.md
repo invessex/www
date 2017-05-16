@@ -2,13 +2,13 @@
 Author: null
 contact: dave-russell-graham
 heading: Chesterford Research Park
-heroimg: http://clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
+hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
 layout: place-study
 pub_date: 2017-02-15 00:00:00
 related: null
 sectors:
 - life-sciences-healthcare-cluster
-thumb: None
+thumbnail_image: None
 url: chesterford-research-park
 ---
 
