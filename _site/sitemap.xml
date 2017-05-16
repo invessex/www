@@ -595,7 +595,13 @@
 <loc>http://127.0.0.100:4000/studies/case-studies/bae-systems</loc>
 </url>
 <url>
+<loc>http://127.0.0.100:4000/studies/case-studies/birthplace-of-radio</loc>
+</url>
+<url>
 <loc>http://127.0.0.100:4000/studies/case-studies/clement-clarke-international</loc>
+</url>
+<url>
+<loc>http://127.0.0.100:4000/studies/case-studies/cml-microsystems</loc>
 </url>
 <url>
 <loc>http://127.0.0.100:4000/studies/case-studies/e2v-technologies</loc>
@@ -607,6 +613,12 @@
 <loc>http://127.0.0.100:4000/studies/case-studies/flakt-woods</loc>
 </url>
 <url>
+<loc>http://127.0.0.100:4000/studies/case-studies/ford</loc>
+</url>
+<url>
+<loc>http://127.0.0.100:4000/studies/case-studies/gigawave</loc>
+</url>
+<url>
 <loc>http://127.0.0.100:4000/studies/case-studies/harlow-group</loc>
 </url>
 <url>
@@ -614,6 +626,9 @@
 </url>
 <url>
 <loc>http://127.0.0.100:4000/studies/case-studies/international-financial-data-services-ifds</loc>
+</url>
+<url>
+<loc>http://127.0.0.100:4000/studies/case-studies/j-w-froehlich-uk</loc>
 </url>
 <url>
 <loc>http://127.0.0.100:4000/studies/case-studies/james-hallam-ltd-insurance-brokers</loc>
@@ -640,9 +655,6 @@
 <loc>http://127.0.0.100:4000/studies/case-studies/olympus-keymed</loc>
 </url>
 <url>
-<loc>http://127.0.0.100:4000/studies/case-studies/one-of-the-uks-largest-plastic-card-manufacturers</loc>
-</url>
-<url>
 <loc>http://127.0.0.100:4000/studies/case-studies/pheonix-product-development</loc>
 </url>
 <url>
@@ -659,6 +671,9 @@
 </url>
 <url>
 <loc>http://127.0.0.100:4000/studies/case-studies/tarmin-inc</loc>
+</url>
+<url>
+<loc>http://127.0.0.100:4000/studies/case-studies/thames-card-technology</loc>
 </url>
 <url>
 <loc>http://127.0.0.100:4000/studies/case-studies/uniserve-group</loc>

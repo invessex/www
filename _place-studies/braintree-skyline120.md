@@ -1,5 +1,6 @@
 ---
 Author: pxadmin
+display: true
 contact: david-rooke
 heading: Braintree Skyline120
 hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_BraintreeSkyline_Banner.jpg
@@ -14,7 +15,7 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Skyline120_555x440.jpg
 url: braintree-skyline120
 ---
 

@@ -1,8 +1,9 @@
 ---
 Author: pxadmin
+display: true
 contact: david-rooke
 heading: Harwich International Port
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -16,7 +17,7 @@ sectors:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
 url: harwich-international-port
 ---
 

@@ -146,17 +146,16 @@ if(redirect !=false){
 
 
 
-	<section class="container-full-width container-subpage-hero dark"  style="background-image: url('http://investessex.co.uk/uploads/headers/LifeSc_Hero_Overlay_1980x600.jpg');">
-
+	<section class="container-full-width container-subpage-hero dark"  style="background-image: url('{{ site.cdn_images}} {{ page.hero_image }}');">
     
                 
     <div class="container">           
              
         <div class="inner">     
             <header class="section-header clearfix to-be-animated">
-                <h1>Life Sciences &<br/>Healthcare Cluster</h1>
+                <h1>{{ page.H1 }}</h1>
                 <div class="synopsis">
-					Essex is located at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses within Europe’s largest Life Sciences and Healthcare technologies cluster. 
+					{{ page.synopsis }} 
                 </div>
             </header> 
         </div>
@@ -181,13 +180,15 @@ if(redirect !=false){
     <div class="carousel-nav-owl carousel-nav-sidebar-case-studies clearfix ">
         <div class="controls"></div>
     </div> 
-    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-case-studies">   
+    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-case-studies">  
+      {% for case in page.related_case_studies %}
        <div class="inner">
-          <div class="image" style="background-image: url('http://investessex.co.uk/uploads/studies/diabetes-1_555.jpg');"></div>
-                <h6>Arecor</h6>
-                <p>Arecor - a leading biopharmaceutical company </p>
-                 <a href="/studies/case-studies/arecor" class="btn">Read More</a>
-          </div>         
+          <div class="image" style="background-image: url('{{ case.thumbnail_image }}');"></div>
+                <h6>{{ case.heading }}</h6>
+                <p>{{ case.synopsis }}</p>
+                 <a href="/studies/case-studies/{{ case.url }}" class="btn">Read More</a>
+          </div>
+       {% endfor %}
      </div>
 </div>
 <!-- End Widget -->                
@@ -197,19 +198,15 @@ if(redirect !=false){
    <div class="carousel-nav-owl carousel-nav-sidebar-place-studies clearfix ">
         <div class="controls"></div>
     </div> 
-    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-place-studies">   
+    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-place-studies"> 
+    {% for place in page.related_place_studies %}  
     <div class="inner">
-      <div class="image" style="background-image: url('http://investessex.co.uk/uploads/studies/CGI-of-Kao-Park_555.jpg');"></div>
-                <h6>Harlow Enterprise Zone</h6>
-                <p>Harlow Enterprise Zone - a new science and IT park </p>
-                <a href="/studies/place-studies/harlow-enterprise-zone" class="btn">Read More</a>
+      <div class="image" style="background-image: url('{{ place.thumbnail_image }}');"></div>
+                <h6>{{ place.heading }}</h6>
+                <p>{{ place.synopsis }}</p>
+                <a href="/studies/place-studies/{{ place.url }}" class="btn">Read More</a>
          </div>
-         <div class="inner">
-            <div class="image" style="background-image: url('http://investessex.co.uk/uploads/studies/Skyline120_555x440.jpg');"></div>
-                <h6>Braintree Skyline120</h6>
-                <p>Skyline 120 Business Park is located in the centre of the county of Essex in the UK. </p>
-                <a href="/studies/place-studies/braintree-skyline120" class="btn">Read More</a>
-         </div>                
+    {% endfor %}             
     </div>
 </div>
 <!-- End Widget -->                

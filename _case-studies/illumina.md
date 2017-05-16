@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: dave-russell-graham
 heading: Illumina
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Illumina_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Illumina_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - life-sciences-healthcare-cluster
 synopsis: Illumina - Accelerating the understanding of human genetics.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Illumina_Tile.jpg
 url: illumina
 ---
 

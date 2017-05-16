@@ -2,13 +2,13 @@
 Author: pxadmin
 contact: david-rooke
 heading: Pheonix Product Development
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Pheonix_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Pheonix_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors: null
 synopsis: Phoenix Product Development - Contributing to sustainable water management.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Pheonix_Tile.jpg
 url: pheonix-product-development
 ---
 

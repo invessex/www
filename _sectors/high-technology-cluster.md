@@ -5,8 +5,8 @@ url: high-technology-cluster
 H1: High-Technology Cluster
 synopsis: Essex is the location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity.
 home_synopsis: Location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity
-synopsis_image: //investessex.co.uk/uploads/services/HighTechClusters_555x440.jpg
-hero_image: //investessex.co.uk/uploads/headers/HighTechClusters_1980x600.jpg
+synopsis_image: uploads/services/HighTechClusters_555x440.jpg
+hero_image: uploads/headers/HighTechClusters_1980x600.jpg
 logo_carousel: Advanced Manufacturing
 testimonial_carousel: advanced manufacturing
 sector_contacts: 

@@ -2,13 +2,13 @@
 Author: Jacinda
 contact: robert-edge
 heading: "Fl\xE4kt Woods"
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors: null
 synopsis: "Fl\xE4kt Woods - Bringing air to life."
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_Tile.jpg
 url: flakt-woods
 ---
 

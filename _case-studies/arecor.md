@@ -2,7 +2,7 @@
 Author: null
 contact: dave-russell-graham
 heading: Arecor
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Chesterford_RP_2_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Chesterford_RP_2_1980.jpg
 layout: case-study
 pub_date: '2017-01-19 00:00:00'
 related:
@@ -16,7 +16,7 @@ related:
 sectors:
 - life-sciences-healthcare-cluster
 synopsis: Arecor - a leading biopharmaceutical company
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/diabetes-1_555.jpg
 url: arecor
 ---
 

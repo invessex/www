@@ -2,7 +2,7 @@
 Author: null
 contact: corinne-hearne
 heading: M25 Business Centre
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/waltham-abbey_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/waltham-abbey_1980.jpg
 layout: case-study
 pub_date: '2017-02-15 00:00:00'
 related:
@@ -10,7 +10,7 @@ related:
 sectors:
 - london-essex-uk-finance-corridor
 synopsis: M25 Business Centre providing high quality serviced office space
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/DSC_0053_555.jpg
 url: m25-business-centre
 ---
 

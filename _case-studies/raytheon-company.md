@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: simon-papworth
 heading: Raytheon Company
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Raytheon_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Raytheon_banner.jpg
 layout: case-study
 pub_date: '2016-12-20 00:00:00'
 related:
@@ -16,7 +16,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: Raytheon Company - Global leader in technology and innovation.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/DTR_4_553.jpg
 url: raytheon-company
 ---
 

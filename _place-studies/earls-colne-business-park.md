@@ -1,8 +1,9 @@
 ---
 Author: pxadmin
+display: true
 contact: david-rooke
 heading: Earls Colne Business Park
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Banner.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -14,7 +15,7 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Tile.jpg
 url: earls-colne-business-park
 ---
 

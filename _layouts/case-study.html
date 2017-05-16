@@ -3,7 +3,7 @@ layout: default
 --- 	
 
 
-<section class="container-full-width container-subpage-hero dark"  style="background-image: url('{{ page.heroimg }}');">
+<section class="container-full-width container-subpage-hero dark"  style="background-image: url('{{ page.hero_image }}');">
     <div class="black-overlay"></div>              
     <div class="container">                        
         <div class="inner">     
@@ -29,9 +29,13 @@ layout: default
             </div>
             <aside class="col-sm-5 col-md-4 col-sidebar">            
             <!-- Start Widget -->
-                <div class="sidebar-widget articles">
-                    <h5>Related Articles</h5>
+                
+                    
                     {% for article in page.related %}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget articles">
+                    <h5>Related Articles</h5>
+                    {% endif %}
                     {% assign relposts = site.posts | where: "posturl", article %}
                         {% for item in relposts %}
                             <div class="article">
@@ -42,17 +46,24 @@ layout: default
                                 </ul>
                             </div>
                         {% endfor %}
+                       {% if forloop.last %} </div> {% endif %}
                     {% endfor %}    
-                </div>
+                
                 <!-- Start Widget -->
-                <div class="sidebar-widget list-links">
-                    <h5>Related Sectors</h5>
-                    <ul>
+
                     {% for sector in page.sectors%}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget list-links">
+                        <h5>Related Sectors</h5>
+                          <ul>           
+                    {% endif %}                   
                     <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+                    {% if forloop.last %}
+                          </ul>  
+                     </div>
+                     {% endif %}
                     {% endfor %}
-                    </ul>  
-                </div>
+
             </aside>          
         </div>           
     </article>    

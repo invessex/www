@@ -2,7 +2,7 @@
 Author: null
 contact: corinne-hearne
 heading: International Financial Data Services (IFDS)
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Officeatnite_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Officeatnite_1980.jpg
 layout: case-study
 pub_date: '2017-01-31 00:00:00'
 related:
@@ -18,7 +18,7 @@ sectors:
 - london-essex-uk-finance-corridor
 synopsis: International Financial Data Services (IFDS) - outsourced services for the
   financial services sector
-thumbnail_image: None
+thumbnail_image:  //clarity-strategies.github.io/ie-uploads/uploads/studies/IMG_0837_555.jpg
 url: international-financial-data-services-ifds
 ---
 

@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: dave-russell-graham
 heading: Clement Clarke International
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Clement_Banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Clement_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - life-sciences-healthcare-cluster
 synopsis: Clement Clarke International - Helping to manage asthma worldwide.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Clement_Tile.jpg
 url: clement-clarke-international
 ---
 

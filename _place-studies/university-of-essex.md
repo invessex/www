@@ -1,5 +1,6 @@
 ---
 Author: pxadmin
+display: true
 contact: david-rooke
 heading: University of Essex
 hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Uni_Essex_banner.jpg
@@ -11,7 +12,7 @@ related:
 - /studies/place-studies/earls-colne-business-park
 sectors:
 - london-essex-uk-finance-corridor
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/003-planned_innovation_centre_cgi_copyright_University_of_Essex_555.jpg
 url: university-of-essex
 ---
 

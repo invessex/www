@@ -1,7 +1,8 @@
 ---
 contact: robert-edge
+display: true
 heading: Port of Tilbury
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_TilburyPort_Banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_TilburyPort_Banner.jpg
 layout: place-study
 pub_date: 2017-02-10 00:00:00
 related:
@@ -14,7 +15,7 @@ sectors:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LCT_June_2016_555.jpg
 url: port-of-tilbury
 ---
 

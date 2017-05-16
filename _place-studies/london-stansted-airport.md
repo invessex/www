@@ -1,8 +1,9 @@
 ---
 Author: pxadmin
+display: true
 contact: robert-edge
 heading: London Stansted Airport
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_StansteadAirport_Banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_StansteadAirport_Banner.jpg
 layout: place-study
 pub_date: 2017-02-17 00:00:00
 related:
@@ -16,7 +17,7 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LondonStansted_555x440.jpg
 url: london-stansted-airport
 ---
 

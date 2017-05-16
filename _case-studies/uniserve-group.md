@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: robert-edge
 heading: Uniserve Group
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Uniserve_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Uniserve_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - uk-multimodal-gateway-essex
 synopsis: Uniserve Group - The Essex gateway to a global supply chain.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Uniserve_Tile.jpg
 url: uniserve-group
 ---
 

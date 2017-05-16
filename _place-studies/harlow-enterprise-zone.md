@@ -1,5 +1,6 @@
 ---
-Author: null
+Author: Jacinda
+display: true
 contact: david-rooke
 heading: Harlow Enterprise Zone
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/DSC_6790a_1980.jpg
@@ -9,7 +10,7 @@ related: null
 sectors:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CGI-of-Kao-Park_555.jpg
 url: harlow-enterprise-zone
 ---
 

@@ -2,7 +2,7 @@
 Author: null
 contact: dave-russell-graham
 heading: Enplas
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
 layout: case-study
 pub_date: '2016-12-21 00:00:00'
 related:
@@ -10,7 +10,7 @@ related:
 sectors:
 - life-sciences-healthcare-cluster
 synopsis: Enplas - one of the largest independent manufacturers of engineered plastics
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/20170207_151830_555.jpg
 url: enplas
 ---
 

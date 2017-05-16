@@ -2,14 +2,14 @@
 Author: pxadmin
 contact: simon-papworth
 heading: e2v technologies
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/E2v_banner.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/E2v_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 related: null
 sectors:
 - uk-multimodal-gateway-essex
 synopsis: e2v technologies - Bright ideas in technology and materials science.
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/e2v_Tile.jpg
 url: e2v-technologies
 ---
 

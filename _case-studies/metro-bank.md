@@ -2,7 +2,7 @@
 Author: null
 contact: corinne-hearne
 heading: Metro Bank
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Metro_Bank_store_1980.jpg
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Metro_Bank_store_1980.jpg
 layout: case-study
 pub_date: '2017-01-26 00:00:00'
 related:
@@ -12,7 +12,7 @@ sectors:
 - london-essex-uk-finance-corridor
 synopsis: Metro Bank - an independent bank, focused on providing the best in service
   and convenience
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JLimage2_555.jpg
 url: metro-bank
 ---
 
