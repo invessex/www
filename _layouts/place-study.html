@@ -34,9 +34,9 @@ layout: default
                     {% for article in page.related %}
                     {% if forloop.first %}
                     <div class="sidebar-widget articles">
-                    <h5>Related Articles</h5>
+                    <h5>Related Studies</h5>
                     {% endif %}
-                    {% assign relposts = site.posts | where: "posturl", article %}
+                    {% assign relposts = site.place-studies | where: "url", article %}
                         {% for item in relposts %}
                             <div class="article">
                                 <h6>{{ item.title }}</h6>
