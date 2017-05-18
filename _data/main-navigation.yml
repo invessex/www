@@ -1,34 +1,34 @@
 - name: Location Benefits
   link: /location-benefits/
   submenu:
-    - sub-name: Video
-    - sub-link: #video
-    - sub-name: Business Benefits
-    - sub-link: #business-benefits
-    - sub-name: What Companies Say
-    - sub-link: #what-companies-say
-    - sub-name: Who is Here
-    - sub-link: #who-is-here
+    - name: Video
+    - link: \#video
+    - name: Business Benefits
+    - link: \#business-benefits
+    - name: What Companies Say
+    - link: \#what-companies-say
+    - name: Who is Here
+    - link: \#who-is-here
 - name: Business Support
   link: /business-support/
   submenu:
-    - sub-name: Invest Essex Services
-    - sub-link: #invest-essex-services
-    - sub-name: Partner Services
-    - sub-link: #partner-services
-    - sub-name: What Companies Say
-    - sub-link: #what-companies-say
+    - name: Invest Essex Services
+    - link: \#invest-essex-services
+    - name: Partner Services
+    - link: \#partner-services
+    - name: What Companies Say
+    - link: \#what-companies-say
 - name: World Class Clusters
   link: /sectors/
   submenu:
-    - sub-name: Financial &amp; Business Services
-    - sub-link: #financial-business-services
-    - sub-name: Ports &amp; Logistics Services
-    - sub-link: #ports-logistics--services
-    - sub-name: High Technology
-    - sub-link: #high-technology
-    - sub-name: What Companies Say
-    - sub-link: #what-companies-say
+    - name: Financial &amp; Business Services
+    - link: \#financial-business-services
+    - name: Ports &amp; Logistics Services
+    - link: \#ports-logistics--services
+    - name: High Technology
+    - link: \#high-technology
+    - name: What Companies Say
+    - link: \#what-companies-say
 - name: Case Studies
   link: /case-studies/
 - name: 'Key Sites & Assets'
