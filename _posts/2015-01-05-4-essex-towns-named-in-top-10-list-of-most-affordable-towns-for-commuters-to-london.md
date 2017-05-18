@@ -2,8 +2,7 @@
 Author: Jacinda
 apermalink: /blog/4-essex-towns-named-in-top-10-list-of-most-affordable-towns-for-commuters-to-london
 contact: david-rooke
-heading: 4 Essex towns named in top 10 list of most affordable towns for commuters
-  to London
+heading: 4 Essex towns named in top 10 list of most affordable towns for commuters to London
 hero_image: null
 layout: post
 metadesc: Basildon, Harlow, Braintree and Southend listed as four of London's most

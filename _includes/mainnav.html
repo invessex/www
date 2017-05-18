@@ -11,6 +11,7 @@
             <svg width="97" height="48">
 				<image xlink:href="//clarity-strategies.github.io/ie-uploads/images/global/logo-invest-essex.svg" src="//clarity-strategies.github.io/ie-uploads/images/global/logo-invest-essex.jpg" width="97" height="48" border="0" />
 			</svg>
+            {{ page.permalink }}
             </a>
                 </div>
 				
@@ -19,17 +20,17 @@
                         {% for nav in site.data.main-navigation %}
                         {% if nav.submenu != null %}
                         <li>
-                        <a href="{{ nav.link }}">{{ nav.name }} ▼</a>
-                        <ul>
-                        {% for subitem in nav.submenu %}
-                            <li><a href="{{ subitem.link }}">{{ subitem.name }}</a></li>
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="{{ nav.link }}">{{ nav.name }} ▼</a>
+                        <ul class="dropdown-menu">
+                        {% for item in nav.submenu %}
+                            <li><a href="{{ item.sublink }}">{{ item.subname }}</a></li>
                         {% endfor %}
                         </ul>
                         </li>                      
-                        {% elsif nav.title == page.title %}
+                        {% elsif nav.link == page.permalink %}
                         <li class="active"><a href="{{ nav.link }}">{{ nav.name }}</a></li>
                         {% else %} 
-                        <li class="scroll active"><a href="{{ nav.link }}">{{ nav.name }}</a></li> 
+                        <li class="scroll"><a href="{{ nav.link }}">{{ nav.name }}</a></li> 
                         {% endif %}
                         {% endfor %}
                     </ul>
