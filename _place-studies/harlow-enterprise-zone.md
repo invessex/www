@@ -1,6 +1,6 @@
 ---
 Author: Jacinda
-display: true
+display: false
 contact: david-rooke
 heading: Harlow Enterprise Zone
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/DSC_6790a_1980.jpg

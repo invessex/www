@@ -1,6 +1,6 @@
 ---
 Author: pxadmin
-display: true
+display: false
 contact: david-rooke
 heading: Chelmsford Business Park
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_ChelmsfordBusinessPark_Banner.jpg

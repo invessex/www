@@ -1,7 +1,7 @@
 ---
 Author: pxadmin
+display: false
 contact: david-rooke
-display: true
 heading: Colchester Business Park
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_ColchesterBusinessPark_Banner.jpg
 layout: place-study

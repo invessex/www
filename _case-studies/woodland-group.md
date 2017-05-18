@@ -2,7 +2,7 @@
 Author: null
 contact: robert-edge
 heading: Woodland Group
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/Woodland_trucks_2_1980.png
+hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Woodland_trucks_2_1980.png
 layout: case-study
 pub_date: '2017-03-01 00:00:00'
 related:
@@ -11,7 +11,7 @@ related:
 sectors:
 - uk-multimodal-gateway-essex
 synopsis: Woodland Group - global freight forwarding and supply chain specialists
-thumbnail_image: None
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Woodland_MERC_trucks_1_555.png
 url: woodland-group
 ---
 

@@ -1,6 +1,6 @@
 ---
 Author: pxadmin
-display: true
+display: false
 contact: david-rooke
 heading: London Gateway Port
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_LondonGateway_Banner.jpg

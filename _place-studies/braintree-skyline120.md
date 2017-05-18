@@ -1,6 +1,6 @@
 ---
 Author: pxadmin
-display: true
+display: false
 contact: david-rooke
 heading: Braintree Skyline120
 hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_BraintreeSkyline_Banner.jpg

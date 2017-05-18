@@ -1,6 +1,6 @@
 ---
 Author: pxadmin
-display: true
+display: false
 contact: david-rooke
 heading: Harwich International Port
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg

@@ -1,6 +1,6 @@
 ---
 Author: null
-display: true
+display: false
 contact: dave-russell-graham
 heading: Chesterford Research Park
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
