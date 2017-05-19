@@ -13,7 +13,6 @@ related:
   - japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
   - essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
   - chesterford-research-park-chosen-for-diabetes-research-laboratory-space
-  - essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
 sectors:
   - life-sciences-healthcare-cluster
 synopsis: Arecor - a leading biopharmaceutical company
