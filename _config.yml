@@ -50,6 +50,12 @@ collections:
   invest-essex-events:
     output: false
     permalink: /invest-essex-events/:path
+  partner-sectors:
+    output: false
+    permalink: /partner-sectors/:path
+  partner-companies:
+    output: false
+    permalink: /partner-companies/:path
 
   
 
