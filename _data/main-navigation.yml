@@ -1,4 +1,4 @@
-- name: Location Benefits
+- name: Location<br/> Benefits
   link: /location-benefits/
   submenu:
     - subname: Video
@@ -9,7 +9,7 @@
       sublink: location-benefits/#what-companies-say
     - subname: Who is Here
       sublink: location-benefits/#who-is-here
-- name: Business Support
+- name: Support for<br/>Businesses
   link: /business-support/
   submenu:
     - subname: Invest Essex Services
@@ -18,7 +18,7 @@
       sublink: /business-support/#partner-services
     - subname: What Companies Say
       sublink: /business-support/#what-companies-say
-- name: World Class Clusters
+- name: World Class<br/> Clusters
   link: /sectors/
   submenu:
     - subname: Financial &amp; Business Services
@@ -29,7 +29,7 @@
       sublink: /sectors/#high-technology
     - subname: What Companies Say
       sublink: /sectors/#what-companies-say
-- name: Case Studies
+- name: Company<br/>Case Studies
   link: /case-studies/
 - name: 'Key Sites & Assets'
   link: /sites-assets/

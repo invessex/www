@@ -72,7 +72,7 @@ $(document).ready(function(){
 	
 	
 	// Hero and Featurette Resizing	
-	function homeHeroResize(){
+	function xhomeHeroResize(){
 		
 		if ($(window).width() >= 751){
 			
@@ -638,7 +638,7 @@ $(document).ready(function(){
 	// Initialise Functions Shizzle	
 	if ($(window).width() > 748){				
 		
-		homeHeroResize();	
+		//homeHeroResize();	
 		
 	} 
 	else {
@@ -699,7 +699,7 @@ $(document).ready(function(){
 		if(pageType=="homepage"){	
 		
 			if ($(window).width() > 748){				
-				homeHeroResize();			
+				//homeHeroResize();			
 			}			
 			else {			
 				clearHeroFeaturetteMobile();			

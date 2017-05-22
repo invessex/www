@@ -248,348 +248,10 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 		}
 		
 		
-		
-/* ------------------------------------
-   Homepage Preloader
-   ------------------------------------  */		
-
-#preloader { 
-	position: fixed;
-	left: 0;
-	top: 0;
-	z-index: 1000000;
-	width: 100%;
-	height: 100%;
-	overflow: visible;
-	background: #181818 url('/images/global/preloader.gif') no-repeat center center;
-}
 
 
 
-/* ------------------------------------
-   Animations
-   ------------------------------------  */
-   
-.to-be-animated {   
-	opacity: 0.001;
-}
 
-.to-be-animated.no-support {
-	opacity: 1;	
-}
-   
-.animated {
-	opacity: 1;	
-}
-
-
-.fadeIn {
-	-webkit-animation-duration:  5s;
-	-moz-animation-duration:     5s;
-	animation-duration:          5s;
-	
-	-webkit-animation-delay:  0.25s;
-	-moz-animation-delay:     0.25s;
-	animation-delay:          0.25s;
-}
-
-.container-hero-features .inner.fadeIn {
-	-webkit-animation-delay:  0.3s;
-	-moz-animation-delay:     0.3s;
-	animation-delay:          0.3s;
-}
-
-.row-counters-home.fadeIn {
-	-webkit-animation-delay:  0.6s;
-	-moz-animation-delay:     0.6s;
-	animation-delay:          0.6s;
-}
-
-
-/* ------------------------------------
-   Navigation
-   ------------------------------------  */
-
-
-	/* ------------------------------------
-	   Nav Desktop Megamenu
-	   ------------------------------------  */
-	
-	.nav-top {
-		z-index: 1000;
-		width: 100%;
-		position: fixed;			
-		height: 475px;
-		top: -400px;
-	}
-	
-	.nav-inner {
-		z-index: 1001;
-		position: relative;
-		width: 100%;
-		height: 400px;
-		background: #333333;
-	}		
-	
-	.nav-bar {
-		background: #ffffff;						
-		border-bottom: 3px solid #8ec032;
-	}
-	
-	.nav-bar .logo, .nav-bar .essex-logo, .nav-bar .nav-social, .nav-bar .nav-btn {
-		float: left;	
-	}
-	
-	.nav-bar .logo, .nav-bar .essex-logo {
-		margin-top: 15px; 	
-	}
-	
-	.nav-bar .nav-social {
-		height: 75px;
-		padding-top: 27px;
-		margin-right: 30px;	 
-		border-left: 1px solid #eeeeee;
-		padding-left: 20px;  
-		margin-left: 30px;
-	}
-	
-	.nav-bar .nav-right  {
-		float: right;	
-	}
-	
-	.nav-btn {
-		height: 75px;	
-		text-align: right;
-	}
-	
-	.nav-social>ul {
-		list-style: none;
-	}
-	
-	.nav-social>ul>li {
-		display: block;
-		float: left;
-		margin-left: 7px;
-	}
-	
-	.nav-social>ul>li>a {
-		font-size: 21px;
-		color: #999999;	
-	}
-	
-	.nav-social>ul>li>a:hover {
-		color: #b0b0b0;	
-	}
-			
-	.btn-menu {
-		display: inline-block;
-		height: 75px;
-		line-height: 75px;
-		text-align: center;
-		background: #e6007e;
-		color: #ffffff;	
-		font-size: 22px;
-		
-		padding: 0 30px;
-		text-decoration: none;
-	}
-	
-	.btn-menu>i {
-		width: 25px;
-	}
-	
-	.btn-menu:hover {
-		background: #f3359d;	
-	}
-	
-	.btn-menu>span {
-		font-size: 18px;
-		font-weight: 700;
-		margin-right: 5px;
-	}
-	
-	.btn-menu:hover, .btn-menu:focus {
-		color: #ffffff;	
-		text-decoration: none;
-	}
-	
-	.nav-bar-menu {
-		background: #ffffff;
-		border-bottom: 1px solid #cccccc;	
-		height: 75px;
-	}
-	
-	.nav-bar-menu>.container {
-		text-align: center;	 
-		height: 75px;
-	}
-	
-	.nav-bar-menu-tabs {
-		display: inline-block;
-		border-bottom: none;	
-		height: 75px;
-	}
-	
-	.nav-bar-menu-tabs>ul>li {
-		display: inline-block;
-	}	
-	
-	.nav-bar-menu-tabs>li>a {
-		text-transform: uppercase;
-		font-size: 12px;
-		color: #555555;
-		font-weight: 700;
-		
-		padding: 0 7px;
-		height: 75px;
-		line-height: 75px;
-		
-		border: none;
-	}
-	
-	.nav-bar-menu-tabs>li.icon>a {
-		padding-left: 6px;
-		padding-right: 6px;
-	}
-	
-	.nav-bar-menu-tabs.nav-tabs>li.active>a, .nav-bar-menu-tabs.nav-tabs>li.active>a:hover, .nav-bar-menu-tabs.nav-tabs>li.active>a:focus {
-		color: #ffffff;
-		background-color: #e6007e;
-		border: none;
-		border-bottom-color: transparent;
-		cursor: default;
-		border-radius: 0;
-	}
-	
-	.tab-pane-main-nav {
-		position: relative;
-		height: 325px;
-		background: #333333 no-repeat center center;
-		background-size: cover;			
-		-ms-behavior: url(/js/backgroundsize.min.htc);
-		color: #ffffff;
-	}
-	
-	.tab-pane-main-nav>.container {
-		display: table;	
-		text-align: center;			
-		height: 100%;
-	}
-	
-	.tab-pane-main-nav>.container>.inner {
-		display: table-cell;
-		vertical-align: middle;				
-	}
-	
-	.tab-pane-main-nav>.container>.inner>h3 {
-		position: relative;
-		font-size: 42px;
-		text-transform: uppercase;	
-		font-weight: 700;
-		margin-bottom: 20px;
-		color: #ffffff;
-	}
-	
-	.tab-pane-main-nav>.container>.inner>h3:after {
-		position: relative;
-		content: "";
-		display: block;
-		width: 15%;
-		margin: 0 auto;
-		background: #ffffff;
-		height: 2px;	
-		margin-top: 20px;
-	}
-	
-	.tab-pane-main-nav>.container>.inner>ul {
-		list-style: none;	
-		margin: 0;
-		padding: 0;
-	}
-	
-	.tab-pane-main-nav>.container>.inner>ul>li {
-		display: inline-block;
-		margin: 0 2px 6px 2px;
-	}
-	
-	.tab-pane-main-nav>.container>.inner>ul>li>a {
-		display: inline-block;
-		color: #ffffff;
-		padding: 8px 20px;
-		border: 1px solid #ffffff;	
-		text-transform: uppercase;
-		font-weight: 600;	
-		font-size: 12px;		
-	}
-	
-	.tab-pane-main-nav>.container>.inner>ul>li>a:hover {
-		background: #ffffff;	
-		color: #181818;
-	}
-	
-	
-	/* ------------------------------------
-	   Nav Mobile 
-	   ------------------------------------  */
-	
-	
-	#navMobile {
-		border-bottom: 2px solid #8ec032;
-		background: #ffffff;
-	}
-	
-	#navMobile .navbar-brand {
-		padding: 8px 0 0 15px; 
-	}
-	
-	#navMobile .navbar-brand>img {
-		height: 38px;
-	}	
-		
-	#navMobile.navbar-default .navbar-toggle {
-		border: none;
-		background: #e6007e;
-		color: #ffffff;
-		border-radius: 0;
-		text-transform: uppercase;
-		font-weight: 700;
-		padding: 9px 15px;
-		font-size: 14px; 
-	}
-	
-	#navMobile.navbar-default .navbar-toggle>i {
-		font-size: 15px;
-	}
-	
-	#navMobile .navbar-ecc-logo {
-		float: right;
-		height: 48px;
-		padding: 8px 2px 0 0;
-	}
-	
-	#navMobile .nav-social {
-		margin: 17px 20px 0 0;
-		float: right;	
-	}
-	
-	#navMobile .nav-social>ul>li>a {
-		font-size: 18px;
-	}
-	
-	
-	#navMobile.navbar-default .navbar-nav>li>a, #navMobile.navbar-default .navbar-nav .open .dropdown-menu>li>a {
-		color: #555555;
-		text-transform: uppercase;
-		font-size: 12px;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
-	
-	#navMobile.navbar-default .navbar-nav .open .dropdown-menu>li>a {
-		font-size: 12px;
-		line-height: 22px;
-	}
-	
 	
 	
 	/* ------------------------------------
@@ -683,51 +345,64 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 /* ------------------------------------ 
    Homepage Hero
    ------------------------------------ */
-   
-   
-.container-home.hero {
-	background: url('/images/global/home-hero.jpg') no-repeat center center;
-	background-size: cover;
-	-ms-behavior: url(/js/backgroundsize.min.htc);
-	overflow: hidden;
+.container-home{
+	background: rgba(0,0,0,0.4)
+}
+.jumbotron {
+	background-color: transparent;
+}
+@media screen and (min-width: 768px)
+{
+.jumbotron h1, .jumbotron .h1 {
+    font-size: 78px;
+	line-height: 0.8;
+	border-left: 6px solid #699e10;
+	padding: 8px;
+}
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 28px;
+    font-weight: 600;
+	line-height: 1.2;
+}
+.hero {
+  background:url(https://clarity-strategies.github.io/ie-uploads/images/global/home-hero.jpg) no-repeat center;
+  background-size:cover;
+  border:none;
 }
 
-.container-home.hero>.container-hero-intro {
-	width: 100%;
-	padding: 50px 0;
-	background: rgba(0,0,0,0.6);
+@media (min-width:992px) {
+  .hero .get-it {
+    text-align:left;
+    margin-top:180px;
+    padding-right:30px;
+  }
 }
 
-.container-home.hero>.container-hero-intro .intro {
-	padding-right: 20%;	
+@media (max-width:992px) {
+  .hero .get-it {
+    text-align:center;
+  }
 }
 
-
-.container-home.hero>.container-hero-intro .intro>h1 {
-	color: #257326;
-	font-size: 62px;
-	line-height: 44px;	
-	text-transform: uppercase;
-	font-weight: 600;
-	
-	margin-bottom: 35px;
-	padding-left: 10px;
-	
-	border-left: 3px solid #e6007e;
-	
-	color: #ffffff;
+@media (max-width:992px) {
+  .hero .phone-preview {
+    text-align:center;
+  }
 }
 
-
-.container-home.hero>.container-hero-intro .intro>p {
-	color: #d2d2d2;
-	font-size: 20px;
-	line-height: 26px;	
-	margin-bottom: 0px;
+.hero .get-it h1, .hero .get-it p {
+  color:#fff;
+  text-shadow:2px 2px 3px rgba(0,0,0,0.6);
+  margin-bottom:40px;
 }
 
-
-
+.hero .get-it .btn {
+  margin-left:10px;
+  margin-bottom:10px;
+  text-shadow:none;
+} 
 
 .latest-news-item {
 	border-bottom: 1px solid rgba(255,255,255,0.2);
@@ -779,94 +454,16 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 	color: #ffffff;
 }
 
-
-	/* ------------------------------------ 
-	   Homepage Hero Featurettes
-	   ------------------------------------ */
-	
-	.container-hero-features {
-		position: relative;	
-		height: auto;
-		line-height: inherit;
-		background: #181818;
-	}
-	
-	.container-hero-features .inner {
-		position: relative;
-		width: 100%;
-		padding: 30px 0;
-	}
-	
-	.container-hero-features .inner>.header {
-		position: relative;
-		width: 100%;
-		color: #ffffff; 
-		text-transform: uppercase;
-		font-size: 22px;
-		line-height: 18px;
-		text-align: center;
-		
-		margin-bottom: 15px;
-	}
-	
-	.container-hero-features .inner>.header.hidden {
-		display: none;	
-	}
-	
-	.container-hero-features .inner>.header>p {
-		margin: 0	
-	}
-	
-	.container-hero-features .inner>.hero-featurette {
-		position: relative;
-		width: 100%;
-		float: none;
-		background: #181818 no-repeat center center;	 
-		background-size: cover;
-		-ms-behavior: url(/js/backgroundsize.min.htc);
-		margin: 0 0 5px 0;
-		height: 180px; 
-	}
-	
-	.container-hero-features .inner>.hero-featurette>p.title {
-		position: absolute;
-		display: block;
-		height: 35px;
-		bottom: 2%;
-		left: 8%;
-		
-		color: #ffffff;
-		font-size: 22px;
-		line-height: 20px;
-		text-transform: uppercase;
-	}
-	
-	.container-hero-features .inner>.hero-featurette>a {
-		position: absolute;
-		top: 0;
-		left: 0;
-		display: block;
-		width: 100%;
-		height: 100%;
-		z-index: 1;
-	}
-
-
-	.container-hero-features.restricted-height {
-		height: auto;
-		line-height: normal;
-		background: #181818;
-		padding: 30px 0;
-		}
-
-	.container-hero-features.restricted-height .inner {
-		position: relative;
-		top: auto;			
-	}
-
-   
-   
-
+/* ------------------------------------ 
+   Homepage nav
+   ------------------------------------ */
+@media (min-width: 768px){
+.navbar-nav {
+    float: left;
+    margin: 0;
+    margin-left: 60px;
+}
+}
 /* ------------------------------------ 
    Generic Content Reusable 
    ------------------------------------ */   
@@ -3124,7 +2721,7 @@ only screen and (max-width: 760px),
 @media (min-width: 768px) {	
 
 	body {
-		padding-top: 78px;			
+		xpadding-top: 78px;		
 	}
 		
 		
