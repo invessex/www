@@ -375,7 +375,7 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 @media (min-width:992px) {
   .hero .get-it {
     text-align:left;
-    margin-top:180px;
+    margin-top:60px;
     padding-right:30px;
   }
 }
@@ -395,7 +395,7 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 .hero .get-it h1, .hero .get-it p {
   color:#fff;
   text-shadow:2px 2px 3px rgba(0,0,0,0.6);
-  margin-bottom:40px;
+  margin-bottom:0px;
 }
 
 .hero .get-it .btn {
@@ -463,7 +463,27 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
     margin: 0;
     margin-left: 60px;
 }
+.navbar-nav>li>a {
+    padding-top: 5px;
+    padding-bottom: 0px;
+	text-transform: uppercase;
 }
+
+}
+.jumbotron{margin-top: -53px;}
+.navbar-default{
+	    background-color: transparent;
+		border-color: transparent;
+
+}
+.navbar-header{ height: 47px;}
+.navbar-default .navbar-nav>li>a{ color: white;}
+@media (min-width: 768px){
+.white-background{background-color: #699e10;}
+.white-background .navbar-nav>li>a{ color: white;}
+}
+
+#heroFeaturesDesktop{ margin-top: -30px; background: #f8f8f8;}
 /* ------------------------------------ 
    Generic Content Reusable 
    ------------------------------------ */   
