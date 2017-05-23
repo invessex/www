@@ -17,7 +17,7 @@ related_case_studies:
   - Luna Logistics
   - Uniserve Group
   - Woodland Group
-related_place_studies:
+related_place_studies: 
   - Harwich International Port
   - London Gateway Port
   - London Southend Airport
@@ -56,8 +56,8 @@ Establishing operations at UK Multimodal Gateway: Essex can enable logistics and
 
 Essex combines more than 1,000 acres of port-adjacent, tri-modally connected logistics and distribution sites with a specialist logistics workforce and fast access to UK, European and global markets – by road, rail, sea and air.
 
-* Download{: .header}
-* [Essex_The_UK_Multimodal_Gateway .pdf (5 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf){: .btn.ugdv_link}
+* Download
+* [Essex_The_UK_Multimodal_Gateway .pdf (5 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf){: .btn.ugdv_link}
 {: .downloadable-files}
 
 ### Global, Multimodal
@@ -119,5 +119,5 @@ Essex’s higher and further education institutions work in close partnership wi
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
 * Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
+* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
 {: .downloadable-files}

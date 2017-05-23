@@ -62,7 +62,7 @@ The companies in Essex’s high-tech cluster research, develop and manufacture p
 * Renewable Energies
 
 * Download{: .header}
-* [AdvancedManufacturing_Essex_2015_LoRes .pdf (3 MB)](http://investessex.co.uk/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf){: .btn}
+* [AdvancedManufacturing_Essex_2015_LoRes .pdf (3 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf){: .btn}
 {: .downloadable-files}
 
 ### Knowledge and
@@ -89,7 +89,7 @@ Essex can deliver the highly skilled people and first-class education provision 
 
 Essex can provide state-of-the-art research, technology and business park accommodation for high-technology companies, including . . .
 
-* [**Harlow Enterprise Zone -**](http://investessex.co.uk/studies/place-studies/harlow_enterprise)strategically located between London and Cambridge, with direct access to the M11 and Stansted Airport
+* [**Harlow Enterprise Zone -**](/studies/place-studies/harlow_enterprise)strategically located between London and Cambridge, with direct access to the M11 and Stansted Airport
 * **Medbic Business Innovation Centre -** located on the Anglia Ruskin University campus, providing high-specification accommodation for medical and advanced engineering technology businesses
 
 ### High-tech
@@ -123,5 +123,5 @@ Essex delivers unbeaten access to UK and international markets, for business peo
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
 * Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](http://investessex.co.uk/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn}
+* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn}
 {: .downloadable-files}

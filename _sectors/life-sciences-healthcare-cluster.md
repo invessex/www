@@ -61,7 +61,7 @@ Essex’s Life Sciences and Healthcare cluster comprises around 300 companies (E
 * Natural science and engineering research
 
 * Download{: .header}
-* [LifeSciences_2015_LoRes .pdf (3 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/LifeSciences_2015_LoRes.pdf){: .btn.ugdv_link}
+* [LifeSciences_2015_LoRes .pdf (3 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf){: .btn.ugdv_link}
 {: .downloadable-files}
 
 ### Knowledge and
@@ -121,5 +121,5 @@ Essex delivers unbeaten connectivity to UK and international markets, for busine
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
 * Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
+* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
 {: .downloadable-files}

@@ -70,7 +70,7 @@ Fast, direct access to London and the City provides Essex-based companies with a
 <br>Essex is the location of choice for a diverse range of professional services companies in sub-sectors including accounting and legal services. Many of these business serve, or have links to, the financial services sector in the London area.
 
 * Download{: .header}
-* [London-Essex_UK_Finance_Corridor-_Business_Benefits .pdf (1 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf){: .btn.ugdv_link}
+* [London-Essex_UK_Finance_Corridor-_Business_Benefits .pdf (1 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf){: .btn.ugdv_link}
 {: .downloadable-files}
 
 ### Connectivity to
@@ -144,5 +144,5 @@ The University of Essex achieves high rankings versus UK and international compe
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
 * Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
+* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
 {: .downloadable-files}
