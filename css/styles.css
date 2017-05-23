@@ -339,8 +339,16 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 	}
 	
 
-
-
+/* ------------------------------------ 
+   Homepage  treatments
+   ------------------------------------ */
+p.fp-title {
+    margin: -60px 0px 60px 12px;
+    font-size: 32px;
+	line-height: 0.8;
+    color: white;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
 
 /* ------------------------------------ 
    Homepage Hero
