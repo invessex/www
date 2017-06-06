@@ -9,7 +9,7 @@ synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/LifeS
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/LifeSc_Hero_Overlay_1980x600.jpg
 logo_carousel: Life Sciences
 testimonial_carousel: Life Sciences
-sector_contacts:
+contact: dave-russell-graham
 related_case_studies:
   - Arecor
   - Enplas
@@ -60,12 +60,10 @@ Essex’s Life Sciences and Healthcare cluster comprises around 300 companies (E
 * Pharmaceutical products and preparations
 * Natural science and engineering research
 
-* Download{: .header}
-* [LifeSciences_2015_LoRes .pdf (3 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf" name="LifeSciences_2015_LoRes .pdf"%}
 
-### Knowledge and
-<br>Innovation
+### Knowledge and Innovation
+
 
 Essex’s strategic location - between London and Cambridge - provides businesses with direct access to world-leading centres of Life Science and Healthcare research and development . . .
 
@@ -74,8 +72,7 @@ Essex’s strategic location - between London and Cambridge - provides businesse
 * Chesterford Research Park, Essex - a key asset in the Cambridge region’s Life Sciences research cluster - is located just 14 miles (35 minutes’ drive time) from central Cambridge
 * The University of Essex is a **UK Top 20** ranked university for research excellence (REF, 2014)
 
-### Life Sciences
-<br>Workforce
+### Life Sciences Workforce
 
 Essex can provide businesses with access to a large-scale, highly skilled Life Sciences and Healthcare workforce:
 
@@ -83,8 +80,7 @@ Essex can provide businesses with access to a large-scale, highly skilled Life S
 * The universities of Essex, Cambridge and London together provide 35,500 new medicine, life sciences and healthcare graduates every year
 * Every year, Essex enrols more than twice as many students in Life Science-related courses as Cambridge (10,465 compared with 4,560)
 
-### Life Sciences
-<br>Accomodation
+### Life Sciences Accomodation
 
 Essex can provide high-specification research, technology and business park accommodation for Life Sciences and Healthcare companies, including . . .
 
@@ -92,20 +88,17 @@ Essex can provide high-specification research, technology and business park acco
 * **Harlow Enterprise Zone -**strategically located between London and Cambridge, with direct access to the M11 and Stansted Airport
 * **MedBIC Business Innovation Centre -**located on Anglia Ruskin University’s Chelmsford campus, providing state-of-the-art accommodation for medical and advanced engineering technology businesses
 
-### Significant Significant
-<br>Cost Savings
+### Significant Cost Savings
 
 Essex’s strategic location between the major Life Science hubs of London and Cambridge provides companies with easy access to both centres while reducing costs significantly.
 
 In Essex, labour costs for a typical Life Sciences research centre are up to 30% cheaper than in comparable UK and European locations. For office accommodation, Essex can deliver cost savings of up to 85%.
 
-### Access to
-<br>Specialist Funding
+### Access to Specialist Funding
 
 Essex offers proximity to the major technology business funding centres of London and Cambridge, providing companies with direct access to potential sources of bank, equity, venture capital or business angel finance
 
-### UK and
-<br>International Connectivity
+### UK and International Connectivity
 
 Essex delivers unbeaten connectivity to UK and international markets, for business people, freight and data . . .
 
@@ -120,6 +113,9 @@ Essex delivers unbeaten connectivity to UK and international markets, for busine
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-* Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% 
+include download.html 
+size="6" 
+url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" 
+name="Essex Industrial Strategy .pdf"
+%}

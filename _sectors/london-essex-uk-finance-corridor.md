@@ -9,7 +9,7 @@ synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/BPDF_
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/BPFS_Hero_Overlay_1980x600.jpg
 logo_carousel: 'Business Professional & Financial Services'
 testimonial_carousel: 'Business Professional & Financial Services'
-sector_contacts:
+contact: corinne-hearne
 related_case_studies:
   - One of the UK’s largest plastic card manufacturers
   - M25 Business Centre

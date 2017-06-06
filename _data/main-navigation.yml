@@ -1,14 +1,12 @@
 - name: Location<br/> Benefits
   link: /location-benefits/
   submenu:
-    - subname: Video
-      sublink: location-benefits/#video
-    - subname: Business Benefits
-      sublink: location-benefits/#business-benefits
+    - subname: Essex UK&colon; Benefits for Businesses
+      sublink: /location-benefits/#business-benefits
     - subname: What Companies Say
-      sublink: location-benefits/#what-companies-say
-    - subname: Who is Here
-      sublink: location-benefits/#who-is-here
+      sublink: /location-benefits/#what-companies-say
+    - subname: Video
+      sublink: /location-benefits/#video
 - name: Support for<br/>Businesses
   link: /business-support/
   submenu:
@@ -22,18 +20,20 @@
   link: /sectors/
   submenu:
     - subname: Financial &amp; Business Services
-      sublink: /sectors/#financial-business-services
+      sublink: /sectors/london-essex-uk-finance-corridor
     - subname: Ports &amp; Logistics Services
-      sublink: /sectors/#ports-logistics--services
+      sublink: /sectors/uk-multimodal-gateway-essex
     - subname: High Technology
-      sublink: /sectors/#high-technology
-    - subname: What Companies Say
-      sublink: /sectors/#what-companies-say
+      sublink: /sectors/high-technology-cluster
+    - subname: Life Sciences &amp; Healthcare
+      sublink: /sectors/life-sciences-healthcare-cluster
 - name: Company<br/>Case Studies
+  link: /studies/list/case-studies/
+- name: Leading<br/>Essex Companies
   link: /case-studies/
 - name: 'Key Sites & Assets'
   link: /sites-assets/
-- name: Blog
+- name: News &amp;Blog
   link: /blog/
 - name: Contact Us
   link: /contact/

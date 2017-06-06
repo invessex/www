@@ -20,17 +20,17 @@
                         {% for nav in site.data.main-navigation %}
                         {% if nav.submenu != null %}
                         <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="{{ nav.link }}">{{ nav.name }} ▼</a>
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }} ▼</a>
                         <ul class="dropdown-menu">
                         {% for item in nav.submenu %}
-                            <li><a href="{{ item.sublink }}">{{ item.subname }}</a></li>
+                            <li><a href="{{ site.baseurl }}{{ item.sublink }}">{{ item.subname }}</a></li>
                         {% endfor %}
                         </ul>
                         </li>                      
                         {% elsif nav.link == page.permalink %}
-                        <li class="active"><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+                        <li class="active"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li>
                         {% else %} 
-                        <li class="scroll"><a href="{{ nav.link }}">{{ nav.name }}</a></li> 
+                        <li class="scroll"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li> 
                         {% endif %}
                         {% endfor %}
                     </ul>

@@ -9,8 +9,7 @@ synopsis_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/services
 hero_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/headers/Ports_Hero_Overlay_1980x600.jpg'
 logo_carousel: 'Ports & Logistics'
 testimonial_carousel: 'Ports & Logistics'
-sector_contacts:
-  - robert-edge
+contact: robert-edge
 related_case_studies:
   - EC Group
   - Global TCT

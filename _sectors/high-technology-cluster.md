@@ -9,7 +9,7 @@ synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/HighT
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/HighTechClusters_1980x600.jpg
 logo_carousel: Advanced Manufacturing
 testimonial_carousel: advanced manufacturing
-sector_contacts:
+contact: simon-papworth
 related_case_studies:
   - Leonardo
   - e2v technologies
