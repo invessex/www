@@ -1,4 +1,9 @@
+
+{% if page.layout == 'post' or page.layout == 'allposts' or page.layout == 'allplace-studies' or page.layout == 'allcase-studies' or page.layout == 'allcontacts' %}
+<nav id="notmain-nav" class="navbar navbar-default navbar-fixed-top nav-background" role="banner">
+{% else%}
 <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
+{% endif %}
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">

@@ -93,18 +93,17 @@ if(redirect !=false){
 }</script>
     
     
-<script src="http://svr-prc-01.com/js/23297.js" ></script>
-<noscript><img src="http://svr-prc-01.com/images/track/23297.png?trk_user=23297&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0" width="0" style="display:none;" /></noscript>
+<!--<script src="http://svr-prc-01.com/js/23297.js" ></script>
+<noscript><img src="http://svr-prc-01.com/images/track/23297.png?trk_user=23297&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0" width="0" style="display:none;" /></noscript> -->
 </head>
-  <body data-page="{{page.url}}">
-{% include mainnav.html%}
+  <body data-page="{{page.url}} and {{page.layout}}">
+
+{% include mainnav.html %}
 
 {{ content }}   
   
 {% include footer.html %}
-
-    
-    </body>
+</body>
 </html>
 
 

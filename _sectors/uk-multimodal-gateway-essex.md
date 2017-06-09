@@ -1,6 +1,7 @@
 ---
 layout: sector
 title: UK Multimodal Gateway - Essex
+H3: UK Multimodal<br/> Gateway&colon; Essex
 sector_url: uk-multimodal-gateway-essex
 H1: UK Multimodal Gateway - Essex
 synopsis: 'Establishing operations at UK Multimodal Gateway - Essex can enable logistics and distribution businesses to minimise costs, emissions and risks, maximise flexibility and efficiency in transport planning, and ‘future-proof’ their supply chains.'

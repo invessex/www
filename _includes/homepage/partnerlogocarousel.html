@@ -1,0 +1,43 @@
+<section id="homePartners" class="container-full-width container-content container-auto-height dark" style="background-image: url('//clarity-strategies.github.io/ie-uploads/images/global/home-partners.jpg');"> 
+
+    <article class="container">
+    <!--
+        <div class="row">
+            <div class="col-sm-12">
+            	
+                <header class="section-header carousel-below clearfix ">
+                    <h2>Saving Your Business<br/>Time, Money & Risk</h2>
+                    <div class="synopsis"><p>We deliver a &lsquo;total solution&rsquo; for businesses relocating or expanding in Essex UK. Working with our network of carefully selected business partners, we provide expert support for all aspects of your UK business relocation or expansion, enabling your company to minimise project costs, risk and timeframes.</p></div>
+                    <a href="partners.1" class="btn btn-header">See Our Partners</a>
+                </header>
+            
+            </div>
+        </div>
+        -->
+
+        <div class="row">
+            <div class="col-sm-12 col-carousel-home-partners text-center ">                
+            
+                <div class="carousel-nav-owl carousel-nav-owl-ghost carousel-nav-home-partners clearfix">
+                        <div class="controls"></div>
+                </div> 
+                    
+                <div class="owl-carousel carousel-single-logos carousel-home-partners"> 
+                   {% for partner in site.partner-companies %}
+                   {% if partner.homepage_logo %}
+                   
+                    	<div class="inner" style="background-image: url('{{ site.cdn_images }}{{ partner.homepage_logo }}')";>
+                        <a href="partners/{{ partner.partner-sector }}" class="carousel-logo-link"></a>
+                        </div>
+                   {% endif %}     
+                   {% endfor %}
+                 
+                
+                </div>
+                
+            </div>            
+        </div>
+        
+    </article>
+    
+</section>  

@@ -106,49 +106,8 @@ title: Invest Essex
         </div>  
     </div>
 </section>
-<section id="homePartners" class="container-full-width container-content container-auto-height dark" style="background-image: url('//clarity-strategies.github.io/ie-uploads/images/global/home-partners.jpg');"> 
 
-    <article class="container">
-    <!--
-        <div class="row">
-            <div class="col-sm-12">
-            	
-                <header class="section-header carousel-below clearfix ">
-                    <h2>Saving Your Business<br/>Time, Money & Risk</h2>
-                    <div class="synopsis"><p>We deliver a &lsquo;total solution&rsquo; for businesses relocating or expanding in Essex UK. Working with our network of carefully selected business partners, we provide expert support for all aspects of your UK business relocation or expansion, enabling your company to minimise project costs, risk and timeframes.</p></div>
-                    <a href="partners.1" class="btn btn-header">See Our Partners</a>
-                </header>
-            
-            </div>
-        </div>
-        -->
-
-        <div class="row">
-            <div class="col-sm-12 col-carousel-home-partners text-center ">                
-            
-                <div class="carousel-nav-owl carousel-nav-owl-ghost carousel-nav-home-partners clearfix">
-                        <div class="controls"></div>
-                </div> 
-                    
-                <div class="owl-carousel carousel-single-logos carousel-home-partners"> 
-                   {% for partner in site.partner-companies %}
-                   {% if partner.homepage_logo %}
-                   
-                    	<div class="inner" style="background-image: url('{{ site.cdn_images }}{{ partner.homepage_logo }}')";>
-                        <a href="partners/{{ partner.partner-sector }}" class="carousel-logo-link"></a>
-                        </div>
-                   {% endif %}     
-                   {% endfor %}
-                 
-                
-                </div>
-                
-            </div>            
-        </div>
-        
-    </article>
-    
-</section>  
+{% include homepage/partnerlogocarousel.html %}
     
 
 <section id="homeCounters" class="container-full-width container-content container-auto-height coloured">
@@ -197,101 +156,7 @@ title: Invest Essex
 </section>
   
 
-<section id="homeSectors" class="container-full-width container-content light" style="background-image: url('//clarity-strategies.github.io/ie-uploads/images/global/home-sectors.jpg');">
-
-    <article class="container">
-
-        <div class="row">
-            <div class="col-sm-12">
-            
-                <header class="section-header clearfix ">
-                    <h2>Essex UK:<br/>Chosen by leading businesses</h2>
-                    <div class="synopsis"><p>Essex&rsquo;s unique benefits have made it the preferred location for business operations of all sizes &ndash; from international corporate HQs to cutting-edge start-ups &ndash; serving industry sectors including Financial and Professional Services, Ports and Logistics Services, High-Technology and Life Sciences.</p></div>
-                    <a href="sectors.1" class="btn btn-header">Discover our business strengths</a>
-                </header> 
-            
-            </div>
-        </div>
-        
-        <div id="rowHomeSector1" class="row row-home-sector ">   
-              
-        	
-            <div class="col-sm-6">
-            
-                <div class="home-sector-block left">
-            
-                    <div class="image" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/services/HighTechClusters_555x440.jpg');"></div>
-                    
-                    <div class="content">                    
-                        <h3>High-Technology<br/>Cluster</h3>
-                        <p>Location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity</p>
-                        <a href="sectors/high-technology-cluster" class="btn btn-ghost">Read More</a>
-                    </div>
-                
-                </div>
-                            
-            </div>                     
-        
-        <div class="col-sm-6">
-            
-                <div class="home-sector-block right">
-            
-                    <div class="image" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/services/BPDF_Synopsis_555x300.jpg');"></div>
-                    
-                    <div class="content">                    
-                        <h3>London-Essex UK<br>Finance Corridor</h3>
-                        <p>Located on the doorstep of the City of London and Canary Wharf Essex is an ideal location for companies in the Business, Professional and Financial Services sector.</p>
-                        <a href="sectors/london-essex-uk-finance-corridor" class="btn btn-ghost">Read More</a>
-                    </div>
-                
-                </div>
-                            
-            </div>                     
-        
-                         
-        </div>
-        <div id="rowHomeSector3" class="row row-home-sector ">   
-              
-        	
-            <div class="col-sm-6">
-            
-                <div class="home-sector-block left">
-            
-                    <div class="image" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/services/LifeSc_Synopsis_555x300.jpg');"></div>
-                    
-                    <div class="content">                    
-                        <h3>Life Sciences &<br/>Healthcare Cluster</h3>
-                        <p>Essex is at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses in Europe’s largest Life Sciences & Healthcare technologies cluster</p>
-                        <a href="sectors/life-sciences-healthcare-cluster" class="btn btn-ghost">Read More</a>
-                    </div>
-                
-                </div>
-                            
-            </div>                     
-        
-        <div class="col-sm-6">
-            
-                <div class="home-sector-block right">
-            
-                    <div class="image" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/services/Ports_Synopsis_555x300.jpg');"></div>
-                    
-                    <div class="content">                    
-                        <h3>UK Multimodal<br>Gateway: Essex</h3>
-                        <p>Enabling logistics & distribution businesses to minimise costs, emissions & risks, maximise efficiency in transport planning, & ‘future-proof’ supply chains</p>
-                        <a href="sectors/uk-multimodal-gateway-essex" class="btn btn-ghost">Read More</a>
-                    </div>
-                
-                </div>
-                            
-            </div>                     
-        
-                         
-        </div>
-            
-        
-    </article>
-
-</section>     
+{% include homepage/sectors.html %}    
 
 
 <section id="homeCaseStudies" class="container-full-width container-content container-auto-height coloured" >

@@ -1,0 +1,42 @@
+<section id="homeSectors" class="container-full-width container-content light" style="background-image: url('//clarity-strategies.github.io/ie-uploads/images/global/home-sectors.jpg');">
+
+    <article class="container">
+
+        <div class="row">
+            <div class="col-sm-12">
+            
+                <header class="section-header clearfix ">
+                    <h2>Essex UK:<br/>Chosen by leading businesses</h2>
+                    <div class="synopsis"><p>Essex&rsquo;s unique benefits have made it the preferred location for business operations of all sizes &ndash; from international corporate HQs to cutting-edge start-ups &ndash; serving industry sectors including Financial and Professional Services, Ports and Logistics Services, High-Technology and Life Sciences.</p></div>
+                    <a href="sectors.1" class="btn btn-header">Discover our business strengths</a>
+                </header> 
+            
+            </div>
+        </div>
+    {% for sector in site.sectors %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 1 %}
+<!-- open the row -->
+    <div id="rowHomeSector{{ forloop.index }}" class="row row-home-sector ">
+    {% assign leftorright = 'left '%}
+    {% else %}
+    {% assign leftorright = 'right' %}
+    {% endif %}
+<!--  output the sector-->
+    <div class="col-sm-6">
+        <div class="home-sector-block {{leftorright}}">
+            <div class="image" style="background-image: url('{{ sector.synopsis_image}}');"></div>
+            <div class="content">                    
+              <h3>{{ sector.H3}}</h3>
+              <p>{{ sector.home_synopsis }}</p>
+              <a href="sectors/{{ sector.sector_url }}" class="btn btn-ghost">Read More</a>
+            </div>            
+        </div>                        
+    </div>
+    {% if mod == 0 %}
+    <!-- close the row -->
+    </div>
+    {% endif %}
+    {% endfor %}     
+    </article>
+</section>

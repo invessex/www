@@ -493,8 +493,8 @@ p.fp-title {
 	}
 .navbar-default .navbar-nav>li>a{ color: white;}
 @media (min-width: 768px){
-.white-background{background-color:rgba(65, 119, 35, 0.9)/*rgba(105, 158, 16, 0.8)*/;}
-.white-background .navbar-nav>li>a{ color: white;}
+.nav-background{background-color:rgba(65, 119, 35, 0.9)/*rgba(105, 158, 16, 0.8)*/;}
+.nav-background .navbar-nav>li>a{ color: white;}
 }
 
 #heroFeaturesDesktop{ margin-top: -30px; background: #f8f8f8;}

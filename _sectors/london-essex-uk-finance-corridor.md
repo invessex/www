@@ -1,6 +1,7 @@
 ---
 layout: sector
 title: London Essex UK Finance Corridor
+H3: London Essex UK<br/>Finance Corridor
 sector_url: london-essex-uk-finance-corridor
 H1: London Essex UK Finance Corridor
 synopsis: 'Located on the doorstep of the City of London and Canary Wharf Essex is an ideal location for companies in the Business, Professional and Financial Services sector.'

@@ -7,9 +7,9 @@ $(document).ready(function(){
         var scroll = $(window).scrollTop();
 
         if (scroll >= 50) {
-            header.addClass("white-background");
+            header.addClass("nav-background");
         } else {
-            header.removeClass("white-background");
+            header.removeClass("nav-background");
         }
     });
 });
