@@ -343,12 +343,14 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
    Homepage  treatments
    ------------------------------------ */
 p.fp-title {
-    margin: -45px 0px 60px 12px;
-    font-size: 20px;
-	line-height: 0.8;
+    /*margin: -45px 0px 60px 12px;*/
+    font-size: 16px;
+	text-align: center;
+	/*line-height: 0.8;
     color: white;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
+.fp8{padding-top:24px;}
 
 /* ------------------------------------ 
    Homepage Hero
@@ -474,7 +476,7 @@ p.fp-title {
 .navbar-nav>li>a {
     padding-top: 5px;
     padding-bottom: 0px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font-size: 15px;
 }
 
@@ -497,7 +499,16 @@ p.fp-title {
 .nav-background .navbar-nav>li>a{ color: white;}
 }
 
-#heroFeaturesDesktop{ margin-top: -30px; background: #f8f8f8;}
+#heroFeaturesDesktop{ margin-top: -30px;}
+#heroFeaturesDesktop>.container {
+    margin-top: 30px;
+}
+#heroFeaturesDesktop h3 {
+    text-transform: capitalize;
+    font-size: 24px;
+}
+#heroFeaturesDesktop .inner{background: #f8f8f8;}
+
 /* ------------------------------------ 
    Generic Content Reusable 
    ------------------------------------ */   
