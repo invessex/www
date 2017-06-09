@@ -2,6 +2,7 @@
 title: Prettys
 partner-sector: legal
 url: prettys
+homepage_logo: /partners/homepage-prettys-bw.png
 meta-description:
 ---
 

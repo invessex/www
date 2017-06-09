@@ -2,6 +2,7 @@
 title: Alchemy
 partner-sector: recruitment
 url: alchemy
+homepage_logo: /partners/homepage-alchemy-bw.png
 meta-description: Alchemy has been working within the specialised recruitment industry for 20 years.  Alchemy works with multi-national blue chip companies, SME's and everything in between and have a long standing reputation for providing quality candidates to clients.  Alchemy are based just outside of London in Braintree, Essex and recruit for the UK, Europe, APAC (Asia-Pacific), American and Middle East markets.
 ---
 

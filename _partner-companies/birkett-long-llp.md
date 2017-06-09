@@ -2,6 +2,7 @@
 title: Birkett Long LLP
 partner-sector: legal
 url: birkett-long-llp
+homepage_logo: /partners/homepage-birkett-bw.png
 meta-description:
 ---
 

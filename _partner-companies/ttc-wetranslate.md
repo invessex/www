@@ -2,6 +2,7 @@
 title: TTC wetranslate
 partner-sector: other
 url: ttc-wetranslate
+homepage_logo: /partners/homepage-TTC-bw.png
 meta-description:
 ---
 

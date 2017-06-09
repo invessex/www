@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+    <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center">                 
+               <div id="carouselNavLogoCarousel2424" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
+                   <div class="controls"></div>
+                </div>
+               <div id="carouselLogoCarousel2424" class="owl-carousel carousel-logo-carousel carousel-single-logos owl-loaded owl-drag" data-logo-carousel-entry-id="2424">                
+                   {% for partner in site.data.logo-carousels.partner-port-logistics%}
+                  <div class="item inner" style="background-image: url('{{ site.cdn_images}}{{ partner.logo }}')"></div>
+                   {% endfor %}
+                </div>  
+    </section>

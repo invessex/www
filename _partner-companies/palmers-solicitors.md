@@ -2,6 +2,7 @@
 title: Palmers Solicitors
 partner-sector: legal
 url: palmers-solicitors
+homepage_logo: /partners/Palmers_RGB_220x150_72dpi.png
 meta-description:
 ---
 

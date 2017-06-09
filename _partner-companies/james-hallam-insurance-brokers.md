@@ -2,6 +2,7 @@
 title: James hallam Insurance Brokers
 partner-sector: insurance
 url: james-hallam-insurance-brokers
+homepage_logo: /partners/homepage-jameshallam-bw.png
 meta-description:
 ---
 

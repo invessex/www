@@ -2,6 +2,7 @@
 title: ForceSelect
 partner-sector: recruitment
 url: forceselect
+homepage_logo:
 meta-description:
 ---
 

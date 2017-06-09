@@ -2,6 +2,7 @@
 title: Pure Resourcing Solutions
 partner-sector: recruitment
 url: pure-resourcing-solutions
+homepage_logo: /partners/homepage-Pure-bw.png
 meta-description:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: sector
 title: Life Sciences and Healthcare Cluster
-url: life-sciences-healthcare-cluster
+sector_url: life-sciences-healthcare-cluster
 H1: Life Sciences and Healthcare Cluster
 synopsis: 'Essex is located at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses within Europe’s largest Life Sciences and Healthcare technologies cluster.'
 home_synopsis: 'Essex is at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses in Europe’s largest Life Sciences & Healthcare technologies cluster'

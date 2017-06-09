@@ -111,7 +111,7 @@ $(document).ready(function(){
 	
 		//Owl Carousels Logo Types Subpages
 		function carouselTypeLogos(carousel, controlsContainer){
-			
+			console.log('we getting there '+controlsContainer)
 			// Owl Carousel Intialise
 			$(carousel).owlCarousel({
 			

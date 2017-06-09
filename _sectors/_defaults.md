@@ -1,7 +1,7 @@
 ---
 layout: sector
 title:
-url:
+sector_url:
 H1:
 synopsis:
 home_synopsis:

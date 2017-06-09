@@ -2,6 +2,7 @@
 title: Kemsley LLP
 partner-sector: commercial-property
 url: kemsley-llp
+homepage_logo: /partners/homepage-kemsley-bw.png
 meta-description:
 ---
 

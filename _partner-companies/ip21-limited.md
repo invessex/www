@@ -2,6 +2,7 @@
 title: ip21 Limited
 partner-sector: legal
 url: ip21-limited
+homepage_logo: /partners/ip21_RGB_72dpi_WHITEOUT_220x150px.jpg
 meta-description:
 ---
 

@@ -2,6 +2,7 @@
 title: Spacio
 partner-sector: other
 url: spacio
+homepage_logo:
 meta-description:
 ---
 

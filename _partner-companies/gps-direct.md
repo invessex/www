@@ -2,6 +2,7 @@
 title: GPS-Direct
 partner-sector: other
 url: gps-direct
+homepage_logo:
 meta-description:
 ---
 

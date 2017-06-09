@@ -220,7 +220,13 @@ synopsis: Through a unique combination of location benefits, Essex delivers for 
             </article>
         
         </section>
-
+   <section id="video" class="container-full-width container-content container-auto-height dark container-no-padding">
+    
+        <div class="home-video-container">
+            <iframe src="http://www.youtube.com/embed/o-PqOGeV1Hs" frameborder="0" width="560" height="315"></iframe>
+        </div>   
+    
+    </section>
         
         <section id="what-companies-say" class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
         
@@ -252,80 +258,30 @@ synopsis: Through a unique combination of location benefits, Essex delivers for 
             </article>
         
         </section>
-   <section id="video" class="container-full-width container-content container-auto-height dark container-no-padding">
-    
-        <div class="home-video-container">
-            <iframe src="http://www.youtube.com/embed/o-PqOGeV1Hs" frameborder="0" width="560" height="315"></iframe>
-        </div>   
-    
-    </section>
+
         
-        <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
+<section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
 
     <div class="container">
-
         <div class="row">
-            <div class="col-sm-12 text-center">                 
-            
-            	
-                    
-                <div class="owl-carousel carousel-testimonials owl-loaded owl-drag">
-                      
-                                                          
-                            
-                                                          
-                            
-                                                          
-                            
-                        
-                
-                <div class="owl-stage-outer owl-height" style="height: 198px;"><div class="owl-stage" style="left: -2280px; width: 7980px;"><div class="owl-item cloned" style="width: 1140px;"><div class="inner">                                          
+            <div class="col-sm-12 text-center"> 
+                <div class="carousel-nav-owl clearfix">
+                   <div class="controls"></div>
+                </div>                 
+                <div class="owl-carousel carousel-testimonials owl-loaded owl-drag">                
+                   {% for testimonial in site.data.testimonial-carousels.testimonials-opportunities %}
+                            <div class="inner">                                          
                                 <div class="quote">                      
-                                    <p>We base a lot of our activity in the UK and a lot of that is in Essex. It gives us tremendous access to road, rail and sea networks, and its also a great place to attract the right sorts of people and that’s enabled us to reach right out into the global economy.</p>
+                                    <p>{{ testimonial.quote }}</p>
                                 </div>
-                                <p class="name">Graham Hoare</p>
-                                <p class="company">Ford Motor Company’s Director of Global Vehicle Evaluation and Verification</p>
-                            </div></div><div class="owl-item cloned" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>Essex has proved to be an excellent recruiting ground for high-quality staff - you could call the county an administration corridor. When we were looking for staff for our contact centre, we found that it was very easy to source people locally with the right personal skills for front line customer contact duties.</p>
-                                </div>
-                                <p class="name">Julian Rice</p>
-                                <p class="company">International Financial Data Services (IFDS)</p>
-                            </div></div><div class="owl-item active" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>Collaboration with the international research community is an important part of our business.&nbsp; Essex is conveniently situated for a team that is very mobile. We find that having London Stansted Airport and London Heathrow Airport so close by is important.</p>
-                                </div>
-                                <p class="name">Sandy McBean</p>
-                                <p class="company">General Manager Europe, Illumina</p>
-                            </div></div><div class="owl-item" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>We base a lot of our activity in the UK and a lot of that is in Essex. It gives us tremendous access to road, rail and sea networks, and its also a great place to attract the right sorts of people and that’s enabled us to reach right out into the global economy.</p>
-                                </div>
-                                <p class="name">Graham Hoare</p>
-                                <p class="company">Ford Motor Company’s Director of Global Vehicle Evaluation and Verification</p>
-                            </div></div><div class="owl-item" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>Essex has proved to be an excellent recruiting ground for high-quality staff - you could call the county an administration corridor. When we were looking for staff for our contact centre, we found that it was very easy to source people locally with the right personal skills for front line customer contact duties.</p>
-                                </div>
-                                <p class="name">Julian Rice</p>
-                                <p class="company">International Financial Data Services (IFDS)</p>
-                            </div></div><div class="owl-item cloned" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>Collaboration with the international research community is an important part of our business.&nbsp; Essex is conveniently situated for a team that is very mobile. We find that having London Stansted Airport and London Heathrow Airport so close by is important.</p>
-                                </div>
-                                <p class="name">Sandy McBean</p>
-                                <p class="company">General Manager Europe, Illumina</p>
-                            </div></div><div class="owl-item cloned" style="width: 1140px;"><div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>We base a lot of our activity in the UK and a lot of that is in Essex. It gives us tremendous access to road, rail and sea networks, and its also a great place to attract the right sorts of people and that’s enabled us to reach right out into the global economy.</p>
-                                </div>
-                                <p class="name">Graham Hoare</p>
-                                <p class="company">Ford Motor Company’s Director of Global Vehicle Evaluation and Verification</p>
-                            </div></div></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                                <p class="name">{{ testimonial.name }}</p>
+                                <p class="company">{{ testimonial.company }}</p>
+                            </div>
+                   {% endfor %}
+                </div>
                 
             </div>            
-        </div>
-        
+        </div>   
 	</div>
     
 </section><section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
@@ -360,73 +316,45 @@ synopsis: Through a unique combination of location benefits, Essex delivers for 
         </section>
         
         
-        <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
-
+    <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
     <div class="container">
-
         <div class="row">
             <div class="col-sm-12 text-center">                 
-            
-                <div id="carouselNavLogoCarousel2421" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
-                        <div class="controls"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div>
-                </div> 
-                    
-                <div id="carouselLogoCarousel2421" class="owl-carousel carousel-single-logos carousel-logo-carousel owl-loaded owl-drag" data-logo-carousel-entry-id="2421">
-                      
-                        
-                
-                <div class="owl-stage-outer"><div class="owl-stage" style="left: -1380px; width: 5290px;"><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/qbe-logo-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/lv-insurence-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/rbs-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/converso-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/Gallagher-Logo-2-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/linklaters-logo-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/international-financial-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/amlin-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/bny-mellon-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/first-data-logo-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/marshnew-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/qbe-logo-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/lv-insurence-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/rbs-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/converso-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/Gallagher-Logo-2-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/linklaters-logo-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/international-financial-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/amlin-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/bny-mellon-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/first-data-logo-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/marshnew-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/qbe-logo-on-white.jpg')" ;=""></div></div></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
-                
-            </div>            
-        </div>
-        
-	</div>
-    
-</section><section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
-
+               <div id="carouselNavLogoCarousel2421" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
+                   <div class="controls"></div>
+                </div>
+               <div id="carouselLogoCarousel2421" class="owl-carousel carousel-logo-carousel carousel-single-logos owl-loaded owl-drag" data-logo-carousel-entry-id="2421">                
+                   {% for partner in site.data.logo-carousels.partner-business-professional-financial-services %}
+                  <div class="item inner" style="background-image: url('{{ site.cdn_images}}{{ partner.logo }}')"></div>
+                   {% endfor %}
+                </div>  
+    </section>
+    <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
     <div class="container">
-
         <div class="row">
             <div class="col-sm-12 text-center">                 
-            
-                <div id="carouselNavLogoCarousel2420" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
-                        <div class="controls"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div>
-                </div> 
-                    
-                <div id="carouselLogoCarousel2420" class="owl-carousel carousel-single-logos carousel-logo-carousel owl-loaded owl-drag" data-logo-carousel-entry-id="2420">
-                      
-                        
-                
-                <div class="owl-stage-outer"><div class="owl-stage" style="left: -1150px; width: 3910px;"><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/olympus-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/illumina-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/charles-river-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/isogenica-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/martindale-pharma-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/cell-centric-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/hs-clement-clarke-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/olympus-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/illumina-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/charles-river-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/isogenica-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/martindale-pharma-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/cell-centric-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/hs-clement-clarke-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/olympus-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/illumina-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/charles-river-on-white.jpg')" ;=""></div></div></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
-                
-            </div>            
-        </div>
-        
-	</div>
-    
-</section><section class="container-full-width container-content container-single-pager light adjacent-light">
-
+               <div id="carouselNavLogoCarousel2420" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
+                   <div class="controls"></div>
+                </div>
+               <div id="carouselLogoCarousel2420" class="owl-carousel carousel-logo-carousel carousel-single-logos owl-loaded owl-drag" data-logo-carousel-entry-id="2420">                
+                   {% for partner in site.data.logo-carousels.partner-life-sciences %}
+                  <div class="item inner" style="background-image: url('{{ site.cdn_images}}{{ partner.logo }}')"></div>
+                   {% endfor %}
+                </div>  
+    </section>
+    <section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
     <div class="container">
-
         <div class="row">
             <div class="col-sm-12 text-center">                 
-            
-                <div id="carouselNavLogoCarousel2424" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
-                        <div class="controls"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div>
-                </div> 
-                    
-                <div id="carouselLogoCarousel2424" class="owl-carousel carousel-single-logos carousel-logo-carousel owl-loaded owl-drag" data-logo-carousel-entry-id="2424">
-                      
-                        
-                
-                <div class="owl-stage-outer"><div class="owl-stage" style="left: -1150px; width: 4370px;"><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/stobart-group-logo-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/fedex_logo-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/forth-ports-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/ups-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/canute-logoon-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/hutchinson-whampoa-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/db-schenker-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/dp-world-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/kuehne-nagel-on-white.jpg')" ;=""></div></div><div class="owl-item active" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/stobart-group-logo-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/fedex_logo-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/forth-ports-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/ups-on-white.jpg')" ;=""></div></div><div class="owl-item" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/canute-logoon-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/hutchinson-whampoa-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/db-schenker-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/dp-world-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/kuehne-nagel-on-white.jpg')" ;=""></div></div><div class="owl-item cloned" style="width: 220px; margin-right: 10px;"><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/stobart-group-logo-on-white.jpg')" ;=""></div></div></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
-                
-            </div>            
-        </div>
-        
-	</div>
-    
-</section>    
+               <div id="carouselNavLogoCarousel2424" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
+                   <div class="controls"></div>
+                </div>
+               <div id="carouselLogoCarousel2424" class="owl-carousel carousel-logo-carousel carousel-single-logos owl-loaded owl-drag" data-logo-carousel-entry-id="2424">                
+                   {% for partner in site.data.logo-carousels.partner-port-logistics%}
+                  <div class="item inner" style="background-image: url('{{ site.cdn_images}}{{ partner.logo }}')"></div>
+                   {% endfor %}
+                </div>  
+    </section>  
 
 <section id="contact-block" class="container-full-width container-content container-auto-height container-contact dark">
  
@@ -454,7 +382,7 @@ synopsis: Through a unique combination of location benefits, Essex delivers for 
 
                 	
                                 
-                                            <div class="panel panel-default">
+                      <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="heading1">
                             <h4 class="panel-title">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">

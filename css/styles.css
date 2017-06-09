@@ -1048,7 +1048,7 @@ header.section-header .btn-header:hover {
 	padding: 0;
 }
 
-.owl-carousel>.owl-controls>.owl-dots {
+.owl-carousel .owl-dots {/*.owl-controls> */
 	position: relative;
 	display: block;
 	margin-top: 45px;
@@ -1057,7 +1057,7 @@ header.section-header .btn-header:hover {
 }
 
 
-.owl-carousel>.owl-controls>.owl-dots>.owl-dot {
+.owl-carousel .owl-dots .owl-dot {/*.owl-controls> */
 	display: inline-block;
 	height: 12px;
 	width: 12px;
@@ -1066,7 +1066,7 @@ header.section-header .btn-header:hover {
 	margin-right: 4px;
 }
 
-.owl-carousel>.owl-controls>.owl-dots>.owl-dot.active {
+.owl-carousel .owl-dots .owl-dot.active {/*.owl-controls> */
 	background: #6ba00f;	
 }
 

@@ -1,0 +1,61 @@
+<section id="contact-block" class="container-full-width container-content container-auto-height container-contact dark">
+<article class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <header class="section-header carousel-below clearfix">
+        <h2>Contact</h2>                       
+      </header> 
+    </div>
+  </div>
+        
+  <div class="row row-contact-panels">
+    <div class="col-sm-12">
+      <div class="contact-panel panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+      <!-- start single contact part --> 
+{% for contact in site.contacts %}     
+        <div class="panel panel-default">
+          <div class="panel-heading" role="tab" id="heading{{ forloop.index }}">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapse{{ forloop.index }}" class="collapsed">{{ contact.name }} <span>{{ contact.job_title }}</span></a>
+            </h4>
+          </div>
+          {% if forloop.index == 1 %}{% assign inclass = 'in' %}{% else %}{% assign inclass = '' %}{% endif %}
+          <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {{ inclass }}" role="tabpane{{ forloop.index }}" aria-labelledby="heading{{ forloop.index }}" style="height: 0px;">
+            <div class="panel-body">                                
+              <div class="row-contact clearfix">
+                <div class="image">
+                  <figure><img src="{{ contact.photo }}" alt="{{ contact.name }}" border="0"></figure>
+                </div>
+                <div class="details">
+                  <h5>{{ contact.name }}</h5>
+                    <p class="job-title">{{ contact.job_title }}</p>
+                    <p class="phone-number">{{ contact.telno }}</p>
+                    <ul class="social-icons clearfix">
+                    <li class="twitter"><a href="http://www.twitter.com/{{ contact.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                    <li class="linkedin"><a href="http://uk.linkedin.com/in/{{ contact.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a></li>                 <li class="email"><a href="mailto:{{ contact.email }}"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                 </div>
+                 <div class="bio">
+                   <h5>Biography</h5>
+                     <p>{{ contact.bio }}</p>
+                 </div>   
+              </div>
+              <div class="row-contact-buttons">
+                    
+                    <!-- <span style="color:white;">this is the sector {{ contact.sectors }}</span> -->
+                    {% for thissector in contact.sectors %}
+                    {% assign relsector = site.sectors | where: "sector_url", thissector | first  %}
+                    <a href="/sectors/{{ relsector.sector_url }}" class="btn">{{ relsector.title}}</a>
+                    {% endfor%}   
+                    <a href="/contacts" class="btn">View All Contacts</a>
+              </div>                                
+            </div>
+          </div>
+        </div>
+{% endfor %}
+        <!-- END single contact part -->                 
+      </div>     
+    </div>
+  </div>        
+</article>
+</section>

@@ -2,6 +2,7 @@
 title: Birketts LLP
 partner-sector: legal
 url: birketts-llp
+homepage_logo:
 meta-description:
 ---
 

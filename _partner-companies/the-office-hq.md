@@ -2,6 +2,7 @@
 title: The Office HQ
 partner-sector: other
 url: the-office-hq
+homepage_logo:
 meta-description:
 ---
 

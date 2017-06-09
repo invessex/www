@@ -1,7 +1,8 @@
 ---
-title: Knight Frank
+title: Garrington
 partner-sector: commercial-property
-url: knight-frank
+url: garrington
+homepage_logo:
 meta-description:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: sector
 title: High-Technology Cluster
-url: high-technology-cluster
+sector_url: high-technology-cluster
 H1: High-Technology Cluster
 synopsis: 'Essex is the location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity.'
 home_synopsis: 'Location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity'

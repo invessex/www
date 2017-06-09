@@ -2,6 +2,7 @@
 title: Lambert Smith Hampton
 partner-sector: commercial-property
 url: lambert-smith-hampton
+homepage_logo: /partners/Homepage-LSH-bw.png
 meta-description:
 ---
 

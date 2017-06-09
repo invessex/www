@@ -2,6 +2,7 @@
 title: Knight Frank
 partner-sector: commercial-property
 url: knight-frank
+homepage_logo: /partners/homepage-knight-frank-bw.png
 meta-description:
 ---
 

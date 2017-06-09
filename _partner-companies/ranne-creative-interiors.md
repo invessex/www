@@ -2,6 +2,7 @@
 title: Ranne Creative Interiors
 partner-sector: other
 url: ranne-creative-interiors
+homepage_logo: /partners/homepage-Ranne-bw.png
 meta-description:
 ---
 

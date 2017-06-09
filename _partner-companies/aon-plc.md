@@ -2,6 +2,7 @@
 title: Aon plc
 partner-sector: insurance
 url: aon-plc
+homepage_logo: /partners/Aon_Whiteout_Trans_220x150.png
 meta-description:
 ---
 

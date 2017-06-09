@@ -2,6 +2,7 @@
 title: Harwin Property Consultants
 partner-sector: commercial-property
 url: harwin-property-consultants
+homepage_logo: /partners/Harwin_RGB_White_Trans_220x150.png
 meta-description:
 ---
 

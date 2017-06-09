@@ -2,6 +2,7 @@
 title: bristol -global-mobility
 partner-sector: other
 url: bristol-global-mobility
+homepage_logo:
 meta-description:
 ---
 

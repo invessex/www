@@ -2,6 +2,7 @@
 title: Red Recruit
 partner-sector: recruitment
 url: rec-recruit
+homepage_logo:
 meta-description: Red Recruit has been servicing the recruitment needs of internationally renowned businesses since 2002. They have experienced consultants in specialist employment areas within the Removals, Relocations, Shipping, Freight, Logistics, Property & Global Mobility.
 ---
 

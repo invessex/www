@@ -2,6 +2,7 @@
 title: Wortley Byers
 partner-sector: legal
 url: wortley-byers
+homepage_logo: /partners/WortleyByers_220x150px_72dpi.png
 meta-description:
 ---
 
