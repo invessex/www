@@ -5,6 +5,7 @@ heading: M25 Business Centre
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/waltham-abbey_1980.jpg
 layout: case-study
 pub_date: '2017-02-15 00:00:00'
+leading-company: true
 related:
 - office-expansion-in-essex
 sectors:

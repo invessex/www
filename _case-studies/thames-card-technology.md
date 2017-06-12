@@ -5,6 +5,7 @@ heading: "One of the UK\u2019s largest plastic card manufacturers"
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/TCT_Building2_600H.jpg
 layout: case-study
 pub_date: '2017-04-25 00:00:00'
+leading-company: false
 related:
 - thames-card-technology-wins-contract-to-produce-over-one-million-chip-payme
 - payment-technology-company-reports-increased-manufacturing-sales-of-18m

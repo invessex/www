@@ -5,6 +5,7 @@ heading:
 hero_image: 
 layout: case-study
 pub_date: 
+leading-company: false
 related: 
 sectors: 
 synopsis: 

@@ -5,6 +5,7 @@ heading: BAE Systems
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/BAE_Banner.jpg
 layout: case-study
 pub_date: '2016-12-16 00:00:00'
+leading-company: true
 related: null
 sectors:
 - high-technology-cluster

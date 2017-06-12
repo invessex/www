@@ -5,6 +5,7 @@ heading: e2v technologies
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/E2v_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
+leading-company: true
 related: null
 sectors:
 - uk-multimodal-gateway-essex

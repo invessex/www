@@ -35,6 +35,9 @@ collections:
   case-studies:
     output: true
     permalink: /studies/case-studies/:path
+  case-studies-leading-companies:
+    output: true
+    permalink: /studies/case-studies/:path
   place-studies:
     output: true
     permalink: /studies/place-studies/:path

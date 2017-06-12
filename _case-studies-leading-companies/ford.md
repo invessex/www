@@ -5,6 +5,7 @@ heading: Ford
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Ford_Banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
+leading-company: true
 related:
 sectors:
 - high-technology-cluster
@@ -28,9 +29,5 @@ url: ford
 <p>
 	Ford has been one of the outstanding success stories for the Essex business community, with its long track record of engineering excellence, product quality and market leadership.</p>
    
-                    
-                    
-                        	<ul class="downloadable-files">                        
-                            	<li class="header">Associated Files</li>
-                            <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IECS_ford.pdf" alt="" class="btn ugdv_link" target="_blank">Ford Case Study <span>(346 KB)</span></a></li>
-                            </ul>
+ {% include download.html url="//clarity-strategies.github.io/ie-uploads/uploads/studies/IECS_ford.pdf" name="Ford Case Study" size="0.34" %}
+
