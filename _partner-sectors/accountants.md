@@ -1,7 +1,7 @@
 ---
 permalink: /partners/accountants
 title: Accountants
-url: accountants
+sector_url: accountants
 listing_image: //clarity-strategies.github.io/ie-uploads/uploads/services/Accountants_List_555x300.jpg
 related-sectors:
   - london-essex-uk-finance-corridor
@@ -20,5 +20,7 @@ meta-description:
 date: 2014-04-11 19:31:00
 ---
 
-Our accountancy partners benefit from wide-ranging experience of working with UK and international companies to plan and establish new business operations. 
+Our accountancy partners benefit from wide-ranging experience of working with UK and international companies to plan and establish new business operations.
+
 They bring specialist knowledge of the UK regulatory and tax environment and are focused on developing long-lasting business partnerships.
+

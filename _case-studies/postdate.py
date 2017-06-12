@@ -7,15 +7,15 @@ from datetime import datetime
 import frontmatter
 import os
 
-contacts = {'Simon Papworth' :'simon-papworth','Robert Edge':'robert-edge','David Rooke': 'david-rooke','Dave Russell-Graham':'dave-russell-graham','Corinne Hearne': 'corinne-hearne'}
+#contacts = {'Simon Papworth' :'simon-papworth','Robert Edge':'robert-edge','David Rooke': 'david-rooke','Dave Russell-Graham':'dave-russell-graham','Corinne Hearne': 'corinne-hearne'}
 
 for iname in os.listdir(os.getcwd()):
   if '.md' in iname.lower():
     with open(iname,'r') as f:
       filecontents = f.read()
       f.close
-      filecontents = filecontents.replace('heroimg:','hero_image:')
-      filecontents = filecontents.replace('thumb:','thumbnail_image:')
+      filecontents = filecontents.replace('sector_url:','study_url:')
+      #filecontents = filecontents.replace('thumb:','thumbnail_image:')
     with open(iname,'w') as f:
       f.write(filecontents)
       f.close()

@@ -10,5 +10,5 @@ related:
 sectors: 
 synopsis: 
 thumbnail_image: 
-url: 
+study_url: 
 ---

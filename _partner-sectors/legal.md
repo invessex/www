@@ -1,7 +1,7 @@
 ---
 permalink: /partners/legal
 title: Legal
-url: legal
+sector_url: legal
 listing_image: //clarity-strategies.github.io/ie-uploads/uploads/services/Legal_List_555x300.jpg
 related-sectors:
   - high-technology-cluster

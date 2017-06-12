@@ -1,7 +1,7 @@
 ---
 permalink: /partners/insurance
 title: Insurance
-url: insurance
+sector_url: insurance
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Insurance_555x333.jpg
 related-sectors: /uploads/services/_thumbs/Insurance_1980x600.jpg
 contact: corinne-hearne

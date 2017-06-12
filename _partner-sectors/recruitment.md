@@ -1,7 +1,7 @@
 ---
 permalink: /partners/recruitment
 title: Recruitment
-url: recruitment
+sector_url: recruitment
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Recruitment_lstg_555x300.jpg
 related-sectors:
   - high-technology-cluster

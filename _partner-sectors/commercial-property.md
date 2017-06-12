@@ -1,7 +1,7 @@
 ---
 permalink: /partners/commercial-property
 title: Commercial Property
-url: commercial-property
+sector_url: commercial-property
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Property_List_555x300.jpg
 related-sectors:
   - high-technology-cluster

@@ -11,7 +11,7 @@ sectors:
 - high-technology-cluster
 synopsis: CML Microsystems - Global innovation in integrated circuits.
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CML_Banner.jpg
-url: cml-microsystems
+study_url: cml-microsystems
 ---             
 
 <p>

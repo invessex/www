@@ -54,10 +54,10 @@ collections:
     output: false
     permalink: /invest-essex-events/:path
   partner-sectors:
-    output: false
+    output: true
     permalink: /partner-sectors/:path
   partner-companies:
-    output: false
+    output: true
     permalink: /partner-companies/:path
 
   

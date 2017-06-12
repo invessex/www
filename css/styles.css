@@ -351,6 +351,7 @@ div.fp-title {
     padding: 18px 8px 8px 8px;
     height: 80px;
     margin-top: -8px;
+	vertical-align: middle;
 	/*line-height: 0.8;
     color: white;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/

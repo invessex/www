@@ -11,7 +11,7 @@ sectors:
 - high-technology-cluster
 synopsis: Gigawave - Innovative support for global broadcasting.
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Gigawave_Tile.jpg
-url: gigawave
+study_url: gigawave
 ---
 
 <p>

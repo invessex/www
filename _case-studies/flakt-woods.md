@@ -10,7 +10,7 @@ related: null
 sectors: null
 synopsis: "Fl\xE4kt Woods - Bringing air to life."
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_Tile.jpg
-url: flakt-woods
+study_url: flakt-woods
 ---
 
 

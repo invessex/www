@@ -11,7 +11,7 @@ sectors:
 - high-technology-cluster
 synopsis: Marconi - Inventor of radio communications.
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Birth_Radio_Tile.jpg
-url: birthplace-of-radio
+study_url: birthplace-of-radio
 ---
 <h3 style="margin-top: 0px;">Marconi - Inventor of radio communications.</h3>
 

@@ -1,7 +1,7 @@
 ---
 permalink: /partners/banks
 title: Banks in Essex
-url: banks
+sector_url: banks
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Banks_List_555x300.jpg
 related-sectors:
   - london-essex-uk-finance-corridor

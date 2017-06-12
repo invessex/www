@@ -11,7 +11,7 @@ sectors:
 - high-technology-cluster
 synopsis: JW Froehlich UK - Testing the world’s engines.
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JW_Tile.jpg
-url: j-w-froehlich-uk
+study_url: j-w-froehlich-uk
 ---
                 
 <p>

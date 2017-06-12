@@ -1,0 +1,141 @@
+---
+layout: default
+---
+
+{% assign partnersector = site.partner-sectors | where: "sector_url", "other" | first  %}
+<section class="container-full-width container-subpage-hero dark" style="background-image: url('{{ partnersector.hero_image }}')">    
+        <div class="black-overlay"></div>
+           
+                
+    <div class="container">           
+             
+        <div class="inner">     
+            <header class="section-header clearfix">
+              <h1>{{ partnersector.title}}</h1>
+                <div class="synopsis">
+					{{ partnersector.content }} 
+                </div>
+            </header> 
+        </div>
+        
+    </div>
+
+</section>
+<section class="container-full-width container-content container-auto-height light">
+
+    <article class="container">
+    
+        <div class="row">
+        
+            <div class="col-sm-7 col-md-8 col-listing-content">
+            
+                <header class="section-header carousel-below clearfix">
+                    <h2>Partners</h2>
+                </header> 
+                
+                <div class="content"> 
+                {% assign partner-companies = site.partner-companies | where: "partner-sector", "other" %}  
+                {% for partner in partner-companies %}
+                <h3>{{ partner.title }}</h3>
+                {{ partner.content }}
+                {% endfor%}
+   
+                    
+                </div>
+
+            
+            </div>
+            
+            
+<!-- Start Aside -->          
+<aside class="col-sm-5 col-md-4 col-sidebar">  
+        
+    <!-- Start Widget -->
+    {% for casestudy in partnersector.related-case-studies %}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget carousel">
+                    <h5>Related Case Studies</h5>
+                       <div class="carousel-nav-owl carousel-nav-sidebar-case-studies clearfix ">
+                        <div class="controls"></div>
+                      </div> 
+                    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-case-studies"> 
+                    {% endif %}
+                    {% assign sectorcasestudy = site.case-studies | where: "study_url", casestudy %}
+                    {% for cstudy in sectorcasestudy %}
+                    <div class="inner">
+                        <div class="image" style="background-image: url('{{ cstudy.thumbnail_image }}');"></div>
+                        <h6>{{ cstudy.heading }}</h6>
+                        
+                        <a href="/studies/place-studies/{{ cstudy.url }}" class="btn">Read More</a>
+                    </div>
+                    {% endfor %}
+                       {% if forloop.last %} </div> </div> {% endif %}
+      {% endfor %} 
+<!-- End Widget -->   
+             
+<!-- Start Widget -->
+
+    {% for placestudy in partnersector.related-place-studies %}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget carousel">
+                    <h5>Related Place Studies</h5>
+                       <div class="carousel-nav-owl carousel-nav-sidebar-place-studies clearfix ">
+                        <div class="controls"></div>
+                      </div> 
+                    <div class="owl-carousel carousel-sidebar-widget carousel-sidebar-place-studies"> 
+                    {% endif %}
+                    {% assign sectorplacestudy = site.place-studies | where: "study_url", placestudy %}
+                    {% for pstudy in sectorplacestudy %}
+                    <div class="inner">
+                        <div class="image" style="background-image: url('{{ pstudy.thumbnail_image }}');"></div>
+                        <h6>{{ pstudy.heading }}</h6>
+                        
+                        <a href="/studies/place-studies/{{ pstudy.url }}" class="btn">Read More</a>
+                    </div>
+                    {% endfor %}
+                       {% if forloop.last %} </div> </div> {% endif %}
+      {% endfor %}  
+
+<!-- End Widget -->                
+<!-- Start Widget -->
+{% for article in partnersector.related-articles %}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget articles">
+                    <h5>Related Articles</h5>
+                    {% endif %}
+                    {% assign relposts = site.posts | where: "posturl", article %}
+                        {% for item in relposts %}
+                            <div class="article">
+                                <h6>{{ item.title }}</h6>
+                                <ul class="info clearfix">
+                                    <li class="date">{{ item.date | date_to_long_string }}</li>
+                                    <li><a href="{{ item.url }}" class="btn">Read More</a></li>
+                                </ul>
+                            </div>
+                        {% endfor %}
+                       {% if forloop.last %} </div> {% endif %}
+                    {% endfor %}  
+                <!-- Start Widget -->
+
+                    {% for sector in partnersector.related-sectors%}
+                    {% if forloop.first %}
+                    <div class="sidebar-widget list-links">
+                        <h5>Related Sectors</h5>
+                          <ul>           
+                    {% endif %}                   
+                    <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+                    {% if forloop.last %}
+                          </ul>  
+                     </div>
+                     {% endif %}
+                    {% endfor %}  
+</aside>
+
+<!-- End aside --> 
+        
+        
+        </div>       
+    
+    </article>
+    
+</section>

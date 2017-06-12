@@ -1,7 +1,7 @@
 ---
 permalink: /partners/other
 title: Other
-url: other
+sector_url: other
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Other_List_555x300.jpg
 related-sectors:
   - high-technology-cluster
