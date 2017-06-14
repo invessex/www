@@ -1,6 +1,6 @@
 ---
 title: GPS-Direct
-partner-sector: other
+partner-sector: business-services
 url: gps-direct
 homepage_logo:
 meta-description:

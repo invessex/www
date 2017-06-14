@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign partnersector = site.partner-sectors | where: "sector_url", "other" | first  %}
+{% assign partnersector = site.partner-sectors | where: "sector_url", "business-services" | first  %}
 <section class="container-full-width container-subpage-hero dark" style="background-image: url('{{ partnersector.hero_image }}')">    
         <div class="black-overlay"></div>
            
@@ -34,7 +34,7 @@ layout: default
                 </header> 
                 
                 <div class="content"> 
-                {% assign partner-companies = site.partner-companies | where: "partner-sector", "other" %}  
+                {% assign partner-companies = site.partner-companies | where: "partner-sector", "business-services" %}  
                 {% for partner in partner-companies %}
                 <h3>{{ partner.title }}</h3>
                 {{ partner.content }}

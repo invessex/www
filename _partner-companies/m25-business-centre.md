@@ -1,6 +1,6 @@
 ---
 title: M25 Business Centre
-partner-sector: other
+partner-sector: business-services
 url: m25-business-centre
 homepage_logo: /partners/homepage-M25-bw.png
 meta-description:

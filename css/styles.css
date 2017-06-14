@@ -338,17 +338,19 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#699e10', endColorstr='#417723',GradientType=0 ); /* IE6-8 */
 	}
 	
-
+/* INvest Essex Logo */
+.ielogo{ margin-top: -1px;}
 /* ------------------------------------ 
    Homepage  treatments
    ------------------------------------ */
 div.fp-title {
     /*margin: -45px 0px 60px 12px;*/
     font-size: 18px;
-	text-align: center;
-	font-weight: bold;
+	text-align: left;
+	color:#494444;
+	
 	background: white;
-    padding: 18px 8px 8px 8px;
+    padding: 18px 8px 8px 18px;
     height: 80px;
     margin-top: -8px;
 	vertical-align: middle;
@@ -356,6 +358,8 @@ div.fp-title {
     color: white;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
+
+
 .fp8{padding-top:24px;}
 
 /* ------------------------------------ 
@@ -366,6 +370,7 @@ div.fp-title {
 }
 .jumbotron {
 	background-color: transparent;
+	padding-bottom: 0px;
 }
 @media screen and (min-width: 768px)
 {
@@ -375,7 +380,7 @@ div.fp-title {
 	border-left: 6px solid #699e10;
 	padding: 8px;
 }
-}
+
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 28px;
@@ -391,8 +396,9 @@ div.fp-title {
 @media (min-width:992px) {
   .hero .get-it {
     text-align:left;
-    margin-top:60px;
+    margin-top:30px;
     padding-right:30px;
+	margin-left: -30px;
   }
 }
 
@@ -411,7 +417,7 @@ div.fp-title {
 .hero .get-it h1, .hero .get-it p {
   color:#fff;
   text-shadow:2px 2px 3px rgba(0,0,0,0.6);
-  margin-bottom:0px;
+  margin-bottom:30px;
 }
 
 .hero .get-it .btn {

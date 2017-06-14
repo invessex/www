@@ -1,6 +1,6 @@
 ---
 title: TTC wetranslate
-partner-sector: other
+partner-sector: business-services
 url: ttc-wetranslate
 homepage_logo: /partners/homepage-TTC-bw.png
 meta-description:

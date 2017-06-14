@@ -1,7 +1,7 @@
 ---
-permalink: /partners/other
-title: Other
-sector_url: other
+permalink: /partners/business-services
+title: Business Services
+sector_url: business-services
 listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Other_List_555x300.jpg
 related-sectors:
   - high-technology-cluster

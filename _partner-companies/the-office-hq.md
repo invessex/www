@@ -1,6 +1,6 @@
 ---
 title: The Office HQ
-partner-sector: other
+partner-sector: business-services
 url: the-office-hq
 homepage_logo:
 meta-description:

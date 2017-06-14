@@ -1,6 +1,6 @@
 ---
 title: Spacio
-partner-sector: other
+partner-sector: business-services
 url: spacio
 homepage_logo:
 meta-description:
