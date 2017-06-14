@@ -21,7 +21,6 @@ related-articles:
 meta-description:
 date: 2014-04-11 19:31:00
 ---
-
 Our legal partners are experienced in providing expert support to UK and international businesses. 
 Services available address all legal aspects of the business relocation or expansion process, including 
 understanding the UK legal and regulatory environment, establishing a UK business, property transactions and employment law.

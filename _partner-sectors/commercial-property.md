@@ -24,7 +24,6 @@ related-articles:
 meta-description:
 date: 2015-05-20 08:44:00
 ---
-
 Our commercial property consultants and agents provide research, advice and property services for expanding companies.
 They work with businesses to understand the UK and Essex property market, identify and deliver suitable property and development 
 solutions, and undertake successful property transactions.

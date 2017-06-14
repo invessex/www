@@ -16,8 +16,6 @@ related-articles:
 meta-description:
 date: 2015-05-20 09:05:00
 ---
-
-
 The INVEST Essex partners' network includes professionals and companies offering advice and support across a wide range of specialisations. 
 Expert support is available in areas including procurement, supply chain development, property fit-out, removals and corporate or personal 
 relocations.

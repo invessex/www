@@ -19,5 +19,4 @@ related-articles:
 meta-description: 
 date: 2015-05-20 00:00:00
 ---
-
 Our recruitment partners offer experience and expertise across multiple talent disciplines and industry sectors. They enable relocating and expanding businesses to identify the best people and build their teams as quickly and efficiently as possible.

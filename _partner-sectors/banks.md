@@ -18,7 +18,6 @@ related-articles:
 meta-description:  
 date: 2015-05-20 08:59:00
 ---
-
 Our banking partners focus on supporting business development and growth, working with companies of all sizes across all industry sectors.
  Experienced business managers and sector specialists work with companies to deliver tailored support and financial solutions.
 

@@ -1,0 +1,49 @@
+---
+layout: default
+title: Partners
+---
+<section class="container-full-width container-content container-auto-height h1-only light">
+    <article class="container">
+        <div class="row">
+            <div class="col-sm-12 col-listing-content">
+                <header class="section-header clearfix">
+                    <h1>Partners</h1>	
+                </header> 
+            </div>
+        </div>
+    </article>
+</section>
+<!-- This loops through the paginated posts -->
+<section class="container-full-width container-content container-auto-height light">
+<div class="container">
+{% for sector in site.partner-sectors %}
+  {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 1 %}
+<!-- open the row -->
+    <div class="row">
+    {% endif %}
+<!--  output the sector-->
+    <div class="col-sm-6">            
+        <div class="grid-2x2-block">
+            <div class="image" style="background-image: url('{{sector.hero_image}}');">
+                <a href="/partners/{{ sector.sector_url }}"></a>
+            </div>            
+            <div class="content">                    
+                <h3>{{ sector.title }}</h3>
+                <p>{{sector.content | truncate: 100 }} ...</p>
+                <a href="/partners/{{ sector.sector_url }}" class="btn btn-ghost">Read More</a>
+            </div>    
+        </div>                        
+    </div>
+    {% if mod == 0 %}
+    <!-- close the row -->
+    </div>
+    {% endif %}
+{% endfor %}
+
+
+</div>
+</div>
+</div>
+</section>
+
