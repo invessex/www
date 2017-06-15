@@ -8,8 +8,8 @@ synopsis: 'Establishing operations at UK Multimodal Gateway - Essex can enable l
 home_synopsis: 'Enabling logistics & distribution businesses to minimise costs, emissions & risks, maximise efficiency in transport planning, & ‘future-proof’ supply chains'
 synopsis_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/services/Ports_Synopsis_555x300.jpg'
 hero_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/headers/Ports_Hero_Overlay_1980x600.jpg'
-logo_carousel: 'Ports & Logistics'
-testimonial_carousel: 'Ports & Logistics'
+logo_carousel: partner-port-logistics
+testimonial_carousel: testimonials-port-logistics
 contact: robert-edge
 related_case_studies:
   - EC Group

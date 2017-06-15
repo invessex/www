@@ -8,8 +8,8 @@ synopsis: 'Located on the doorstep of the City of London and Canary Wharf Essex 
 home_synopsis: 'Located on the doorstep of the City of London and Canary Wharf Essex is an ideal location for companies in the Business, Professional and Financial Services sector.'
 synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/BPDF_Synopsis_555x300.jpg
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/BPFS_Hero_Overlay_1980x600.jpg
-logo_carousel: 'Business Professional & Financial Services'
-testimonial_carousel: 'Business Professional & Financial Services'
+logo_carousel: 'partner-business-professional-financial-services'
+testimonial_carousel: 'testimonials-business-professional-financial-services'
 contact: corinne-hearne
 related_case_studies:
   - One of the UK’s largest plastic card manufacturers
@@ -70,12 +70,9 @@ Fast, direct access to London and the City provides Essex-based companies with a
 **Professional services**
 <br>Essex is the location of choice for a diverse range of professional services companies in sub-sectors including accounting and legal services. Many of these business serve, or have links to, the financial services sector in the London area.
 
-* Download{: .header}
-* [London-Essex_UK_Finance_Corridor-_Business_Benefits .pdf (1 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% include download.html size="1" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf" name="London-Essex_UK_Finance_Corridor-_Business_Benefits .pdf "%}
 
-### Connectivity to
-<br>London & Worldwide
+### Connectivity to London & Worldwide
 
 Amongst reduced-cost UK financial and professional services locations, Essex delivers unrivalled transport and data connectivity to London and worldwide . . .
 
@@ -87,8 +84,7 @@ Amongst reduced-cost UK financial and professional services locations, Essex del
 * Fast data connectivity to London, facilitating high-speed trading
 * UK top-ranked broadband internet coverage (Ofcom rank: 1)
 
-### A Large-Scale,
-<br>Skilled Workforce
+### A Large-Scale, Skilled Workforce
 
 Businesses locating in Essex can access the UK’s largest and most highly skilled financial and professional services workforce, combined with education provision targeted at the sector’s specific needs . . .
 
@@ -103,8 +99,7 @@ Businesses locating in Essex can access the UK’s largest and most highly skill
 
 Essex compares very favourably against other financial and business services locations across the UK and Western Europe with labour costs up to 50% lower and office costs up to 85% lower. This offers not only short-term gains, but real potential for significant long-term operational cost savings.
 
-### High Quality
-<br>Business Accomodation
+### High Quality Business Accomodation
 
 Essex offers a diverse portfolio of available office properties to meet the requirements of business in the financial and professional services sector, including . . .
 
@@ -113,8 +108,7 @@ Essex offers a diverse portfolio of available office properties to meet the requ
 * Refurbished office accommodation
 * Serviced office space
 
-### Low Business
-<br>Costs
+### Low Business Costs
 
 In addition to the county’s value-adding benefits, Essex provides financial and professional services companies with massive cost saving versus London and other competitor UK locations . . .
 
@@ -124,8 +118,7 @@ In addition to the county’s value-adding benefits, Essex provides financial an
 * Wage cost savings of **-48%**versus the City of London and -5% versus major UK regional (core) cities (average of) (ONS, 2015)
 * Wage cost savings of **-17%** for ‘IT Finance’ positions versus ‘London and the M4 Corridor’
 
-### Research &
-<br>Technology
+### Research & Technology
 
 The University of Essex is a leader in the application of Big Data Analytics and advanced computing to the finance sector, enabling businesses locating in Essex to access world-class knowledge and research.
 
@@ -144,6 +137,4 @@ The University of Essex achieves high rankings versus UK and international compe
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-* Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% include download.html size="6" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}

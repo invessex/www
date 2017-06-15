@@ -8,8 +8,8 @@ synopsis: 'Essex is the location of choice for high-technology businesses seekin
 home_synopsis: 'Location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity'
 synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/HighTechClusters_555x440.jpg
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/HighTechClusters_1980x600.jpg
-logo_carousel: Advanced Manufacturing
-testimonial_carousel: advanced manufacturing
+logo_carousel: partner-advanced-electronics
+testimonial_carousel: testimonials-advanced-electronics
 contact: simon-papworth
 related_case_studies:
   - Leonardo

@@ -1,0 +1,25 @@
+<section class="container-full-width container-content container-single-pager light adjacent-light adjacent-light-no-pad-b">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center"> 
+                <div class="carousel-nav-owl clearfix">
+                   <div class="controls"></div>
+                </div>                 
+                <div class="owl-carousel carousel-testimonials owl-loaded owl-drag">                
+                   {% for testimonial in site.data.testimonial-carousels[thecarousel] %}
+                            <div class="inner">                                          
+                                <div class="quote">                      
+                                    <p>{{ testimonial.quote }}</p>
+                                </div>
+                                <p class="name">{{ testimonial.name }}</p>
+                                <p class="company">{{ testimonial.company }}</p>
+                            </div>
+                   {% endfor %}
+                </div>
+                
+            </div>            
+        </div>   
+	</div>
+    
+</section>

@@ -87,10 +87,10 @@ title: Invest Essex
             <div class="col-sm-12">
                <div class=" clearfix">                  
                     <div class="col-md-6 ">                      	             	
-                        	<center><a class="btn btn-header" href="brochure-download">Download Brochure</a></center> <img src="//clarity-strategies.github.io/ie-uploads/uploads/homepage/brochure-download-icon-white.png"/>                               
+                        	<center><a class="btn btn-header" href="brochure-download">Download Brochure <img src="//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,h_42/v1497533269/investessex/brochure-download-icon-white.png"/></a></center> <img src="//clarity-strategies.github.io/ie-uploads/uploads/homepage/brochure-download-icon-white.png"/>                               
                     </div>
                     <div class="col-md-6">                     	                      	
-                        	<center><a class="btn btn-header" href="property-search">Search Properties</a></center>    <img src="//clarity-strategies.github.io/ie-uploads/uploads/homepage/property-search-icon-white.png"/>       
+                        	<center><a class="btn btn-header" href="property-search">Search Properties <img src="//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,h_42/v1497533269/investessex/property-search-icon-white.png"/></a></center>    <img src="//clarity-strategies.github.io/ie-uploads/uploads/homepage/property-search-icon-white.png"/>       
                     </div>
                 </div>
             </div>
@@ -122,398 +122,52 @@ title: Invest Essex
 
  
 <section id="homeNews" class="container-full-width container-content container-auto-height coloured">
-
-    <article class="container">
-    
-        <div class="row">
-            <div class="col-sm-12">
-            	<header class="section-header carousel-below clearfix ">
-                    <h3>Latest News</h3>
-                </header>
-            </div>
-        </div>
+<article class="container">
+<div class="row">
+  <div class="col-sm-12">
+    <header class="section-header carousel-below clearfix ">
+      <h3>Latest News</h3>
+    </header>
+  </div>
+</div>
         
-        <div class="row">
-            <div class="col-sm-8 col-carousel-nav-home-news">
-            
-                <div class="carousel-nav-owl carousel-nav-home-news clearfix">
-                        <div class="controls"></div>
-                </div> 
-                    
-                <div class="owl-carousel carousel-home-news">
-                
-                	<div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/DSC_6775d_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
+<div class="row">
+<div class="col-sm-8 col-carousel-nav-home-news">
+  <div class="carousel-nav-owl carousel-nav-home-news clearfix">
+    <div class="controls">
+    </div>
+  </div> 
+  <div class="owl-carousel carousel-home-news owl-loaded owl-drag">
+ <!-- START post loop -->
+{% for post in site.posts limit: 3 %} 
+<div class="inner" style="background-image: url('{{ post.hero_image }}');">
+  <div class="black-overlay"></div>
+  <div class="content">
+    <ul class="news-categories clearfix">                            
+      <li><a href="sectors/{{ post.sectors[0] }}">{{ post.sectors[0] | replace: '-', ' ' | capitalize }}</a></li>
+    </ul>
+    <h3>{{ post.heading }}</h3>
+    <p>{{ post.content | truncate: 150 | replace: '**', ' ' }} ...</p>
+    <a href="blog/{{ post.posturl }}" class="btn">Read More</a>
+  </div>
+</div> 
+{% endfor %} 
+ <!-- END post loop -->              
+</div>   
 
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Cutting Costs Without Compromise: the Essex Offer to Health Technology Companies </h3>
-                            <p>Reduced costs and strategically located specialist sites are attracting healthtech companies to Essex...</p>
-                            <a href="blog/cutting-costs-without-compromise-the-essex-offer-to-health-technology-compa" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Chesterford_RP_2_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Essex company awarded £1.05 million towards improving treatment for diabetes care </h3>
-                            <p>Arecor wins Innovate UK grant to develop liquid glucagon for severe hypoglycaemia </p>
-                            <a href="blog/essex-company-awarded-1.05-million-towards-improving-treatment-for-diabetes" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/iStock_000030930562_Large_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/uk-multimodal-gateway-essex">UK Multimodal Gateway: Essex</a></li>
-                            </ul>
-                            
-                            
-                            <h3>£3.5m funding for skills centre at London Stansted Airport </h3>
-                            <p>London Stansted Airport received £3.5million to build a new Technical and Professional Skills Centre...</p>
-                            <a href="blog/3.5m-funding-for-skills-centre-at-london-stansted-airport" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/YuMi-ABB_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>How Essex combines a UK-leading health technology workforce with lower labour costs </h3>
-                            <p>Essex county presents an attractive location for life sciences and health technology companies </p>
-                            <a href="blog/how-essex-combines-a-uk-leading-health-technology-workforce-with-lower-labo" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/31460910755_90cf10ad7c_k_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/uk-multimodal-gateway-essex">UK Multimodal Gateway: Essex</a></li>
-                            </ul>
-                            
-                            
-                            <h3>£20m funding for Airport Business Park Southend </h3>
-                            <p>Airport Business Park Southend has received £20m government funding for a new innovation centre project...</p>
-                            <a href="blog/20m-funding-for-airport-business-park-southend" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/millennials-and-books_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/high-technology-cluster">High-Technology Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Third multinational company relocates to KAO Park, Harlow </h3>
-                            <p>Pearson is moving its 300 Harlow based staff into the new science & enterprise site </p>
-                            <a href="blog/third-multinational-company-relocates-to-kao-park-harlow" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/maxresdefault_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>World-Leading Life Science and Health Technology Research: All Accessible from Essex </h3>
-                            <p>Businesses located in Essex are ideally positioned to access world-leading university research </p>
-                            <a href="blog/world-leading-life-science-and-health-technology-research-all-accessible-fr" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/PTAIT_20150112_0618_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/london-essex-uk-finance-corridor">London-Essex UK Finance Corridor</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Contact centre expands to meet rising demand </h3>
-                            <p>Multi award-winning company Ventrica experiences phenomenal growth </p>
-                            <a href="blog/contact-centre-expands-to-meet-rising-demand" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Science_Village_interior_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Chesterford Research Park: The Cambridge Life Sciences Cluster, in Essex </h3>
-                            <p>Essex contributes to the Cambridge life sciences cluster </p>
-                            <a href="blog/chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Raytheon_approved_DSC_6781_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/high-technology-cluster">High-Technology Cluster</a></li><li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>New £250m data centre construction underway </h3>
-                            <p>KAO Park to become the first world-class data centre campus in the UK </p>
-                            <a href="blog/new-250m-data-centre-construction-underway" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Metro_Bank_store_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/london-essex-uk-finance-corridor">London-Essex UK Finance Corridor</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Metro Bank opens its second store in three weeks in Essex </h3>
-                            <p>The award-winning bank continues its expansion in the county </p>
-                            <a href="blog/metro-bank-opens-its-second-store-in-three-weeks-in-essex" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/London_gateway_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/uk-multimodal-gateway-essex">UK Multimodal Gateway: Essex</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Lidl to set up distribution facility at DP World London Gateway </h3>
-                            <p>Essex is a prime location for international companies looking to set up distribution facilities </p>
-                            <a href="blog/lidl-to-set-up-distribution-facility-at-dp-world-london-gateway" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Chesterford_RP_1_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Essex UK: At the Heart of the &#8216;Greater South East England&#8217; Life Sciences and Healthcare Cluster...</h3>
-                            <p>Essex offers distinct location advantages to health technology companies </p>
-                            <a href="blog/essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-h" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Colchester_in_Context2_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/high-technology-cluster">High-Technology Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Colchester Set for Ultra-High-Speed Broadband </h3>
-                            <p>Significant opportunity for digital and creative business development </p>
-                            <a href="blog/colchester-set-for-ultra-high-speed-broadband" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Breakfast_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/london-essex-uk-finance-corridor">London-Essex UK Finance Corridor</a></li>
-                            </ul>
-                            
-                            
-                            <h3>The Essex Business Briefing showcases services available to the business community </h3>
-                            <p>Innovation and cybercrime forums were recently held by Essex Business Briefing </p>
-                            <a href="blog/the-essex-business-briefing-showcases-services-available-to-the-business-co" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Internal_Robinson_Bldg_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/life-sciences-healthcare-cluster">Life Sciences & Healthcare Cluster</a></li>
-                            </ul>
-                            
-                            
-                            <h3>How Distinctive Health Technology Capabilities Attract Life Science &amp; Healthcare Companies to Essex...</h3>
-                            <p>Where advanced technology meets healthcare </p>
-                            <a href="blog/how-distinctive-health-technology-capabilities-attract-life-science-and-hea" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Metro_Bank_store_2_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/london-essex-uk-finance-corridor">London-Essex UK Finance Corridor</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Award-winning bank continues expansion in Essex </h3>
-                            <p>'Bank of the Year' opens latest store in Chelmsford </p>
-                            <a href="blog/bank-of-the-year-opens-in-chelmsford" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/DSC_0042_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/uk-multimodal-gateway-essex">UK Multimodal Gateway: Essex</a></li>
-                            </ul>
-                            
-                            
-                            <h3>London Southend Airport voted ‘Best in the UK’ for 2nd year in a row </h3>
-                            <p>London's newest airport once again showed outstanding results </p>
-                            <a href="blog/london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row" class="btn">Read More</a>
-                        </div>
-                        
-                    </div><div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/blog/Harwich_Port_workers_1140.jpg');">
-                    
-                    
-                    <div class="black-overlay"></div>
-                    
-
-                        <div class="content">
-                        	
-                            <ul class="news-categories clearfix">                            
-                                <li><a href="sectors/uk-multimodal-gateway-essex">UK Multimodal Gateway: Essex</a></li>
-                            </ul>
-                            
-                            
-                            <h3>Plans for wind farm operations &amp; maintenance base in Harwich confirmed </h3>
-                            <p>£1.5 billion Galloper project to be led by energy company Innogy SE </p>
-                            <a href="blog/plans-for-wind-farm-operations-maintenance-base-in-harwich-confirmed" class="btn">Read More</a>
-                        </div>
-                        
-                    </div>                    
-                
-                </div>
-            
-            
-            </div> 
-            
-            <aside class="col-sm-4 col-recent-news">
-            
-                <h4>Most Recent Articles</h4>
-                
-                <div class="latest-news-item">
-    <p class="date">20 Feb 2017</p> 
-    <p><a href="blog/cutting-costs-without-compromise-the-essex-offer-to-health-technology-compa">Cutting Costs Without Compromise: the Essex Offer to Health Technology Companies </a></p>                    
-</div><div class="latest-news-item">
-    <p class="date">17 Feb 2017</p> 
-    <p><a href="blog/essex-company-awarded-1.05-million-towards-improving-treatment-for-diabetes">Essex company awarded £1.05 million towards improving treatment for diabetes care </a></p>                    
-</div><div class="latest-news-item">
-    <p class="date">09 Feb 2017</p> 
-    <p><a href="blog/3.5m-funding-for-skills-centre-at-london-stansted-airport">£3.5m funding for skills centre at London Stansted Airport </a></p>                    
-</div>     
-
+</div>
+<aside class="col-sm-4 col-recent-news">
+  <h4>Most Recent Articles</h4>
+{% for post in site.posts limit: 3 %}   
+<div class="latest-news-item">
+    <p class="date">{{ post.pub_date | date_to_long_string }}</p> 
+    <p><a href="blog/{{ post.posturl }}">{{ post.heading }}</a></p>                    
+</div>
+{% endfor %}     
 <a href="blog" class="btn">All News</a>  
-            
-            </aside>
-            
-        </div>
-        
-    </article>
-    
+</aside>
+</div>
+</article>
 </section>
 
 {% include homepage/partnerlogocarousel.html %}

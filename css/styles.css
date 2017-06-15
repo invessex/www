@@ -522,7 +522,10 @@ div.fp-title {
     font-size: 24px;
 }
 /*#heroFeaturesDesktop .inner{background: #f8f8f8;}*/
-
+#heroFeaturesDesktop .btn img {
+    vertical-align: middle;
+    padding-left: 8px;
+}
 /* ------------------------------------ 
    Generic Content Reusable 
    ------------------------------------ */   

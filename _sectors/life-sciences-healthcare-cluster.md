@@ -8,8 +8,8 @@ synopsis: 'Essex is located at the heart of the London-Stansted-Cambridge Innova
 home_synopsis: 'Essex is at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses in Europe’s largest Life Sciences & Healthcare technologies cluster'
 synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/LifeSc_Synopsis_555x300.jpg
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/LifeSc_Hero_Overlay_1980x600.jpg
-logo_carousel: Life Sciences
-testimonial_carousel: Life Sciences
+logo_carousel: partner-life-sciences
+testimonial_carousel: testimonials-life-sciences
 contact: dave-russell-graham
 related_case_studies:
   - Arecor

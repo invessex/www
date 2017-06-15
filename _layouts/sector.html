@@ -119,26 +119,8 @@ layout: default
            </header> 
         </div>
     </div>
-<section class="container-full-width container-content container-single-pager light">
-   <div class="container">
-     <div class="row">
-        <div class="col-sm-12 text-center">                 
-            <div id="carouselNavLogoCarousel2420" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
-               <div class="controls"></div>
-            </div> 
-                    
-                <div id="carouselLogoCarousel2420" class="owl-carousel carousel-single-logos carousel-logo-carousel" data-logo-carousel-entry-id="2420">
-                      
-                        <div class="inner" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads/partners/cell-centric-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/hs-clement-clarke-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/olympus-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/illumina-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/charles-river-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/isogenica-on-white.jpg')";></div><div class="inner" style="background-image: url('http://investessex.co.uk/uploads/partners/martindale-pharma-on-white.jpg')";></div>
-                
-                </div>
-                
-            </div>            
-        </div>
-        
-	</div>
-    
-</section>
+{% assign thecarousel = page.logo_carousel %}
+{% include logocarouselpartners.html %}  
         
         
     </article>   
@@ -164,59 +146,8 @@ layout: default
             </div>
         </div>        
         
-        <section class="container-full-width container-content container-single-pager light">
-
-    <div class="container">
-
-        <div class="row">
-            <div class="col-sm-12 text-center">                 
-            
-            	
-                    
-                <div class="owl-carousel carousel-testimonials">
-                      
-                                                          
-                            <div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>&ldquo;Collaboration with the international research community is an important part of our business.&nbsp; Essex is conveniently situated for a team that is very mobile. We find that having London Stansted Airport and London Heathrow Airport so close by is important&rdquo;&nbsp;</p>
-                                </div>
-                                <p class="name">Sandy McBean</p>
-                                <p class="company">General Manager Europe, Illumina</p>
-                            </div>
-                                                          
-                            <div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>&ldquo;We market our products throughout the world, that means a great deal of travelling for our staff. Our sales and marketing teams are regularly visiting customers or training users in the field. The proximity of London Stansted Airport makes it very convenient to conduct a global business like ours.&rdquo;&nbsp;</p>
-                                </div>
-                                <p class="name">Achel Shenoy</p>
-                                <p class="company">International Sales Manager, Clement Clarke International</p>
-                            </div>
-                                                          
-                            <div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>&ldquo;Essex has a good mix of the right skills and experience, so we are able to meet our recruitment needs locally. We also find that the colleges in the area are a good source of apprentices for the future.&rdquo;</p>
-                                </div>
-                                <p class="name">Anthony Knight</p>
-                                <p class="company">Finance Director, Martindale Pharma</p>
-                            </div>
-                                                          
-                            <div class="inner">                                          
-                                <div class="quote">                      
-                                    <p>&ldquo;We are fortunate that Essex, with its electronics and manufacturing heritage, has an established pool of high-tech skills so we are able to tap into the local labour market.&nbsp; There is a good network of training schools and colleges which we can use as part of our continuous staff&nbsp;<span style="line-height:1.6">development programme.&rdquo;</span></p>
-                                </div>
-                                <p class="name">Mark Jackson</p>
-                                <p class="company">Head of (Manufacturing) Business Development, Olympus KeyMed</p>
-                            </div>
-                        
-                
-                </div>
-                
-            </div>            
-        </div>
-        
-	</div>
-    
-</section>   
+{% assign thecarousel = page.testimonial_carousel %}
+{% include testimonialcarouselsector.html %}  
         
     </article>    
 
