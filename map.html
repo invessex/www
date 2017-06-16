@@ -389,6 +389,11 @@ var EssexCoords = [
    google.maps.event.addListener(EssexCounty, 'click', function() {
       this.setMap(null);
   });
+
+  google.maps.event.addListener(map, 'zoom_changed', function() {
+if (map.getZoom()>10) {EssexCounty.setMap(null);}
+else {EssexCounty.setMap(map);}
+  });
   
   var iconBase = '//res.cloudinary.com/investessex/image/upload/w_42/v1497596913/map/';
   var icons = {
@@ -560,7 +565,7 @@ var features = [
     });
    if(feature.popup){ 
     var infowindow = new google.maps.InfoWindow({
-      content: '<h5>'+feature.type +'</h5><h3>'+ feature.name +'</h3><p>'+ feature.synopsis +'</p><a href="//'+feature.link+'"><button>'+feature.link+'</button></a>'
+      content: '<div style="max-width: 150px;"><h5>'+feature.type +'</h5><h3>'+ feature.name +'</h3><p>'+ feature.synopsis +'</p><a href="//'+feature.link+'"><button style="border-radius: 0;text-transform: uppercase;padding: 15px 22px;font-size: 13px;line-height: 13px;background: #6ba00f;color: #ffffff;">More Info</button></a></div>'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);
