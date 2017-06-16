@@ -6,34 +6,34 @@ function initMap() {
     mapTypeId: 'roadmap'
   });
 
-  var iconBase = 'https://clarity-strategies.github.io/ie-uploads/uploads/map-markers/';
+  var iconBase = '//res.cloudinary.com/investessex/image/upload/w_42/v1497596913/map/';
   var icons = {
     EssexAirport: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Plane_on_Green.png'
+      icon: iconBase + 'White_Plane_on_Green.png'
     },
     NotEssexAirport: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Plane_on_Grey.png'
+      icon: iconBase + 'White_Plane_on_Grey.png'
     },
     EssexRailterminal: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449782/investessex/White_Train_on_Green.png'
+      icon: iconBase + 'White_Train_on_Green.png'
     },
    NotEssexRailterminal: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449782/investessex/White_Train_on_Grey.png'
+      icon: iconBase + 'White_Train_on_Grey.png'
     },
     EssexPort: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Anchor_on_Green.png'
+      icon: iconBase + 'White_Anchor_on_Green.png'
     },
     NotEssexPort: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Anchor_on_Grey.png'
+      icon: iconBase + 'White_Anchor_on_Grey.png'
     },
     portcentric: {
-      icon: 'http://res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Property_on_Green.png'
+      icon: iconBase + 'White_Property_on_Green.png'
     },
     KeySite: {
-      icon: '//res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449781/investessex/White_Key_Site_on_Green.png'
+      icon: iconBase + 'White_Key_Site_on_Green.png'
     },
     University: {
-      icon: 'http://res.cloudinary.com/maxgoldhouse/image/upload/c_scale,w_42/v1497449782/investessex/White_University_on_Green.png'
+      icon: iconBase + 'White_University_on_Green.png'
     }
   };
 
