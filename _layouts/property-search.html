@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section class="container-full-width container-subpage-hero dark"  style="background-image: url('{{ page.hero_image }}');">
+    <div class="black-overlay"></div>              
+    <div class="container">                        
+        <div class="inner">     
+            <header class="section-header clearfix to-be-animated">
+                <h1>{{ page.heading }}</h1>
+                <div class="synopsis">
+					{{ page.synopsis }}
+                </div>
+            </header> 
+        </div>        
+    </div>
+</section>        
+<section class="container-full-width container-content container-auto-height light">
+    <article class="container">    
+        <div class="row">        
+            <div class="col-sm-12 col-md-12 col-listing-content">            
+               
+                <div class="content">   
+{{ content }}      
+                </div>
+            </div>        
+        </div>           
+    </article>    
+</section>
+{% assign thecontact = site.contacts | where: "contact_url", page.contact | first %}
+{% include contactblock.html %}    
