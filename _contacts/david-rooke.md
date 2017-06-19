@@ -1,7 +1,7 @@
 ---
 name: David Rooke
 contact_url: david-rooke
-job_title: Inward Investment Manager
+job_title: Location Services Director
 photo: //investessex.co.uk/uploads/contacts/DRooke_175px.jpg
 telno: +44 (0) 7989 380435
 twitter: investessex

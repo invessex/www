@@ -1,3 +1,8 @@
+    {% if page.title == 'Invest Essex' %}
+    <style>
+     .social-icons i.fa{padding-top:9px;}
+    </style>
+    {% endif %}
     <footer class="container-full-width">
     	<div class="container">
         	<ul class="social-icons">
@@ -7,11 +12,11 @@
                 <li class="to-top"><a href="#top"><i class="fa fa-angle-up"></i></a></li>
             </ul> 
         	<div class="row">
-            	<div class="col-sm-12 col-ecc-logo">  
+            	<!--<div class="col-sm-12 col-ecc-logo">  
 					<svg width="87" height="45">
 						<image xlink:href="http://www.investessex.co.uk/images/global/logo-ecc.svg" src="//clarity-strategies.github.io/ie-uploads/images/global/logo-ecc-footer.gif" width="87" height="45" border="0" alt="Essex County Council" />
                     </svg>              
-                </div>
+                </div> -->
             </div>
         </div>  
         <div class="container-footer-links">
@@ -19,11 +24,11 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <ul class="terms-links">
-                            <li>&copy;2017 Essex County Council</li>
-                            <li><a href="http://www.investessex.co.uk/privacy-policy">Privacy Policy</a></li>
+                            <li>&copy;{{ 'now' | date: "%Y" }} Invest Essex</li>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
                         </ul>
                         <ul class="terms-links design-by-link">
-                        	<li>Design By <a href="http://www.pixelwork.com" target="_blank">Pixelwork</a></li>
+                        	<li>Developed By <a href="http://www.clarity-strategies.com" target="_blank">Clarity-Stratgegies</a></li>
                         </ul>
                     </div>
                 </div>
