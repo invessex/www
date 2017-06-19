@@ -711,8 +711,18 @@ header.section-header .btn-header:hover {
 	margin: 0;
 }
 
+/* --------------------------------------
+ Homepage MAP
 
+ h5.map-infobox{font-size: 0.67em}
+ h3.map-infobox{ font-size: 1em}
+ p.map-infobox{}
 
+---------------------------------------*/
+.map-infobox{text-transform: none;letter-spacing: 1px;}
+ h5.map-infobox{font-size: 1em;margin-bottom: 3px;}
+ h3.map-infobox{ font-size: 1.3em;line-height: 1em;margin-bottom: 6px;}
+ p.map-infobox{ font-size: 14px;}
 
 /* ------------------------------------
    Homepage - Counters
