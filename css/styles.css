@@ -599,7 +599,9 @@ header.section-header>h2, header.section-header>h3 {
 	font-size: 38px;
 	line-height: 32px; 
 }
-
+header.section-header>h3.notwhite{
+	color: black;
+}
 header.section-header>h2>br {
 	content: " ";
 }
