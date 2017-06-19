@@ -590,7 +590,7 @@ header.section-header>h2, header.section-header>h3 {
 	width: 100%;
 	text-transform: uppercase;	
 	text-align: left;
-	
+	color: white;
 	border-left: 4px solid #99b321;
 	
 	padding: 0 0 0 15px;
