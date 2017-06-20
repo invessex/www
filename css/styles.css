@@ -1657,12 +1657,12 @@ footer ul.social-icons>li.to-top>a {
 }
 
 .col-listing-content>.content>h3, .col-sidebar h5 {
-	font-size: 24px;
-	color: #181818;
-	border-left: 2px solid #99b321;
-	line-height: 20px;
-	padding-left: 15px;
-	margin: 70px 0 50px 0;
+    font-size: 36px;
+    color: #181818;
+    border-left: 4px solid #99b321;
+    line-height: 1.2;
+    padding-left: 15px;
+    margin: 10px 0 5px 0;
 }
 
 .col-listing-content>.content>ul {

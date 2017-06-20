@@ -56,12 +56,9 @@ Establishing operations at UK Multimodal Gateway: Essex can enable logistics and
 
 Essex combines more than 1,000 acres of port-adjacent, tri-modally connected logistics and distribution sites with a specialist logistics workforce and fast access to UK, European and global markets – by road, rail, sea and air.
 
-* Download
-* [Essex_The_UK_Multimodal_Gateway .pdf (5 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% include download.html size="5" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf" name="Essex_The_UK_Multimodal_Gateway .pdf"%}
 
-### Global, Multimodal
-<br>Transport Connectivity
+### Global, Multimodal Transport Connectivity
 
 Locating in Essex provides logistics and distribution businesses with world-class multimodal infrastructure and global transport connectivity:
 
@@ -71,8 +68,7 @@ Locating in Essex provides logistics and distribution businesses with world-clas
 * Direct motorway access to UK and European markets via the M25 London orbital motorway: just 30 minutes’ HGV drive time from Essex’s key portcentric sites&nbsp;
 * Access to high-value markets - direct access to the UK’s (and one of Europe’s) largest and highest income markets (London and South East England).
 
-### Portcentric
-<br>Logistics Sites
+### Portcentric Logistics Sites
 
 Essex offers more than 1,000 acres of tri-modally connected, portcentric or port-adjacent logistics sites available for development – significantly more logistics space than competitor UK portcentric locations can offer.
 
@@ -82,8 +78,7 @@ Essex’s key portcentric, tri-modal logistics sites include . . .
 * **Thames Enterprise Park, Thurrock -** up to 400 acres of logistics space, available for development.
 * **London Distribution Park, Tilbury -** 700 acres / 900,000 sq ft of development land to accommodate units up to 670,000 sq ft. ‘Ready to go’ with infrastructure in place.
 
-### Portcentric
-<br>Cost Savings
+### Portcentric Cost Savings
 
 Portcentric distribution from Essex to major UK markets can deliver significant, measurable cost savings for logistics and distribution businesses, compared with the traditional UK ‘central distribution centre’ model.
 
@@ -98,15 +93,13 @@ For businesses serving European and global markets, Essex’s cost-effectiveness
 * Significant labour cost savings versus major continental European logistics hubs including Rotterdam, Hamburg and Antwerp
 * A more flexible labour market (UK) than any continental European competitor country (World Bank)
 
-### Large-Scale, Skilled
-<br>Logistics Workforce
+### Large-Scale, Skilled Logistics Workforce
 
 Essex (Thurrock) offers a logistics workforce that is outstanding in the UK, with more workers than competitor UK locations in the key logistics categories of ‘Elementary Occupations’, ‘Transport and Storage’ and ‘Skilled Trades’ (as % of total workforce) (ONS, 2015).
 
 Additionally, Essex offers a larger available workforce for logistics occupations – a measured by unemployment – than competitor UK locations including Felixstowe, Northamptonshire, Warwickshire and Leicestershire
 
-### Logistics Education,
-<br>Training & Expertise
+### Logistics Education, Training & Expertise
 
 Essex’s higher and further education institutions work in close partnership with the county’s ports and logistics businesses to deliver a skilled, qualified logistics workforce . . .
 
@@ -118,6 +111,4 @@ Essex’s higher and further education institutions work in close partnership wi
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-* Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn.ugdv_link}
-{: .downloadable-files}
+{% include download.html size="6" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}

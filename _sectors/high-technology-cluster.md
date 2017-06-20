@@ -62,12 +62,9 @@ The companies in Essex’s high-tech cluster research, develop and manufacture p
 * Life Sciences and Healthcare
 * Renewable Energies
 
-* Download{: .header}
-* [AdvancedManufacturing_Essex_2015_LoRes .pdf (3 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf){: .btn}
-{: .downloadable-files}
+{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf" name="AdvancedManufacturing_Essex_2015_LoRes .pdf "%}
 
-### Knowledge and
-<br>innovation
+### Knowledge and innovation
 
 Essex is located at the heart of the London-Stansted-Cambridge Innovation Corridor, providing businesses with direct access to world-leading research and development capabilities and collaborative networks . . .
 
@@ -76,8 +73,7 @@ Essex is located at the heart of the London-Stansted-Cambridge Innovation Corrid
 * The university of Essex is a** UK Top 20** ranked university for research excellence (REF, 2014)&nbsp;
 * In 2015, Nesta identified Essex as a UK ‘High-Tech and Creative Economy Hotspot’
 
-### High technology
-<br>workforce
+### High technology workforce
 
 Essex can deliver the highly skilled people and first-class education provision required by high-tech businesses . . .
 
@@ -85,16 +81,14 @@ Essex can deliver the highly skilled people and first-class education provision 
 * Essex is home to the UK’s 2nd largest advanced engineering cluster, comprising 4,000 companies and 41,000 people employed, as well as an additional 200,000 advanced engineering workers within commutable distance
 * Essex has the further and higher education infrastructure needed to provide high-technology companies with a pipeline of skilled, qualified personnel. 2,400 students enrol each year in engineering, technology and computer sciences courses, and fully funded Knowledge Exchange Placements allow Masters students to work on company projects related to their courses
 
-### High-tech
-<br>business accomodation
+### High-tech business accomodation
 
 Essex can provide state-of-the-art research, technology and business park accommodation for high-technology companies, including . . .
 
 * [**Harlow Enterprise Zone -**](/studies/place-studies/harlow_enterprise)strategically located between London and Cambridge, with direct access to the M11 and Stansted Airport
 * **Medbic Business Innovation Centre -** located on the Anglia Ruskin University campus, providing high-specification accommodation for medical and advanced engineering technology businesses
 
-### High-tech
-<br>low cost
+### High-tech low cost
 
 Essex provides high-technology businesses with value-adding benefits combined with significant cost savings:
 
@@ -102,13 +96,11 @@ Essex provides high-technology businesses with value-adding benefits combined wi
 * **-38% lower property costs** than Cambridge averages (Colliers, 2015)
 * **-24% savings on labour costs** for a typical R&D facility versus competitor UK high-tech locations
 
-### Access to
-<br>specialist funding
+### Access to specialist funding
 
 Essex offers proximity to the major technology business funding centres of London and Cambridge, providing companies with direct access to potential sources of bank, equity, venture capital or business angel finance.
 
-### UK and
-<br>international connectivity
+### UK and international connectivity
 
 Essex delivers unbeaten access to UK and international markets, for business people, freight and data . . .
 
@@ -123,6 +115,4 @@ Essex delivers unbeaten access to UK and international markets, for business peo
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-* Download{: .header}
-* [DS17_5636_Industrial_Strategy .pdf (6 MB)](//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf){: .btn}
-{: .downloadable-files}
+{% include download.html size="6" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}
