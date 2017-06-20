@@ -416,7 +416,7 @@ var features = [
       position: new google.maps.LatLng(51.877034, 0.946933),
       type: 'University',
       name: 'The University of Essex',
-      popup: true,
+      popup: 'University',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/UniversityOfEssex.jpg',
       synopsis: "A public research university, ranked in the UK's top-20 for research excellence.",
       link: 'investessex.co.uk/studies/place-studies/the-university-of-essex'
@@ -424,7 +424,7 @@ var features = [
       position: new google.maps.LatLng(51.770672, 0.130563),
       type: 'KeySite',
       name: 'Harlow Enterprise Zone',
-      popup: true,
+      popup: 'Key Site',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/HarlowEnterpriseZone.jpg',
       synopsis: 'A new Enterprise Zone focused on high-tech and medical technology businesses.',
       link: 'investessex.co.uk/studies/place-studies/harlow-enterprise-zone'
@@ -432,7 +432,7 @@ var features = [
       position: new google.maps.LatLng(51.504557, 0.488302),
       type: 'EssexPort',
       name: 'London Gateway Port',
-      popup: true,
+      popup: 'Port',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/LondonGateway.jpg',
       synopsis: 'A major multimodal, deep-sea container port with co-located logistics park.',
       link: '//investessex.co.uk/studies/place-studies/london-gateway-port'
@@ -440,7 +440,7 @@ var features = [
       position: new google.maps.LatLng(51.886018, 0.238866),
       type: 'EssexAirport',
       name: 'London Stansted Airport',
-      popup: true,
+      popup: 'Airport',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/LondonStansted.jpg',
       synopsis: 'The UK’s third-largest airport for both passengers and cargo, serving 150+ destinations.',
       link: '//investessex.co.uk/studies/place-studies/london-stansted-airport'
@@ -448,7 +448,7 @@ var features = [
       position: new google.maps.LatLng(52.056165, 0.236871),
       type: 'KeySite',
       name: 'Chesterford Research Park',
-      popup: true,
+      popup: 'Key Site',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/ChesterfordRP.jpg',
       synopsis: 'A prime science park location, integral to the South Cambridge Biotech Cluster.',
       link: '//investessex.co.uk/studies/place-studies/chesterford-research-park1'
@@ -456,7 +456,7 @@ var features = [
       position: new google.maps.LatLng(51.569731, 0.704380),
       type: 'EssexAirport',
       name: 'London Southend Airport',
-      popup: true,
+      popup: 'Airport',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/SouthendAirport.jpg',
       synopsis: 'Offering key European business destinations, user-friendliness and fast access to London.',
       link: '//investessex.co.uk/studies/place-studies/london-southend-airport'
@@ -464,7 +464,7 @@ var features = [
       position: new google.maps.LatLng(51.460841, 0.344897),
       type: 'EssexPort',
       name: 'Port of Tilbury',
-      popup: true,
+      popup: 'Port',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/PortOfTilbury.jpg',
       synopsis: 'The UK’s third largest container port, handling 80 percent of London’s traffic.',
       link: '//investessex.co.uk/studies/place-studies/port-of-tilbury'
@@ -472,7 +472,7 @@ var features = [
       position: new google.maps.LatLng(51.947374, 1.255320),
       type: 'EssexPort',
       name: 'Harwich International Port',
-      popup: true,
+      popup: 'Port',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/PortOfHarwich.jpg',
       synopsis: 'A leading, multi-purpose freight and passenger port, handling containers and bulk cargoes.',
       link: '//investessex.co.uk/studies/place-studies/harwich-international-port'
@@ -480,7 +480,7 @@ var features = [
       position: new google.maps.LatLng(51.866844, 0.523228),
       type: 'KeySite',
       name: 'Braintree Skyline 120',
-      popup: true,
+      popup: 'Key Site',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/Skyline120.jpg',
       synopsis: 'High-quality, bespoke warehouse, office and industrial accommodation on a strategically-located site.',
       link: '//investessex.co.uk/studies/place-studies/braintree-skyline120'
@@ -488,7 +488,7 @@ var features = [
       position: new google.maps.LatLng(51.469589, 0.352742),
       type: 'KeySite',
       name: 'London Distribution Park',
-      popup: false,
+      popup: 'Key Site',
       image: '',
       synopsis: '',
       link: ''
@@ -568,7 +568,7 @@ var features = [
     });
    if(feature.popup){ 
     var infowindow = new google.maps.InfoWindow({
-      content: '<div style="max-width: 190px;padding-left:20px;"><h5 class="map-infobox">'+feature.type +'</h5><img src="'+feature.image+'"/><h3 class="map-infobox">'+ feature.name +'</h3 class="map-infobox"><p class="map-infobox">'+ feature.synopsis +'</p><a href="//'+feature.link+'"><center><button style="border-radius: 0;text-transform: uppercase;padding: 15px 22px;font-size: 13px;line-height: 13px;background: #6ba00f;color: #ffffff;">More Info</button></center></a></div>'
+      content: '<div style="max-width: 190px;padding-left:20px;"><h5 class="map-infobox">'+feature.popup +'</h5><img src="'+feature.image+'"/><h3 class="map-infobox">'+ feature.name +'</h3 class="map-infobox"><p class="map-infobox">'+ feature.synopsis +'</p><a href="//'+feature.link+'"><center><button style="border-radius: 0;text-transform: uppercase;padding: 15px 22px;font-size: 13px;line-height: 13px;background: #6ba00f;color: #ffffff;">More Info</button></center></a></div>'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);
@@ -579,4 +579,4 @@ var features = [
 
 $('#menuswitch').click(function () {
 		$('#keypanel').toggle();
-		});
+		});	
