@@ -8,6 +8,8 @@ function initMap() {
     mapTypeId: 'roadmap'
   });
   map.setOptions({styles: styles});
+  map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('menuswitch'));
+  map.controls[google.maps.ControlPosition.RIGHT_TOP].push(document.getElementById('keypanel'));
 var EssexCoords = [
 {lat: 51.50318637663801, lng: 0.2272796630859375},
 {lat: 51.50788772102843, lng: 0.2362060546875},
@@ -374,6 +376,9 @@ var EssexCoords = [
 if (map.getZoom()>10) {EssexCounty.setMap(null);}
 else {EssexCounty.setMap(map);}
   });
+          //var legend = document.getElementById('keypanel');
+
+  
   
   var iconBase = '//res.cloudinary.com/investessex/image/upload/w_42/v1497596913/map/';
   var icons = {
@@ -571,3 +576,7 @@ var features = [
   }
   });
 }
+
+$('#menuswitch').click(function () {
+		$('#keypanel').toggle();
+		});

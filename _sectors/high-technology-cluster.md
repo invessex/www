@@ -50,6 +50,7 @@ related_articles:
   - introducing-cambridge-essex-uk-a-world-class-high-technology-cluster
 ---
 
+### Introduction
 
 Essex is the location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity.
 

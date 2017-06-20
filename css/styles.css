@@ -401,6 +401,10 @@ div.fp-title {
   }
 }
 
+@media only screen and (max-width: 768px)  {
+	#erdf{right: 94px}
+}
+
 @media (max-width:992px) {
   .hero .get-it {
     text-align:center;
@@ -413,6 +417,10 @@ div.fp-title {
     text-align:center;
 	
   }
+}
+
+@media only screen and (max-width: 1024px)  {
+	#erdf{right: 114px}
 }
 
 .hero .get-it h1, .hero .get-it p {

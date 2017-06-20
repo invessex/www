@@ -3,17 +3,17 @@
   submenu:
     - subname: Essex UK&colon; Benefits for Businesses
       sublink: /location-benefits/#business-benefits
-    - subname: What Companies Say
-      sublink: /location-benefits/#what-companies-say
     - subname: Video
       sublink: /location-benefits/#video
+    - subname: What Companies Say
+      sublink: /location-benefits/#what-companies-say
 - name: Support for<br/>Businesses
   link: /business-support/
   submenu:
     - subname: Invest Essex Services
       sublink: /business-support/#invest-essex-services
     - subname: Partner Services
-      sublink: /business-support/#partner-services
+      sublink: /partners
     - subname: What Companies Say
       sublink: /business-support/#what-companies-say
 - name: World Class<br/> Sectors

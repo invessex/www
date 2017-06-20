@@ -58,7 +58,7 @@ title: Invest Essex
            <div class="row">            
             <div class="col-sm-12">
                 <header class="section-header nomarginbtm">
-                <h3>Essex UK: World-Class Industry Sectors</h3>
+                <h3 class="notwhite">Essex UK: World-Class Industry Sectors</h3>
                 </header>
                <div class="inner clearfix">                    
                     <div class="col-md-3 fp8">                      	             	
@@ -107,7 +107,7 @@ title: Invest Essex
             <div class="col-sm-12">
             
                 <header class="section-header carousel-below clearfix ">
-                    <h2>Discover Essex UK</h2>
+                    <h3 class="notwhite">Discover Essex UK</h3>
                     
                 </header> 
             
@@ -121,9 +121,35 @@ title: Invest Essex
       #map {
         height: 100%;
       }
-     
+    #keypanel {/*position: absolute;top: 31px;left: 6px;*/z-index: 5;margin: 10px 20px 0px 0px; background-color: #fff;padding: 10px;border: 1px solid #999;width: 180px;font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;font-size:13px;}
+    #keypanel h3{margin-bottom: 2px;font-size:18px; text-transform:uppercase;font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+    #keypanel hr{border: 0;border-bottom: 1px solid #ccc;background: #999;}
+    #keypanel input[type="button"]{position:relative;right: 5px;padding:1px;border:none;background-color:rgb(79, 125, 194);color:#fff;font-weight:normal;}
+    #keypanel ul{list-style-type:none;margin-left:-25px;}
+    #keypanel li{font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;font-size:13px;}
+    .shadow {-moz-box-shadow:    3px 3px 1px #888;-webkit-box-shadow: 3px 3px 1px #888; box-shadow: 3px 3px 1px #888;}
+    .rmm-button{margin: 20px 20px 0px 0px;}
+    .rmm-button span {display: block;margin: 4px 0px 4px 0px;height: 2px;background: #99b321;width: 20px;}
+    .keyicon{padding: 4px; background-color: #396925; border: 2px solid white}
+    #keypanel td{padding: 4px; font-size: 16px; vertical-align: middle;}
     </style>
+    
     <div id="map"></div>
+<div id="menuswitch" >
+        <div class="rmm-button"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></div>
+</div>
+    <div id ="keypanel" class="xshadow">
+      <h3>Key</h3>
+      <div>
+      <table>
+      <tr><td class="keyicon"><img src="//res.cloudinary.com/investessex/image/upload/w_24/v1497596913/map/airport_white.png"/></td><td>Airport</td></tr>
+      <tr><td class="keyicon"><img src="//res.cloudinary.com/investessex/image/upload/w_24/v1497596913/map/key-site_white.png"/></td><td>Key Site</td></tr>
+      <tr><td class="keyicon"><img src="//res.cloudinary.com/investessex/image/upload/w_24/v1497596913/map/port_white.png"/></td><td>Port</td></tr>
+      <tr><td class="keyicon"><img src="//res.cloudinary.com/investessex/image/upload/w_24/v1497596913/map/university_white.png"/></td><td>University</td></tr>
+      </table>
+      </div>
+  <a target="_parent" href="/map.html">View Larger Map</a>
+    </div>
 <!-- Replace the value of the key parameter with your own API key. -->
 </section> 
 
