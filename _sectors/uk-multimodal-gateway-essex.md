@@ -6,8 +6,8 @@ sector_url: uk-multimodal-gateway-essex
 H1: UK Multimodal Gateway - Essex
 synopsis: 'Establishing operations at UK Multimodal Gateway - Essex can enable logistics and distribution businesses to minimise costs, emissions and risks, maximise flexibility and efficiency in transport planning, and ‘future-proof’ their supply chains.'
 home_synopsis: 'Enabling logistics & distribution businesses to minimise costs, emissions & risks, maximise efficiency in transport planning, & ‘future-proof’ supply chains'
-synopsis_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/services/Ports_Synopsis_555x300.jpg'
-hero_image: 'http://clarity-strategies.github.io/ie-uploads/uploads/headers/Ports_Hero_Overlay_1980x600.jpg'
+synopsis_image: '//clarity-strategies.github.io/ie-uploads/uploads/services/Ports_Synopsis_555x300.jpg'
+hero_image: '//clarity-strategies.github.io/ie-uploads/uploads/headers/Ports_Hero_Overlay_1980x600.jpg'
 logo_carousel: partner-port-logistics
 testimonial_carousel: testimonials-port-logistics
 contact: robert-edge
