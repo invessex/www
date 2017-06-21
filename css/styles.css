@@ -2872,7 +2872,7 @@ only screen and (max-width: 760px),
 	}
 	
 	.container-contact-bar a.btn-contact {		
-		background: #181818;
+		background: rgba(65, 119, 35, 0.9);
 		font-size: 18px;	
 		padding: 15px 22px 10px 22px;
 	}
