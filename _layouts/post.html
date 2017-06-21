@@ -112,7 +112,7 @@ layout: default
     <h5>Related Sectors</h5>
     <ul>
     {% for sector in page.sectors %}
-        <li class="link"><a href="{{absolute_url }}/sector/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+        <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
     {% endfor %}
 
     </ul>
