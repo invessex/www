@@ -568,7 +568,7 @@ var features = [
     });
    if(feature.popup){ 
     var infowindow = new google.maps.InfoWindow({
-      content: '<div style="max-width: 190px;padding-left:20px;"><h5 class="map-infobox">'+feature.popup +'</h5><img src="'+feature.image+'"/><h3 class="map-infobox">'+ feature.name +'</h3 class="map-infobox"><p class="map-infobox">'+ feature.synopsis +'</p><a href="//'+feature.link+'"><center><button style="border-radius: 0;text-transform: uppercase;padding: 15px 22px;font-size: 13px;line-height: 13px;background: #6ba00f;color: #ffffff;">More Info</button></center></a></div>'
+      content: '<div style="max-width: 190px;padding-left:20px;"><h5 class="map-infobox">'+feature.popup +'</h5><img src="'+feature.image+'"/><h3 class="map-infobox">'+ feature.name +'</h3><p class="map-infobox">'+ feature.synopsis +'</p><a href="//'+feature.link+'"><center><button style="border-radius: 0;text-transform: uppercase;padding: 15px 22px;font-size: 13px;line-height: 13px;background: #6ba00f;color: #ffffff;">More Info</button></center></a></div>'
   });
   marker.addListener('click', function() {
     infowindow.open(map, marker);

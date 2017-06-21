@@ -18,15 +18,15 @@
       sublink: /business-support/#what-companies-say
 - name: World Class<br/> Sectors
   link: /sectors/
-  submenu:
-    - subname: Financial &amp; Business Services
-      sublink: /sectors/london-essex-uk-finance-corridor
-    - subname: Ports &amp; Logistics Services
-      sublink: /sectors/uk-multimodal-gateway-essex
-    - subname: High Technology
-      sublink: /sectors/high-technology-cluster
-    - subname: Life Sciences &amp; Healthcare
-      sublink: /sectors/life-sciences-healthcare-cluster
+ # submenu:
+ #   - subname: Financial &amp; Business Services
+ #     sublink: /sectors/london-essex-uk-finance-corridor
+ #   - subname: Ports &amp; Logistics Services
+ #     sublink: /sectors/uk-multimodal-gateway-essex
+ #   - subname: High Technology
+ #     sublink: /sectors/high-technology-cluster
+ #   - subname: Life Sciences &amp; Healthcare
+ #     sublink: /sectors/life-sciences-healthcare-cluster
 - name: Company<br/>Case Studies
   link: /studies/list/case-studies/
 - name: Leading<br/>Essex Companies
