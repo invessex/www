@@ -50,7 +50,7 @@ layout: default
                         <div class="image" style="background-image: url('{{ cstudy.thumbnail_image }}');"></div>
                         <h6>{{ cstudy.heading }}</h6>
                         
-                        <a href="/studies/place-studies/{{ cstudy.url }}" class="btn">Read More</a>
+                        <a href="{{ site.url }}/studies/place-studies/{{ cstudy.url }}" class="btn">Read More</a>
                     </div>
                     {% endfor %}
                        {% if forloop.last %} </div> </div> {% endif %}
@@ -74,7 +74,7 @@ layout: default
                         <div class="image" style="background-image: url('{{ pstudy.thumbnail_image }}');"></div>
                         <h6>{{ pstudy.heading }}</h6>
                         
-                        <a href="/studies/place-studies/{{ pstudy.url }}" class="btn">Read More</a>
+                        <a href="{{ site.url }}/studies/place-studies/{{ pstudy.url }}" class="btn">Read More</a>
                     </div>
                     {% endfor %}
                        {% if forloop.last %} </div> </div> {% endif %}
@@ -93,7 +93,7 @@ layout: default
                                 <h6>{{ item.title }}</h6>
                                 <ul class="info clearfix">
                                     <li class="date">{{ item.date | date_to_long_string }}</li>
-                                    <li><a href="{{ item.url }}" class="btn">Read More</a></li>
+                                    <li><a href="{{ site.url }}/{{ item.url }}" class="btn">Read More</a></li>
                                 </ul>
                             </div>
                         {% endfor %}
