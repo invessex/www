@@ -2,7 +2,7 @@
 name: Dave Russell-Graham
 contact_url: dave-russell-graham
 job_title: Inward Investment Manager (Life Sciences)
-photo: //investessex.co.uk/uploads/contacts/dave-harlow_195.jpg
+photo: //clarity-strategies.github.io/ie-uploads/uploads/contacts/dave-harlow_195.jpg
 telno: +44 (0) 7881 310776
 twitter: investessex
 linkedin: daveRG
