@@ -54,7 +54,7 @@ layout: default
                         <ul class="clearfix">
                         	<li class="marker">Posted In:</li>
                             {% for sector in page.sectors%}
-                            <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}.html">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+                            <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
                             {% endfor %}
                         </ul>
                         {% endif %}
