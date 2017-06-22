@@ -8,7 +8,7 @@ layout: post
 metadesc: How Essex combines a UK-leading health technology workforce with lower labour costs. Essex county presents an attractive loccation for life sciences and health technology companies
 posturl: how-essex-combines-a-uk-leading-health-technology-workforce-with-lower-labour-costs
 pub_date: '2017-02-07 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Medical_device_manufacturers_165.jpg
 ---

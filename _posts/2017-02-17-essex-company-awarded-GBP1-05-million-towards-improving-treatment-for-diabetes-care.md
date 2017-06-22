@@ -10,7 +10,7 @@ metadesc: "Essex company awarded \xA31.05 million towards improving treatment fo
   \ hypoglycaemia"
 posturl: essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
 pub_date: '2017-02-17 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Diabetes_care_165.jpg
 ---
