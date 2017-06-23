@@ -23,6 +23,7 @@ gems:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate-v2
+  - algoliasearch-jekyll
 
 exclude:
   - Gemfile
@@ -106,7 +107,14 @@ defaults:
 _editable_regions:
   image:
     url_src: true
-    
+
+#---------------
+# algolia search
+#---------------
+algolia:
+  application_id: '4UTC2BOCJR'
+  index_name:     'IE_search'
+
 social_icons:
   - Facebook
   - Google Plus

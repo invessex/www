@@ -8,6 +8,7 @@ layout: post
 metadesc: 
 posturl: 
 pub_date: 
-sectors:
+categories:
+tags:
 thumbnail_image: 
 ---
