@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse navbar-left">
                     <ul class="nav navbar-nav">
                         {% for nav in site.data.main-navigation %}
-                        <div><span style="color:red;">{{ nav.link }}-</span> | <span class="color: green">-{{ page.url }}</span></div> 
+                         
                         {% if nav.submenu != null %}
                         <li>
                         <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }} ▼</a>
