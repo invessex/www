@@ -5,7 +5,8 @@ heading: Enplas
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CRP3%2C_Science_Village_Bldg_1980.jpg
 layout: case-study
 pub_date: '2016-12-21 00:00:00'
-leading-company: true
+tag:
+- leading-company
 related:
 - japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
 sectors:

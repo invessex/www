@@ -5,7 +5,7 @@ heading: Martindale Pharma
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Martindale_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
-leading-company: false
+tag:
 related: null
 sectors:
 - life-sciences-healthcare-cluster

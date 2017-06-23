@@ -5,7 +5,7 @@ heading: RWO Marine
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/RWO_1980x600px.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
-leading-company: false
+tag:
 related: null
 sectors: null
 synopsis: RWO Marine is an Essex company manufacturing high-performance equipment

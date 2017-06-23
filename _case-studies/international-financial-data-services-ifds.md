@@ -5,7 +5,8 @@ heading: International Financial Data Services (IFDS)
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Officeatnite_1980.jpg
 layout: case-study
 pub_date: '2017-01-31 00:00:00'
-leading-company: true
+tag:
+- leading-company
 related:
 - finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
 - new-business-space-with-unrivalled-ultrafast-broadband-connectivity

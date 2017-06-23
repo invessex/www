@@ -5,7 +5,7 @@ heading: Gigawave
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Gigawave_banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
-leading-company: false
+tag:
 related:
 sectors:
 - high-technology-cluster

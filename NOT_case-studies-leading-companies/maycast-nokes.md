@@ -1,7 +1,7 @@
 ---
 Author: null
 contact: simon-papworth
-heading: Maycast Nokes
+heading: Maycast Nokes Jokes
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/aa_015_maycast_nokes_24_1980.jpg
 layout: case-study
 pub_date: '2017-04-03 00:00:00'

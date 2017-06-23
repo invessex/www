@@ -5,7 +5,8 @@ heading: James Hallam Ltd - Insurance Brokers
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/ECC5_940x327.jpg
 layout: case-study
 pub_date: '2014-04-11 00:00:00'
-leading-company: true
+tag:
+- leading-company
 related: null
 sectors:
 - london-essex-uk-finance-corridor

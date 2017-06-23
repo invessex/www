@@ -251,7 +251,7 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 /* -----------------------------------
    Euro Dev Fund Logo
 -------------------------------------*/  
-#erdf{position: absolute; top:2px; right: 64px; z-index: 4000;}
+#erdf{position: fixed; top:2px; right: 64px; z-index: 4000;}
 
 
 	

@@ -5,7 +5,7 @@ heading: Harlow Group
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Harlow_Banner.jpg
 layout: case-study
 pub_date: '2015-04-13 00:00:00'
-leading-company: false
+tag:
 related: null
 sectors: null
 synopsis: "The Harlow Group, one of the UK's leading manufacturers of precision sheet metal components"
