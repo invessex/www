@@ -31,6 +31,7 @@ exclude:
   - README.md
   - LICENCE
   - _off
+  - _partner-companies
 
 collections:
   case-studies:
