@@ -2488,6 +2488,61 @@ footer ul.social-icons>li.to-top>a {
 .algolia__result-highlight{ font-weight: 700;}
 #hits-container h4{margin: 10px 0px;}
 #hits-container .btn{margin: 10px 0px;}
+/*-----------------------------------------
+Algolia Pagination
+------------------------------------------*/
+.ais-pagination--item {
+  /* pagination item */
+  display: inline-block;
+  padding: 15px;
+  background-color: lightgrey;
+  color: black;
+  border-right: 2px;
+}
+
+.ais-pagination--item__disabled {
+  /* disabled pagination item */
+  visibility: hidden;
+}
+
+.ais-pagination--item__active {
+  /* active pagination item */
+  background-color: #7bb712;
+  
+}
+a.ais-pagination--link{
+color: #7bb712
+}
+
+.ais-pagination--item__active a.ais-pagination--link{
+color: #fff;
+}
+
+
+.ais-pagination--item__first {
+  /* first pagination item */
+}
+
+.ais-pagination--item__previous {
+  /* previous pagination item */
+}
+
+.ais-pagination--item__page {
+  /* page pagination item */
+}
+
+.ais-pagination--item__next {
+  /* next pagination item */
+}
+
+.ais-pagination--item__last {
+  /* last pagination item */
+}
+
+.ais-pagination--link {
+  /* pagination link */
+}
+
 /* ------------------------------------
    Search 
    ------------------------------------  */
