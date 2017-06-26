@@ -34,9 +34,9 @@
 - name: 'Key Sites<br/> & Assets'
   link: /studies/list/place-studies/
   submenu:
-    - subname: INVEST Essex Key Sites
+    - subname: Essex Key Sites
       sublink: /studies/keysites/
-    - subname: INVEST Essex Assets
+    - subname: Essex Assets
       sublink: /studies/assets/
 - name: News<br/>&amp; Blog
   link: /blog/

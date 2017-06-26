@@ -11,7 +11,7 @@ sectors:
 - london-essex-uk-finance-corridor
 tags:
 - asset
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/003-planned_innovation_centre_cgi_copyright_University_of_Essex_400.jpg
+thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/planned_innovation_centre_cgi_copyright_University_of_Essex_555.jpg
 study_url: the-university-of-essex-knowledge-gateway
 ---
 

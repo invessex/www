@@ -27,12 +27,21 @@
                         {% if thispage contains '/blog/'%}
                         {% assign thispage = '/blog/' %}
                         {% endif %}
+                        {% if thispage contains '/news/'%}
+                        {% assign thispage = '/blog/' %}
+                        {% endif %}                        
                         {% if thispage contains '/sectors/'%}
                         {% assign thispage = '/sectors/' %}
                         {% endif %}  
                         {% if thispage contains '/case-studies/'%}
                         {% assign thispage = '/studies/list/case-studies/' %}
-                        {% endif %} 
+                        {% endif %}
+                        {% if thispage contains '/assets/'%}
+                        {% assign thispage = '/studies/list/place-studies/' %}
+                        {% endif %}
+                        {% if thispage contains '/keysites/'%}
+                        {% assign thispage = '/studies/list/place-studies/' %}
+                        {% endif %}                                                 
                         {% if thispage contains '/place-studies/'%}
                         {% assign thispage = '/studies/list/place-studies/' %}
                         {% endif %}
