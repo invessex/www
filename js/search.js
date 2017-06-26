@@ -9,7 +9,7 @@
       instantsearch.widgets.searchBox({
         container: '#search-box',
         autofocus: false,
-        placeholder: 'Keywords or Phrase'
+        placeholder: 'Enter your search'
       })
     );
     search.addWidget(
