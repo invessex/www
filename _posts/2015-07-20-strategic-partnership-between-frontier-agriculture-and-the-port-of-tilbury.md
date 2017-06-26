@@ -9,7 +9,7 @@ metadesc: Strategic partnership announced between Frontier Agriculture and the P
   of Tilbury
 posturl: strategic-partnership-between-frontier-agriculture-and-the-port-of-tilbury
 pub_date: '2015-07-20 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Aasford_ship__grain_loading_tilbury_mini.jpg
 ---

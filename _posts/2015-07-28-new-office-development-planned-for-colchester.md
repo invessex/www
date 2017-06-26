@@ -9,7 +9,7 @@ metadesc: Birkett Long to relocate their financial advice business to new Sheepe
   Place Office Development in Colchester
 posturl: new-office-development-planned-for-colchester
 pub_date: '2015-07-28 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/B_long_new_premises_mini.jpg
 ---

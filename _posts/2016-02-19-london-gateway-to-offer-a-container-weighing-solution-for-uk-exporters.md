@@ -10,7 +10,7 @@ metadesc: London Gateway to offer a container weighing solution for UK exporters
   2016.
 posturl: london-gateway-to-offer-a-container-weighing-solution-for-uk-exporters
 pub_date: '2016-02-19 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/DP_World_containers_165.jpg
 ---

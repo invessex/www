@@ -9,7 +9,7 @@ metadesc: The Cambridge-Essex UK High-Technology Cluster The Benefits for High-T
   Businesses
 posturl: the-cambridge-essex-uk-high-technology-cluster
 pub_date: '2016-10-26 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/EIP3_160PX_TH.jpg
 ---

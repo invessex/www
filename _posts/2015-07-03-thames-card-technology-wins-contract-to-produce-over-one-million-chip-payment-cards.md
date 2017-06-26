@@ -10,7 +10,7 @@ metadesc: Thames Card Technology plastic card manufacturer has won a three year 
   to provide Serbia's leading commercial bank
 posturl: thames-card-technology-wins-contract-to-produce-over-one-million-chip-payment-cards
 pub_date: '2015-07-03 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Thamescard_mini.jpg
 ---

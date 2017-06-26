@@ -17,6 +17,8 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LondonStansted_555x440.jpg
 study_url: london-stansted-airport
 ---

@@ -9,7 +9,7 @@ metadesc: e2v imaging sensor captures the Hubble Telescope's silver anniversary 
   Fireworks image
 posturl: e2v-recognised-for-their-part-in-the-hubble-telescopes-25-year-history
 pub_date: '2015-04-27 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Hubble_mini.png
 ---

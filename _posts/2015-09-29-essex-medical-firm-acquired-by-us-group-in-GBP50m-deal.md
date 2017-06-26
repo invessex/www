@@ -8,7 +8,7 @@ layout: post
 metadesc: "Medical Innovations Group acquired by US group Cantel in \xA350m deal"
 posturl: essex-medical-firm-acquired-by-us-group-in-GBP50m-deal
 pub_date: '2015-09-29 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Assembly_line_mini.jpg
 ---

@@ -10,7 +10,7 @@ metadesc: "The London-Essex UK Finance Corridor \u2013 extending from the City e
   \ combine reduced costs with fast transport access to London."
 posturl: workforce-advantages-for-businesses-in-the-london-essex-uk-finance-corridor
 pub_date: '2016-02-04 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/IFDS_miniv1.jpg
 ---

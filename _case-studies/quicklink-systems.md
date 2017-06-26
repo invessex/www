@@ -5,7 +5,7 @@ heading: QuickLink Systems
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Quicklinks_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
-tag:
+tags:
 related: null
 sectors: null
 synopsis: QuickLink Systems - Innovative educational resources.

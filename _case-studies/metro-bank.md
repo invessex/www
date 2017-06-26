@@ -5,7 +5,7 @@ heading: Metro Bank
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Metro_Bank_store_1980.jpg
 layout: case-study
 pub_date: '2017-01-26 00:00:00'
-tag:
+tags:
 - leading-company
 related:
 - metro-bank-opens-its-second-store-in-three-weeks-in-essex

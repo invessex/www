@@ -8,7 +8,7 @@ layout: post
 metadesc: Lambert Smith Hampton Enterprise Award 2015
 posturl: lambert-smith-hampton-enterprise-award-2015
 pub_date: '2015-09-02 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/chelmsford_office_mini.jpg
 ---

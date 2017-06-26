@@ -10,7 +10,7 @@ metadesc: "Investment opportunities at brand new airport business park. The new 
   \ occupiers."
 posturl: investment-opportunities-at-brand-new-airport-business-park
 pub_date: '2016-06-02 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Brochure_p3_mini.jpg

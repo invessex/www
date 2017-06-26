@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Harwin Property Consultants
 partner-sector: commercial-property
 url: harwin-property-consultants

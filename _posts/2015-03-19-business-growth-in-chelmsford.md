@@ -9,7 +9,7 @@ metadesc: Bellway, Marconi Evolution, Genesis, City Park West, Bond St developme
   Chelmsford, Amlin, Benefit
 posturl: business-growth-in-chelmsford
 pub_date: '2015-03-19 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: None
 ---

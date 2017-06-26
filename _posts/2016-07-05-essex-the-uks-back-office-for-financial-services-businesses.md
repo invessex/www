@@ -10,7 +10,7 @@ metadesc: "Essex \u2013 \u2018The UK\u2019s Back Office\u2019 for Financial Serv
   \ Businesses. Why leading finance businesses choose Essex..."
 posturl: essex-the-uks-back-office-for-financial-services-businesses
 pub_date: '2016-07-05 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/IE487_mini.jpg
 ---

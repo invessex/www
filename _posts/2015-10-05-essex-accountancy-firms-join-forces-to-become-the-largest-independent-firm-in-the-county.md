@@ -9,7 +9,7 @@ layout: post
 metadesc: Rickard Keen & Bird Luckin join forces to become Rickard Luckin
 posturl: essex-accountancy-firms-join-forces-to-become-the-largest-independent-firm-in-the-county
 pub_date: '2015-10-05 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/RL_mini.jpg
 ---

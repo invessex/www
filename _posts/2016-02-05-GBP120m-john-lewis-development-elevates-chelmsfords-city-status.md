@@ -10,7 +10,7 @@ metadesc: "\xA3120m John Lewis development elevates Chelmsford\u2019s city statu
   \ in London."
 posturl: GBP120m-john-lewis-development-elevates-chelmsfords-city-status
 pub_date: '2016-02-05 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/bond-street-phase-2-chelmsford_mini.jpg
 ---

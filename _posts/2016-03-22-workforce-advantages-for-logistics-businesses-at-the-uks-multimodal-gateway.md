@@ -10,7 +10,7 @@ metadesc: "Workforce Advantages for Logistics Businesses at \u2018the UK\u2019s 
   \ Gateway\u2019. UK logistics businesses are expanding, and recruiting\u2026"
 posturl: workforce-advantages-for-logistics-businesses-at-the-uks-multimodal-gateway
 pub_date: '2016-03-22 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uniserve_5floor_mezz_mini.jpg
 ---

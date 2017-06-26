@@ -10,7 +10,7 @@ metadesc: Med Tech research and development in Essex, Anglia Ruskin MedTech, Ang
   of Essex, Olympus Keymed, e2v
 posturl: med-tech-research-and-development-in-essex
 pub_date: '2015-05-19 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Thunderbeat1_mini.jpg
 ---

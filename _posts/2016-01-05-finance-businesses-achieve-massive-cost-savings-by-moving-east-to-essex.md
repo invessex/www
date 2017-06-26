@@ -10,7 +10,7 @@ metadesc: Finance Businesses Achieve Massive Cost Savings by Moving East to Esse
   - the London-Essex UK Finance Corridor
 posturl: finance-businesses-achieve-massive-cost-savings-by-moving-east-to-essex
 pub_date: '2016-01-05 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/IE484_mini.jpg
 ---

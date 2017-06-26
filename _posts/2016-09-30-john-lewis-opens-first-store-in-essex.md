@@ -9,7 +9,7 @@ metadesc: "John Lewis opens first Essex store. Retailer opens store at the \xA31
   \ Bond Street shopping development."
 posturl: john-lewis-opens-first-store-in-essex
 pub_date: '2016-09-30 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/image3_mini.jpg
 ---

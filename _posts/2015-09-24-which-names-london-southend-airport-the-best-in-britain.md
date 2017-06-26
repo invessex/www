@@ -8,7 +8,7 @@ layout: post
 metadesc: "Which? names London Southend Airport the \u2018Best in Britain\u2019"
 posturl: which-names-london-southend-airport-the-best-in-britain
 pub_date: '2015-09-24 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/LSA_mini.jpg
 ---

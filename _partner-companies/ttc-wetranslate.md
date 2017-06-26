@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: TTC wetranslate
 partner-sector: business-services
 url: ttc-wetranslate

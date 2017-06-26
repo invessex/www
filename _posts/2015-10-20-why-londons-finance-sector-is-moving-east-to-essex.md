@@ -8,7 +8,7 @@ layout: post
 metadesc: "Why London\u2019s Finance Sector is Moving East \u2013 to Essex\u2026"
 posturl: why-londons-finance-sector-is-moving-east-to-essex
 pub_date: '2015-10-20 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/FPS1_mini__Bibby_mini.jpg
 ---

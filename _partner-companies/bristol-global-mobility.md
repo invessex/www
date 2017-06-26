@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: bristol -global-mobility
 partner-sector: business-services
 url: bristol-global-mobility

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{% assign partnersector = site.partner-sectors | where: "sector_url", page.partner-sector | first  %}
+
+<section class="container-full-width container-subpage-hero dark" style="background-image: url('{{ partnersector.hero_image }}')">    
+        <div class="black-overlay"></div>
+           
+                
+    <div class="container">           
+             
+        <div class="inner">     
+            <header class="section-header clearfix">
+              <h1>{{ page.title}}</h1>
+                <div class="synopsis">
+					{{ page.meta-description }} 
+                </div>
+            </header> 
+        </div>
+        
+    </div>
+
+</section>
+<section class="container-full-width container-content container-auto-height light">
+
+    <article class="container">
+    
+        <div class="row">
+        
+            <div class="col-sm-7 col-md-8 col-listing-content">
+
+                
+                <div class="content"> 
+
+                {{ content }}
+   
+                    
+                </div>
+
+            
+            </div>
+       
+        
+        </div>       
+    
+    </article>
+    
+</section>

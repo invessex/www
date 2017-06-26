@@ -10,7 +10,7 @@ metadesc: Spacio designs new Benefit Cosmetics headquarters in Chelmsford. Busin
   & M25 Business Centre.
 posturl: office-expansion-in-essex
 pub_date: '2015-05-08 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Benefit_mini.jpg
 ---

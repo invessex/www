@@ -9,7 +9,7 @@ metadesc: Lidl to set up distribution facility at DP World London Gateway. Essex
   a prime location for international companies looking to set up distribution facilities
 posturl: lidl-to-set-up-distribution-facility-at-dp-world-london-gateway
 pub_date: '2016-12-16 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/DPWorld_165.jpg
 ---

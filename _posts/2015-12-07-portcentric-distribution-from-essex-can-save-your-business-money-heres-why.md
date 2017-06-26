@@ -10,7 +10,7 @@ metadesc: The financial and environmental advantages to be gained from portcentr
   distribution centres
 posturl: portcentric-distribution-from-essex-can-save-your-business-money-heres-why
 pub_date: '2015-12-07 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Ldn_gateway_rail_terminal_mini.jpg
 ---

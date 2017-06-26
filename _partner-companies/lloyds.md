@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Lloyds
 partner-sector: banks
 url: lloyds

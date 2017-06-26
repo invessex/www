@@ -9,7 +9,7 @@ metadesc: "Could this be the UK\u2019s Best Location for High-Technology Busines
   \ Essex has high-tech credentials, a strategic UK location & big property cost savings"
 posturl: could-this-be-the-uks-best-location-for-high-technology-businesses
 pub_date: '2016-05-31 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/CGI-of-the-offices-at-Kao-Park-mini.jpg
 ---

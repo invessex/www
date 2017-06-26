@@ -10,7 +10,7 @@ metadesc: Manheim part of the world's largest automotive services company inject
   investment in vehicle logistics firm Movex
 posturl: worlds-largest-automotive-services-co-injects-investment-in-vehicle-logistics-firm
 pub_date: '2015-08-27 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Transporter_mini.jpg
 ---

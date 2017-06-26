@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: NatWest
 partner-sector: banks
 url: natwest

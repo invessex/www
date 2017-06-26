@@ -11,7 +11,7 @@ metadesc: "How Essex\u2019s Multimodal Connectivity Saves Money and Emissions fo
   \ maximise efficiency and minimise costs while maintaining supply chain integrity."
 posturl: how-essexs-multimodal-connectivity-saves-money-and-emissions-for-logistics-businesses
 pub_date: '2016-01-19 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/London-Gateway_mini.jpg
 ---

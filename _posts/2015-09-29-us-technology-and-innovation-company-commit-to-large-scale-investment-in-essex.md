@@ -10,7 +10,7 @@ metadesc: Raytheon is to move its entire UK research and development operation t
   the Harlow Enterprise Zone
 posturl: us-technology-and-innovation-company-commit-to-large-scale-investment-in-essex
 pub_date: '2015-09-29 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Harlow_ez_mini.jpg

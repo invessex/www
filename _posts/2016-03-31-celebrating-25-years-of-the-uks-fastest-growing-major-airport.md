@@ -10,7 +10,7 @@ metadesc: "Celebrating 25 years of the UK\u2019s fastest growing major airport. 
   \ 25 years ago"
 posturl: celebrating-25-years-of-the-uks-fastest-growing-major-airport
 pub_date: '2016-03-31 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/MAG_STN_terminal_165.jpg
 ---

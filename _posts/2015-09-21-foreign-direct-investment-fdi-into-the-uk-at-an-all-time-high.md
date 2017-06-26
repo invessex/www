@@ -10,7 +10,7 @@ metadesc: "Foreign Direct Investment (FDI) into the UK at an all-time high, \u20
   \ Forum"
 posturl: foreign-direct-investment-fdi-into-the-uk-at-an-all-time-high
 pub_date: '2015-09-21 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/FBEC2361.JPG
 ---

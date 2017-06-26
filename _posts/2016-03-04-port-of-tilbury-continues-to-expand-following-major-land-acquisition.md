@@ -9,7 +9,7 @@ metadesc: Port of Tilbury continues to expand following major land acquisition o
   site of former Tilbury Power Station
 posturl: port-of-tilbury-continues-to-expand-following-major-land-acquisition
 pub_date: '2016-03-04 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/aerial_of_RWE_land_mini.jpg
 ---

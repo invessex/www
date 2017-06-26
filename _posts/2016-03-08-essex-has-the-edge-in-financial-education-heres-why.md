@@ -9,7 +9,7 @@ metadesc: Education & knowledge for finance businesses the Essex advantage. Over
   of finance-related higher education specialisms (courses, qualifications and research).
 posturl: essex-has-the-edge-in-financial-education-heres-why
 pub_date: '2016-03-08 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uni_of_Essex2_mini.jpg
 ---

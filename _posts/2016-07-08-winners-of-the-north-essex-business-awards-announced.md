@@ -9,7 +9,7 @@ metadesc: Winners of the North Essex Business Awards announced. The awards highl
   business success in Essex.
 posturl: winners-of-the-north-essex-business-awards-announced
 pub_date: '2016-07-08 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/lihjhst_mini.jpg
 ---

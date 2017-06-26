@@ -9,7 +9,7 @@ metadesc: The London-Essex UK Finance Corridor extends eastwards from the City o
   London incorporating key Essex towns
 posturl: the-london-advantage-without-the-costs-the-london-essex-uk-finance-corridor
 pub_date: '2016-04-05 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/img074_mini.jpg
 ---

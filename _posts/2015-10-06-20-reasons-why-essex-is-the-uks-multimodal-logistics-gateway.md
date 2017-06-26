@@ -9,7 +9,7 @@ metadesc: 20 reasons why Essex is 'the UK's multimodal logistics gateway' an ove
   of Essex's key multimodal logistics assets and benefits.
 posturl: 20-reasons-why-essex-is-the-uks-multimodal-logistics-gateway
 pub_date: '2015-10-06 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/PLS1_mini_Uniserve_truck_mini.jpg
 ---

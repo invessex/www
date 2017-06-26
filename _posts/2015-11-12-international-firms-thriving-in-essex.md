@@ -8,7 +8,7 @@ layout: post
 metadesc: International firms thriving in Essex
 posturl: international-firms-thriving-in-essex
 pub_date: '2015-11-12 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - uk-multimodal-gateway-essex

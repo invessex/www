@@ -9,7 +9,7 @@ metadesc: "Why Essex is the Right Port of Call for a Skilled Logistics Workforce
   \ Bringing the county\u2019s educational establishments hand-in-hand with industry."
 posturl: why-essex-is-the-right-port-of-call-for-a-skilled-logistics-workforce
 pub_date: '2016-04-19 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Thurrock-Campus-South-Essex-College_mini.jpg
 ---

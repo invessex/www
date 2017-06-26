@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Prettys
 partner-sector: legal
 url: prettys

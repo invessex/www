@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: The Office HQ
 partner-sector: business-services
 url: the-office-hq

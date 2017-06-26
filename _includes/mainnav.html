@@ -1,5 +1,5 @@
 
-{% if page.layout == 'post' or page.layout == 'privacy' or page.layout == 'search' or page.layout == 'allposts' or page.layout == 'allsectors' or page.layout == 'partners' or page.layout == 'allplace-studies' or page.layout == 'allcase-studies' or page.layout == 'allcontacts' or page.layout == 'leading-companies' or page.layout == 'category-archive-layout'%}
+{% if page.layout == 'post' or page.layout == 'privacy' or page.layout == 'search' or page.layout == 'allposts' or page.layout == 'allsectors' or page.layout == 'partners' or page.layout == 'allplace-studies' or page.layout == 'allcase-studies' or page.layout == 'allcontacts' or page.layout == 'leading-companies' or page.layout == 'key-sites' or page.layout == 'assets' or page.layout == 'category-archive-layout'%}
 <nav id="notmain-nav" class="navbar navbar-default navbar-fixed-top nav-background" role="banner">
 {% else%}
 <nav id="main-nav" class="navbar navbar-default navbar-fixed-top" role="banner">
@@ -23,9 +23,27 @@
                 <div class="collapse navbar-collapse navbar-left">
                     <ul class="nav navbar-nav">
                         {% for nav in site.data.main-navigation %}
-                         
+                        {% assign thispage = page.url | remove: 'index.html' %}
+                        {% if thispage contains '/blog/'%}
+                        {% assign thispage = '/blog/' %}
+                        {% endif %}
+                        {% if thispage contains '/sectors/'%}
+                        {% assign thispage = '/sectors/' %}
+                        {% endif %}  
+                        {% if thispage contains '/case-studies/'%}
+                        {% assign thispage = '/studies/list/case-studies/' %}
+                        {% endif %} 
+                        {% if thispage contains '/place-studies/'%}
+                        {% assign thispage = '/studies/list/place-studies/' %}
+                        {% endif %}
+                   
                         {% if nav.submenu != null %}
+                        
+                        {% if nav.link == thispage %}
+                        <li class="active">    
+                        {% else %}
                         <li>
+                        {% endif %}
                         <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }} ▼</a>
                         <ul class="dropdown-menu">
                         {% for item in nav.submenu %}
@@ -34,15 +52,17 @@
                         </ul>
                         </li> 
                                             
-                        {% elsif nav.link == page.url %}
-                        <li class="active"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li>
+                        {% elsif nav.link == thispage %}
+                        <li class="active {{ nav.link }} {{ thispage }}"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li>
                         {% else %} 
-                        <li class="scroll"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li> 
+                        <li class="scroll {{ nav.link }} {{ thispage }}"><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li> 
                         {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
             </div><!--/.container-->
+            <!--<div style="position:fixed; left: 0; top: 0;color: red; font-size: 16px;z-index:3001;">{{ page.url|remove:'index.html' }}</div> -->
+            
         </nav>
 
         

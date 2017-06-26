@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: ForceSelect
 partner-sector: recruitment
 url: forceselect

@@ -11,7 +11,7 @@ metadesc: "The High-Technology Capabilities that are Attracting Global Businesse
   \ companies\u2026"
 posturl: the-high-technology-capabilities-that-are-attracting-global-businesses-to-essex-uk
 pub_date: '2016-05-16 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/BAE_systems_microscope_shot_mini.jpg
 ---

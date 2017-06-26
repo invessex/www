@@ -8,7 +8,7 @@ layout: post
 metadesc: "Essex is a prime location for commuters. It offers quick access to London, a great selection of property at competitive prices, a vibrant business environment and a fantastic quality of life for all the family."
 posturl: essex-a-leading-location-for-commuters-and-businesses
 pub_date: '2013-07-06 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 - high-technology-cluster
 - london-essex-uk-finance-sector

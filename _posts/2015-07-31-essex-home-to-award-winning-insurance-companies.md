@@ -10,7 +10,7 @@ metadesc: Essex home to award winning insurance companies, British Insurance Awa
   (RSA), Kennedys
 posturl: essex-home-to-award-winning-insurance-companies
 pub_date: '2015-07-31 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Award_winners_mini.jpg
 ---

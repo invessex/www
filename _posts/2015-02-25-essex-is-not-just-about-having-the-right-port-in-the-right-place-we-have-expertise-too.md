@@ -10,7 +10,7 @@ metadesc: electromechanical, composite engineering, operations & maintenance, Eu
   Wind Energy Association Conference & Exhibition
 posturl: essex-is-not-just-about-having-the-right-port-in-the-right-place-we-have-expertise-too
 pub_date: '2015-02-25 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: None
 ---

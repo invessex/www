@@ -10,7 +10,7 @@ metadesc: Land available at the Thames Enterprise Park on the site of the former
   refinery will build on the great logistics offer in Essex
 posturl: a-huge-logistics-park-is-planned-right-next-to-london-gateway-at-the-mouth-of-the-thames
 pub_date: '2015-06-29 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Coryton_mini.jpg
 ---

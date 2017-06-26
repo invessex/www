@@ -8,7 +8,7 @@ layout: post
 metadesc: Business travellers up 20% at London Stansted Airport
 posturl: business-travellers-up-20-at-london-stansted-airport
 pub_date: '2015-07-24 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/160x160-stansted-check-in-passengers_640.jpg
 ---

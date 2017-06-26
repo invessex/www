@@ -10,7 +10,7 @@ metadesc: "The Right UK Location Is Key for Logistics Business \u2018The Woodlan
   \ to expand or relocate."
 posturl: the-right-uk-location-is-key-for-logistics-business-the-woodland-group
 pub_date: '2016-08-02 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Felixstowe_080_zps209848a0_mini.jpg
 ---

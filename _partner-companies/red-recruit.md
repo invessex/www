@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Red Recruit
 partner-sector: recruitment
 url: rec-recruit

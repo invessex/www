@@ -10,7 +10,7 @@ metadesc: "London Southend Airport voted \u2018Best in the UK\u2019 for 2nd year
   \ a row. London's newest airport once again showed outstanding results"
 posturl: london-southend-airport-voted-best-in-the-uk-for-2nd-year-in-a-row
 pub_date: '2016-11-25 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/SOUTHEND__1344245088_P1-2_165.jpg
 ---

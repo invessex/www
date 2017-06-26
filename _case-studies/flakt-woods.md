@@ -5,7 +5,7 @@ heading: "Fl\xE4kt Woods"
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
-tag:
+tags:
 related: null
 sectors: null
 synopsis: "Fl\xE4kt Woods - Bringing air to life."

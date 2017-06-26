@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Birkett Long LLP
 partner-sector: legal
 url: birkett-long-llp

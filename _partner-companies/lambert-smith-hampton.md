@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Lambert Smith Hampton
 partner-sector: commercial-property
 url: lambert-smith-hampton

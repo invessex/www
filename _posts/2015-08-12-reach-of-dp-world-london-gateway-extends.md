@@ -9,7 +9,7 @@ metadesc: A new trade lane & expansion of port centric distribution at DP World 
   Gateway increase offer to UK importers and exporters
 posturl: reach-of-dp-world-london-gateway-extends
 pub_date: '2015-08-12 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/DP_World_mini.jpg
 ---

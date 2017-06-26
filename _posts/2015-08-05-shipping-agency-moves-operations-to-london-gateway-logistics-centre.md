@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: shipping-agency-moves-operations-to-london-gateway-logistics-centre
 pub_date: '2015-08-05 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: None
 ---

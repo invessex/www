@@ -5,7 +5,7 @@ heading: Visteon Engineering Services
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Visteon_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
-tag:
+tags:
 related: null
 sectors:
 - high-technology-cluster

@@ -9,7 +9,7 @@ metadesc: "\xA32million Solar Farm Opens at London Southend Airport. The largest
   \ farm at a UK airport will generate around 20% of the airport\u2019s annual electricity."
 posturl: GBP2million-solar-farm-opens-at-london-southend-airport
 pub_date: '2016-01-15 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/LSA_solar_Farm_mini.jpg
 ---

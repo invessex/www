@@ -8,6 +8,7 @@ layout: place-study
 pub_date: 
 related:
 sectors:
+tags:
 thumbnail_image: 
 url: 
 ---

@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Knight Frank
 partner-sector: commercial-property
 url: knight-frank

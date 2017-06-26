@@ -8,7 +8,7 @@ layout: post
 metadesc: City of Chelmsford Investment Development Grade A Office
 posturl: great-development-opportunities-in-city-of-chelmsford
 pub_date: '2015-10-15 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/GenesisHousing_160px.jpg

@@ -8,7 +8,7 @@ layout: post
 metadesc: Ship of the Year, Servowatch, marine automation, Essex, Dutch Sea Rescue
 posturl: local-company-credited-with-contributing-to-ship-of-the-year
 pub_date: '2015-02-05 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Servowatch_KNRM_nh1816_lifeboat_160pxth.jpg
 ---

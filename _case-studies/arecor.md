@@ -5,7 +5,7 @@ heading: Arecor
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Chesterford_RP_2_1980.jpg
 layout: case-study
 pub_date: '2017-01-19 00:00:00'
-tag: 
+tags: 
 - leading-company
 related:
   - essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care

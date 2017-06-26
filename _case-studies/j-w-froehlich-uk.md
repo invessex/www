@@ -5,7 +5,7 @@ heading: J W Froehlich UK
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JW_Banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
-tag:
+tags:
 related:
 sectors:
 - high-technology-cluster

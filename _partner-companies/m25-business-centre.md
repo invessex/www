@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: M25 Business Centre
 partner-sector: business-services
 url: m25-business-centre

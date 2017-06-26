@@ -10,7 +10,7 @@ metadesc: "The City beyond London \u2013 Why Financial Services is flourishing i
   \ workers than any major city in the UK..."
 posturl: the-city-beyond-london-why-financial-services-is-flourishing-in-essex
 pub_date: '2016-08-30 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/1_London_Rd_Brentwood-2_mini.jpg
 ---

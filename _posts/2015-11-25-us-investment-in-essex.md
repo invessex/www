@@ -9,7 +9,7 @@ metadesc: "US investment in Essex - county is attracting attention from US inves
   \ with investments in projects valuing \xA3250-300million"
 posturl: us-investment-in-essex
 pub_date: '2015-11-25 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 - london-essex-uk-finance-corridor

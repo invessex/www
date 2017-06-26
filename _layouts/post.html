@@ -49,12 +49,12 @@ layout: default
                             <li><span>Posted By:</span> {{ page.Author }}</li> 
                         </ul>
                         
-                       {% assign thesectors = page.sectors.size %}
-                       {% if page.sectors.size > 0 %}
+                       {% assign thesectors = page.categories.size %}
+                       {% if page.categories.size > 0 %}
                         <ul class="clearfix">
                         	<li class="marker">Posted In:</li>
-                            {% for sector in page.sectors%}
-                            <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
+                            {% for sector in page.categories%}
+                            <li class="link"><a href="{{absolute_url }}/news/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
                             {% endfor %}
                         </ul>
                         {% endif %}
@@ -106,12 +106,12 @@ layout: default
                                     
 				
 <!-- Start Widget -->
-{% if page.sectors.size > 0 %}
+{% if page.categories.size > 0 %}
 <div class="sidebar-widget list-links">
 
     <h5>Related Sectors</h5>
     <ul>
-    {% for sector in page.sectors %}
+    {% for sector in page.categories %}
         <li class="link"><a href="{{absolute_url }}/sectors/{{ sector}}">{{ sector | replace: '-', ' ' | camelcase}}</a></li>
     {% endfor %}
 

@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Pure Resourcing Solutions
 partner-sector: recruitment
 url: pure-resourcing-solutions

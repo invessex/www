@@ -10,7 +10,7 @@ metadesc: Businesses in the region looking to expand their overseas trade accord
   exporting to China
 posturl: essex-businesses-optimistic-on-exporting-says-grant-thornton
 pub_date: '2015-04-23 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: None
 ---

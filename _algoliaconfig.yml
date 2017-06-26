@@ -2,61 +2,88 @@
 # Site
 
 title: investessex.co.uk
-url: "https://xxxxxxx.cloudvent.net"
-baseurl:
+url: "https://honeydew-pooch.cloudvent.net"
+baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
+cdn_images: '//clarity-strategies.github.io/ie-uploads/uploads'
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: App marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Frisco Template
-  links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+
+
 
 # -----
 # Build
 
-permalink: /blog/:slug
+permalink: /blog/:title
 
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-archives
+  - jekyll-paginate-v2
+  - algoliasearch-jekyll
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENCE
+  - _off
+  - _partner-companies
 
 collections:
-  staff_members:
-    _hide_content: true
   case-studies:
+    output: true
+    permalink: /studies/case-studies/:path
+  case-studies-leading-companies:
     output: true
     permalink: /studies/case-studies/:path
   place-studies:
     output: true
     permalink: /studies/place-studies/:path
-  posts:
+  sectors:
     output: true
-    permalink: /blog/:slug
+    permalink: /sectors/:path
+  contacts:
+    output: true
+    permalink: /contacts/:path
+  events:
+    output: false
+    permalink: /events/:path
+  invest-essex-events:
+    output: false
+    permalink: /invest-essex-events/:path
+  partner-sectors:
+    output: true
+    permalink: /partner-sectors/:path
+  partner-companies:
+    output: true
+    permalink: /partner-companies/:path
+
   
 
-paginate: 10
-paginate_path: "/blog/:num/"
+#paginate: 10
+#paginate_path: "/blog/page:num/"
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 
 jekyll-archives:
   enabled: ['categories','tags']
-  layout: 'archive'
+  layouts:
+  year: year-archive
+  month: month-archive
+  day: day-archive
+  category: category-archive-layout
+  tag: tag-archive-layout
   permalinks:
     tag: '/tag/:name/'
     category: '/category/:name/'
@@ -75,18 +102,20 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: "contact-success.html"
-    values:
-      layout: "page"
 
 # -----------
 # CloudCannon
 _editable_regions:
   image:
     url_src: true
-    
+
+#---------------
+# algolia search
+#---------------
+algolia:
+  application_id: '4UTC2BOCJR'
+  index_name:     'IE_search'
+
 social_icons:
   - Facebook
   - Google Plus

@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: what-makes-essex-the-uks-multimodal-gateway
 pub_date: '2016-05-24 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: None
 ---

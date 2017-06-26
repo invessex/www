@@ -5,7 +5,7 @@ heading: New Holland Agriculture
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/BB_1290_Plus_16_421_1980.jpg
 layout: case-study
 pub_date: '2017-01-26 00:00:00'
-tag:
+tags:
 - leading-company
 related: null
 sectors:

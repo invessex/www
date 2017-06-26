@@ -8,7 +8,7 @@ layout: post
 metadesc: UASC Al Muraykh docks at DP World London Gateway
 posturl: record-breaking-ship-docks-at-london-gateway-for-first-port-of-call-in-europe
 pub_date: '2016-01-08 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/UASC-Al-Muraykh-bow-010116_mini.jpg
 ---

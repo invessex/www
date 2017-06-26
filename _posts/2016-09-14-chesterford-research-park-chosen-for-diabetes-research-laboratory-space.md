@@ -11,7 +11,7 @@ metadesc: Chesterford Research Park chosen for diabetes research laboratory spac
   for diabetes care.
 posturl: chesterford-research-park-chosen-for-diabetes-research-laboratory-space
 pub_date: '2016-09-14 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Aerial-290716-high_165.jpg
 ---

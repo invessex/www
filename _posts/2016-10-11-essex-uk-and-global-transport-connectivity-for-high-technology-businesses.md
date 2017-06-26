@@ -9,7 +9,7 @@ metadesc: Essex UK and global transport connectivity for high-technology busines
   A range of location advantages are attracting high-tech businesses to Essex...
 posturl: essex-uk-and-global-transport-connectivity-for-high-technology-businesses
 pub_date: '2016-10-11 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/CEUHTC_icon_square_mini1.jpg
 ---

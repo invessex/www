@@ -12,6 +12,8 @@ related:
 - /studies/place-studies/earls-colne-business-park
 sectors:
 - london-essex-uk-finance-corridor
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/003-planned_innovation_centre_cgi_copyright_University_of_Essex_555.jpg
 study_url: university-of-essex
 ---

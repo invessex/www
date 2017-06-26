@@ -9,7 +9,7 @@ metadesc: Profits more than double at Wilkin & Sons, world famous Essex producer
   jams and preserves
 posturl: profits-more-than-double-at-tiptree-jam-producer
 pub_date: '2015-07-31 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Tiptree_Jam_mini.jpg
 ---

@@ -5,7 +5,7 @@ heading: Raytheon Company
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Raytheon_banner.jpg
 layout: case-study
 pub_date: '2016-12-20 00:00:00'
-tag:
+tags:
 - leading-company
 related:
 - new-250m-data-centre-construction-underway

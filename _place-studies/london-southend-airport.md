@@ -17,6 +17,8 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Southend_Airport_aerial_555.jpg
 study_url: london-southend-airport
 ---

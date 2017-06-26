@@ -9,7 +9,7 @@ metadesc: Uniserve's company Seafast wins Queen's Award for International Trade 
   ports and logistics boom
 posturl: uniserve-company-wins-queens-award-for-international-trade
 pub_date: '2015-04-24 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uniserve_5floor_mezz_mini.jpg
 ---

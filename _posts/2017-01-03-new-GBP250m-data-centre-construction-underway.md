@@ -9,7 +9,7 @@ metadesc: "New \xA3250m data centre construction underway. KAO Park to become th
   \ first world-class data centre campus in the UK"
 posturl: new-GBP250m-data-centre-construction-underway
 pub_date: '2017-01-03 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Harlow_ez_mini.jpg

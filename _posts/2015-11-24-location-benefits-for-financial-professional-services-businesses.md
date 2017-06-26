@@ -8,7 +8,7 @@ layout: post
 metadesc: Location Benefits for Financial & Professional Services Businesses
 posturl: location-benefits-for-financial-professional-services-businesses
 pub_date: '2015-11-24 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: None
 ---

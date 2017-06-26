@@ -17,6 +17,8 @@ sectors:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LondonGateway_555x440.jpg
 study_url: london-gateway-port
 ---

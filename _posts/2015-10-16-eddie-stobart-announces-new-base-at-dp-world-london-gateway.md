@@ -9,7 +9,7 @@ metadesc: Eddie Stobart to set up new container transport base at DP World Londo
   Gateway
 posturl: eddie-stobart-announces-new-base-at-dp-world-london-gateway
 pub_date: '2015-10-16 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Stobart_lorry_mini.jpg
 ---

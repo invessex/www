@@ -9,7 +9,7 @@ metadesc: Contact centre expands to meet rising demand. Multi award-winning comp
   Ventrica experiences phenomenal growth
 posturl: contact-centre-expands-to-meet-rising-demand
 pub_date: '2017-01-13 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Ventrica_new_penthouse_contact_centre_suite_165.jpg
 ---

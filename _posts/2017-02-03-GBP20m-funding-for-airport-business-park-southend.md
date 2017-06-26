@@ -9,7 +9,7 @@ metadesc: "\xA320m funding for Airport Business Park Southend. Airport Business 
   \ Southend has received \xA320m government funding for a new innovation centre project"
 posturl: GBP20m-funding-for-airport-business-park-southend
 pub_date: '2017-02-03 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/31314875172_3d7e99fef0_h_165.jpg
 ---

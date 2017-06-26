@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Ranne Creative Interiors
 partner-sector: business-services
 url: ranne-creative-interiors

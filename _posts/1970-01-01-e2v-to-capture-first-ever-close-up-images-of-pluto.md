@@ -8,7 +8,7 @@ layout: post
 metadesc: e2v to capture first ever close up images of Pluto
 posturl: e2v-to-capture-first-ever-close-up-images-of-pluto
 pub_date: '1970-01-01 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/e2v_exterior_mini.jpg
 ---

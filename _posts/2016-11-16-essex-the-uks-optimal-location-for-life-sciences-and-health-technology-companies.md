@@ -10,7 +10,7 @@ metadesc: "Essex The UK\u2019s Optimal Location for Life Sciences and Health Tec
   \ Companies. The drivers of Essex as a HealthTech business location"
 posturl: essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
 pub_date: '2016-11-16 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/int011_165.jpg
 ---

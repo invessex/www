@@ -10,7 +10,7 @@ metadesc: Education and innovation how Essex UK is securing the future of its hi
   businesses with specialist skills provision for high-technology industry
 posturl: education-and-innovation-how-essex-uk-is-securing-the-future-of-its-high-technology-businesses
 pub_date: '2016-09-13 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Sir_Charles_Kao_UTC_Building_mini.jpg
 ---

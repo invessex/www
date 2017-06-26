@@ -9,7 +9,7 @@ metadesc: "Amlin opens \xA327 million headquarters in Chelmsford, Essex. This wi
   \ see them become one of Chelmsford's biggest private sector employers."
 posturl: amlin-opens-GBP27-million-headquarters-in-chelmsford
 pub_date: '2015-10-28 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Amlin_160px_1.jpg
 ---

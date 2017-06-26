@@ -11,7 +11,7 @@ metadesc: "What Makes Essex the UK \u2018Location of Choice\u2019 for Finance IT
   \ etc"
 posturl: what-makes-essex-the-uk-location-of-choice-for-finance-it-businesses-and-data-centres
 pub_date: '2016-06-07 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/IMG_0669_mini.jpg
 ---

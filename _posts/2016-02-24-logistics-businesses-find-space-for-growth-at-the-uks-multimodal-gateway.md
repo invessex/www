@@ -11,7 +11,7 @@ metadesc: "Logistics Businesses Find Space for Growth at \u2018the UK\u2019s Mul
   \ sites\u2026"
 posturl: logistics-businesses-find-space-for-growth-at-the-uks-multimodal-gateway
 pub_date: '2016-02-24 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Logistics_-_LI_1_mini.jpg
 ---

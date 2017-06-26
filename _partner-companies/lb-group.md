@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: LB Group
 partner-sector: accountants
 url: lb-group

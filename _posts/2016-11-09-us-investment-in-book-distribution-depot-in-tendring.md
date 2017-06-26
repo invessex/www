@@ -9,7 +9,7 @@ metadesc: US investment in book distribution depot in Tendring. Penguin Random H
   expanding their facility in Essex.
 posturl: us-investment-in-book-distribution-depot-in-tendring
 pub_date: '2016-11-09 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/1x165x165.jpg
 ---

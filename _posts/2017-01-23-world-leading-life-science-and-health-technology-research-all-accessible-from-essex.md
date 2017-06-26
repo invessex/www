@@ -11,7 +11,7 @@ metadesc: World-Leading Life Science and Health Technology Research All Accessib
   university research
 posturl: world-leading-life-science-and-health-technology-research-all-accessible-from-essex
 pub_date: '2017-01-23 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/MedBIC_th.jpg
 ---

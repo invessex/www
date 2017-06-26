@@ -9,7 +9,7 @@ metadesc: Helping companies and organisations to access the Chinese market.  Ema
   Peter.Manning@essex.gov.uk
 posturl: where-essex-leads
 pub_date: '2014-06-20 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: None
 ---

@@ -11,7 +11,7 @@ metadesc: Essex UK At the Heart of the 'Greater South East England' Life Science
   companies
 posturl: essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
 pub_date: '2016-12-13 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/img5_%28Illumina%29_2_165.jpg
 ---

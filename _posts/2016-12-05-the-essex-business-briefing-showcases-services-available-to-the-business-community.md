@@ -11,7 +11,7 @@ metadesc: The Essex Business Briefing showcases services available to the busine
   Briefing
 posturl: the-essex-business-briefing-showcases-services-available-to-the-business-community
 pub_date: '2016-12-05 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Alex_Wenham_165.jpg
 ---

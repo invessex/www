@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Birketts LLP
 partner-sector: legal
 url: birketts-llp

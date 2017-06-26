@@ -10,7 +10,7 @@ metadesc: "\xA33.5m funding for skills centre at London Stansted Airport. London
   \ Centre"
 posturl: GBP3-5m-funding-for-skills-centre-at-london-stansted-airport
 pub_date: '2017-02-09 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/MAG_STN_terminal_165.jpg
 ---

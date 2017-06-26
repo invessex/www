@@ -9,7 +9,7 @@ metadesc: Colchester Set for Ultra-High-Speed Broadband. Significant opportunity
   digital and creative business development.
 posturl: colchester-set-for-ultra-high-speed-broadband
 pub_date: '2016-12-12 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/network_cabels_165.jpg
 ---

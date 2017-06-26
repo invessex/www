@@ -9,7 +9,7 @@ metadesc: New datacentre Kao DATA to drive innovation in life sciences, Kao Park
   Harlow Enterprise Zone, Essex
 posturl: new-data-driven-datacentre-to-drive-innovation-in-life-sciences
 pub_date: '2015-12-09 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Datacentre_mini.jpg

@@ -31,7 +31,7 @@ exclude:
   - README.md
   - LICENCE
   - _off
-  - _partner-companies
+#  - _partner-companies
 
 collections:
   case-studies:
@@ -112,9 +112,9 @@ _editable_regions:
 #---------------
 # algolia search
 #---------------
-algolia:
-  application_id: '4UTC2BOCJR'
-  index_name:     'IE_search'
+#algolia:
+#  application_id: '4UTC2BOCJR'
+#  index_name:     'IE_search'
 
 social_icons:
   - Facebook

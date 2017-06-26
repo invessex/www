@@ -11,7 +11,7 @@ metadesc: London Stansted Airport only UK airport to offer direct air cargo link
   network at airport
 posturl: london-stansted-airport-only-uk-airport-to-offer-direct-cargo-link-between-uk-and-china
 pub_date: '2015-06-16 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Chinasouthern_mini.jpg
 ---

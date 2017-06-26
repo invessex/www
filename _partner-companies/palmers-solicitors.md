@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Palmers Solicitors
 partner-sector: legal
 url: palmers-solicitors

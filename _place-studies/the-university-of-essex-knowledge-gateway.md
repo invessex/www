@@ -9,6 +9,8 @@ pub_date: 2017-04-27 00:00:00
 related: null
 sectors:
 - london-essex-uk-finance-corridor
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/003-planned_innovation_centre_cgi_copyright_University_of_Essex_400.jpg
 study_url: the-university-of-essex-knowledge-gateway
 ---

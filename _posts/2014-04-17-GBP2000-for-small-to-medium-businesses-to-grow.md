@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: GBP2000-for-small-to-medium-businesses-to-grow
 pub_date: '2014-04-17 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster

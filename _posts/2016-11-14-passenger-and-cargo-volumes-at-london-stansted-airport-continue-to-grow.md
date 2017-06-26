@@ -9,7 +9,7 @@ metadesc: Passenger and cargo volumes at London Stansted Airport continue to gro
   London Stansted Airport had its busiest ever October.
 posturl: passenger-and-cargo-volumes-at-london-stansted-airport-continue-to-grow
 pub_date: '2016-11-14 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/165.jpg
 ---

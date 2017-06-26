@@ -5,7 +5,7 @@ heading: Leonardo
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Leonardo_office_1980.jpg
 layout: case-study
 pub_date: '2017-03-15 00:00:00'
-tag:
+tags:
 related: null
 sectors:
 - high-technology-cluster

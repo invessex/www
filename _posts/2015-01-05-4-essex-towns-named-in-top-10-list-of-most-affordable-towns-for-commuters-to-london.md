@@ -9,7 +9,7 @@ metadesc: Basildon, Harlow, Braintree and Southend listed as four of London's mo
   affordable commuter towns
 posturl: 4-essex-towns-named-in-top-10-list-of-most-affordable-towns-for-commuters-to-london
 pub_date: '2015-01-05 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Train_160x160_Th.jpg
 ---

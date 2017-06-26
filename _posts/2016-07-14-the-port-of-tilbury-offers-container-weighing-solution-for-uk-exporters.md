@@ -9,7 +9,7 @@ metadesc: The Port of Tilbury offers container weighing solution for UK exporter
   The port has made significant investment to meet regulations and increase in business.
 posturl: the-port-of-tilbury-offers-container-weighing-solution-for-uk-exporters
 pub_date: '2016-07-14 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/LCT_June_2016_165.jpg
 ---

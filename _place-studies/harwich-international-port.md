@@ -17,6 +17,8 @@ sectors:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
+tags:
+- asset
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
 study_url: harwich-international-port
 ---

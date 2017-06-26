@@ -14,7 +14,7 @@ for iname in os.listdir(os.getcwd()):
     with open(iname,'r') as f:
       filecontents = f.read()
       f.close
-      filecontents = filecontents.replace('sector_url:','study_url:')
+      filecontents = filecontents.replace('tag:','tags:')
       #filecontents = filecontents.replace('thumb:','thumbnail_image:')
     with open(iname,'w') as f:
       f.write(filecontents)

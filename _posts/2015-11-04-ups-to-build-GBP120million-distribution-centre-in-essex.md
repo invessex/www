@@ -9,7 +9,7 @@ metadesc: "UPS to build \xA3120million distribution centre in Essex. Centre will
   \ as a UK hub & key gateway to UPS's global transportation network."
 posturl: ups-to-build-GBP120million-distribution-centre-in-essex
 pub_date: '2015-11-04 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Ups_uk_md_and_lg_ceo_mini.jpg
 ---

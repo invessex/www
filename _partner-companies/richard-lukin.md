@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Richard Lukin
 partner-sector: accountants
 url: richard-lukin

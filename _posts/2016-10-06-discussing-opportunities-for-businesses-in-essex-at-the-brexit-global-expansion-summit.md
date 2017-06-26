@@ -9,7 +9,7 @@ layout: post
 metadesc: "Brexit & Global Expansion Summit - the world\u2019s leading event on Brexit"
 posturl: discussing-opportunities-for-businesses-in-essex-at-the-brexit-global-expansion-summit
 pub_date: '2016-10-06 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
 - london-essex-uk-finance-corridor

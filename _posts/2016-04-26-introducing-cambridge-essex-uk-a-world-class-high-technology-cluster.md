@@ -9,7 +9,7 @@ metadesc: Introducing Cambridge-Essex UK A World-Class High-Technology Cluster. 
   Essex industry complements Cambridge research.
 posturl: introducing-cambridge-essex-uk-a-world-class-high-technology-cluster
 pub_date: '2016-04-26 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/CEUHTC_icon_square_mini.jpg
 ---

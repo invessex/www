@@ -11,7 +11,7 @@ metadesc: "Purfleet is one step closer to becoming a major media and movie hub t
   \ Thames Estuary."
 posturl: purfleet-is-one-step-closer-to-becoming-a-major-media-and-movie-hub
 pub_date: '2016-01-26 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Purfleet_mini.jpg
 ---

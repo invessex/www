@@ -10,7 +10,7 @@ metadesc: "Plumbing supplies group Wolseley UK purchases \xA35m warehouse & dist
   \ Stoford"
 posturl: GBP5-million-warehouse-and-distribution-unit-completed-in-basildon
 pub_date: '2015-08-21 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Wolseley_mini.jpg
 ---

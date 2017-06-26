@@ -8,7 +8,7 @@ layout: post
 metadesc: University of Essex planning world's deepest space & marine research pool
 posturl: university-of-essex-planning-worlds-deepest-research-pool
 pub_date: '2015-07-23 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uniofessexpool_mini.jpg
 ---

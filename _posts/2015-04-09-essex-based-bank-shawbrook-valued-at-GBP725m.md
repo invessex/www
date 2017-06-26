@@ -9,7 +9,7 @@ metadesc: "Essex based Shawbrook Bank valued at \xA3725m following formal admiss
   \ on London Stock Exchange, LSE, initial public offering, IPO, specialist bank"
 posturl: essex-based-bank-shawbrook-valued-at-GBP725m
 pub_date: '2015-04-09 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/lse_2_mini.jpg
 ---

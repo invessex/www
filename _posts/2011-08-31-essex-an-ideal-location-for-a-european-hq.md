@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: essex-an-ideal-location-for-a-european-hq
 pub_date: '2011-08-31 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: None
 ---

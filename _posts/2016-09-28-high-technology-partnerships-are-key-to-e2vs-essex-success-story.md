@@ -9,7 +9,7 @@ metadesc: "Essex has a heritage in high-technology and innovation and high-techn
   \ partnerships are key to e2v\u2019s Essex success story."
 posturl: high-technology-partnerships-are-key-to-e2vs-essex-success-story
 pub_date: '2016-09-28 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/e2v_cleanroom_%282%29_mini.jpg
 ---

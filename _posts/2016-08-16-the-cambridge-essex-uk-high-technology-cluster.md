@@ -9,7 +9,7 @@ metadesc: "The Cambridge-Essex UK High-Technology Cluster is the UK\u2019s optim
   \ location for high-technology businesses\u2026"
 posturl: the-cambridge-essex-uk-high-technology-cluster
 pub_date: '2016-08-16 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Olympus_Keymed2_mini.jpg
 ---

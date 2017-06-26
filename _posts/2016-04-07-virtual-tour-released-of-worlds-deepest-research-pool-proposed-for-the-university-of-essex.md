@@ -11,7 +11,7 @@ metadesc: "Virtual tour released of world\u2019s deepest research pool proposed 
   \ Major Tim Peake, is one step closer to development"
 posturl: virtual-tour-released-of-worlds-deepest-research-pool-proposed-for-the-university-of-essex
 pub_date: '2016-04-07 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/_89105897_ba_mini.jpg
 ---

@@ -9,7 +9,7 @@ metadesc: Changes to the Union Customs Code & Safety of Life at Sea regulations 
   will come into force in 2016 & have an impact on international trade
 posturl: changes-to-the-union-customs-code-safety-of-life-at-sea-regulations
 pub_date: '2016-02-02 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Pentalver_mini.jpg
 ---

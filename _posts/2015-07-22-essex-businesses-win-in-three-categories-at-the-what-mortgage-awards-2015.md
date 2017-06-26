@@ -8,7 +8,7 @@ layout: post
 metadesc: Essex businesses win in three categories at the What Mortgage Awards 2015
 posturl: essex-businesses-win-in-three-categories-at-the-what-mortgage-awards-2015
 pub_date: '2015-07-22 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Shawbrook_mgage_awards_mini.jpg
 ---

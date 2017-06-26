@@ -9,7 +9,7 @@ metadesc: Regional Growth Fund creating jobs within e2v's Space Imaging departme
   RGF, e2v, space technology, sensors
 posturl: regional-growth-funding-creates-jobs-within-e2vs-space-imaging-division
 pub_date: '2015-04-07 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/e2v_exterior_mini.jpg
 ---

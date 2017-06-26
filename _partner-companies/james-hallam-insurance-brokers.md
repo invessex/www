@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: James hallam Insurance Brokers
 partner-sector: insurance
 url: james-hallam-insurance-brokers

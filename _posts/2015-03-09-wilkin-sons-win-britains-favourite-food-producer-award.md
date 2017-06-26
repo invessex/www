@@ -8,7 +8,7 @@ layout: post
 metadesc: LandLove Magazine Awards, Tiptree jam & preserves, Wilkin & Sons
 posturl: wilkin-sons-win-britains-favourite-food-producer-award
 pub_date: '2015-03-09 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Col_Tiptree_th.jpg
 ---

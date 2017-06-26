@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Wortley Byers
 partner-sector: legal
 url: wortley-byers

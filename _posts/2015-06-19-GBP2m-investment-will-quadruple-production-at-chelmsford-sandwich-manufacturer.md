@@ -9,7 +9,7 @@ metadesc: "Chelmsford based sandwich manufacturer Raynor Foods is set to quadrup
   \ production and create 65 new jobs with a \xA32m capital investment"
 posturl: GBP2m-investment-will-quadruple-production-at-chelmsford-sandwich-manufacturer
 pub_date: '2015-06-19 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Raynors_foods_swich_mini.jpg
 ---

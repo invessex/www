@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: GPS-Direct
 partner-sector: business-services
 url: gps-direct

@@ -9,7 +9,7 @@ metadesc: "Award-winning bank continues expansion in Essex. \u2018Bank of the ye
   \ opens in Chelmsford."
 posturl: award-winning-bank-continues-expansion-in-essex
 pub_date: '2016-11-28 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Metro_Bank_store_165.jpg
 ---

@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: essex-companies-recognised-with-queens-award-for-enterprise
 pub_date: '2015-09-09 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: None
 ---

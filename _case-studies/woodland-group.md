@@ -5,7 +5,7 @@ heading: Woodland Group
 hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Woodland_trucks_2_1980.png
 layout: case-study
 pub_date: '2017-03-01 00:00:00'
-tag:
+tags:
 related:
 - the-right-uk-location-is-key-for-logistics-business-the-woodland-group
 - south-essex-logistics-offer

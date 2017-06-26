@@ -8,7 +8,7 @@ layout: post
 metadesc: Passenger and cargo volumes up at London Stansted Airport
 posturl: passenger-and-cargo-volumes-up-at-london-stansted-airport
 pub_date: '2015-10-15 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Stansted_160px_th.jpg
 ---

@@ -9,7 +9,7 @@ metadesc: Amazon to open one of its largest warehouses in Essex. Amazon will be 
   key tenant at the London Distribution Park development at the Port of Tilbury.
 posturl: amazon-to-open-one-of-its-largest-warehouses-in-essex
 pub_date: '2016-08-19 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Amazon-delivery-box_mini.jpg
 ---

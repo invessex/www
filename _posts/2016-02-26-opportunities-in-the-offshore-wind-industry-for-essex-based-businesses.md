@@ -10,7 +10,7 @@ metadesc: Opportunities in the offshore wind industry for Essex based businesses
   construction industries.
 posturl: opportunities-in-the-offshore-wind-industry-for-essex-based-businesses
 pub_date: '2016-02-26 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/DSC_0007_165.jpg
 ---

@@ -10,6 +10,8 @@ related: null
 sectors:
 - high-technology-cluster
 - life-sciences-healthcare-cluster
+tags:
+- keysite
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CGI-of-Kao-Park_555.jpg
 study_url: harlow-enterprise-zone
 ---

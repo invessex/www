@@ -9,7 +9,7 @@ metadesc: e2v aboard ExoMars mission to Mars enabling scientists to study Mars a
   the atmosphere
 posturl: e2v-aboard-exomars-mission-to-mars
 pub_date: '2016-03-17 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/ExoMars_Trace_Gas_Orbiter_mini.jpg
 ---

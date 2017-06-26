@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: ip21 Limited
 partner-sector: legal
 url: ip21-limited

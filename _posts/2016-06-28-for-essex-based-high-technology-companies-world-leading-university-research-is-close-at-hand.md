@@ -11,7 +11,7 @@ metadesc: For Essex-based high-technology companies, world-leading university re
   collaborations with nearby universities.
 posturl: for-essex-based-high-technology-companies-world-leading-university-research-is-close-at-hand
 pub_date: '2016-06-28 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uni_of_essex_mini.jpg
 ---

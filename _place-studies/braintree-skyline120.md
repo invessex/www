@@ -15,6 +15,8 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
+tags:
+- keysite
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Skyline120_555x440.jpg
 study_url: braintree-skyline120
 ---

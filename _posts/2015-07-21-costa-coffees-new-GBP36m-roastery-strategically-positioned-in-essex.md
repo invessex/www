@@ -9,7 +9,7 @@ metadesc: "Costa Coffee\u2019s new \xA336m roastery strategically positioned in 
   \ Essex"
 posturl: costa-coffees-new-GBP36m-roastery-strategically-positioned-in-essex
 pub_date: '2015-07-21 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Costa_coffee_mini.jpg
 ---

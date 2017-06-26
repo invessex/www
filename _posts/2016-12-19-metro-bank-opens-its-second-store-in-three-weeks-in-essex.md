@@ -9,7 +9,7 @@ metadesc: Metro Bank opens its second store in three weeks in Essex. The award-w
   bank continues its expansion in the county
 posturl: metro-bank-opens-its-second-store-in-three-weeks-in-essex
 pub_date: '2016-12-19 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Colchester3_400_165.jpg
 ---

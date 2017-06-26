@@ -15,6 +15,8 @@ sectors:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 - uk-multimodal-gateway-essex
+tags:
+- keysite
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Tile.jpg
 study_url: earls-colne-business-park
 ---

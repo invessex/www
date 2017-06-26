@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Garrington
 partner-sector: commercial-property
 url: garrington

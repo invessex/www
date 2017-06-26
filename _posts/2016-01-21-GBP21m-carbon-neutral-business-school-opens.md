@@ -10,7 +10,7 @@ metadesc: "\xA321m carbon neutral business school opens. This comes at a time wh
   \ in the UK."
 posturl: GBP21m-carbon-neutral-business-school-opens
 pub_date: '2016-01-21 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Bus_school_1_mini.jpg
 ---

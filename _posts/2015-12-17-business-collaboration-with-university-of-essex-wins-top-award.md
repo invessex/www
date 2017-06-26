@@ -9,7 +9,7 @@ metadesc: Knowledge Transfer Partnership, KTP, project results in 2 year partner
   between Signal & the University of Essex
 posturl: business-collaboration-with-university-of-essex-wins-top-award
 pub_date: '2015-12-17 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Uni_of_essex_mini.jpg

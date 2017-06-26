@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Alchemy
 partner-sector: recruitment
 url: alchemy

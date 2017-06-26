@@ -11,7 +11,7 @@ metadesc: "The specialist workforce that sustains Essex\u2019s growing high-tech
   \ labour costs."
 posturl: the-specialist-workforce-that-sustains-essexs-growing-high-technology-cluster
 pub_date: '2016-06-14 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/e2v_cleanroom_%282%29_mini.jpg
 ---

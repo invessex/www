@@ -9,7 +9,7 @@ metadesc: London Stansted Airport expands cargo links FedEx Express Internationa
   Gateway at London Stansted Airport processes 7000 packages an hour
 posturl: fedex-express-processes-7000-packages-an-hour-at-london-stansted-airport
 pub_date: '2015-07-02 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Fedex_mini.jpg
 ---

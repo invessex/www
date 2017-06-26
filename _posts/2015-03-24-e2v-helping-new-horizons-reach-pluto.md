@@ -8,7 +8,7 @@ layout: post
 metadesc: e2v, New Horizons mission, NASA, Pluto
 posturl: e2v-helping-new-horizons-reach-pluto
 pub_date: '2015-03-24 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/e2v_newhorizons_mini.jpg
 ---

@@ -10,7 +10,7 @@ metadesc: How Distinctive Health Technology Capabilities Attract Life Science & 
   Companies to Essex. Where advanced technology meets healthcare
 posturl: how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
 pub_date: '2016-11-29 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/cleanrm.grupoo4_e2v_2_165.jpg
 ---

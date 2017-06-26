@@ -10,7 +10,7 @@ metadesc: Transport minister Robert Goodwill MP visits Port of Tilbury, London C
   see impacts of significant port investment
 posturl: continued-expansion-at-the-port-of-tilbury
 pub_date: '2015-12-16 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/14-C-391-037_mini.jpg
 ---

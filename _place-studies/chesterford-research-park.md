@@ -9,6 +9,8 @@ pub_date: 2017-02-15 00:00:00
 related: null
 sectors:
 - life-sciences-healthcare-cluster
+tags:
+- keysite
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Chesterford_RP_1_555.jpg
 study_url: chesterford-research-park
 ---

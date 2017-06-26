@@ -10,7 +10,7 @@ metadesc: Anglia Ruskin University, ARU, Lord Ashcroft Business School, LAIBS, U
   Business Challenge
 posturl: team-from-anglia-ruskin-business-school-reaches-3rd-place-in-national-final-of-university-challenge
 pub_date: '2015-03-31 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/LAIBS_mini.jpg
 ---

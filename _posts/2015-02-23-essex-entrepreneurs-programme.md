@@ -8,7 +8,7 @@ layout: post
 metadesc: Essex Entrepreneurs Programme, Essex Innovation Programme
 posturl: essex-entrepreneurs-programme
 pub_date: '2015-02-23 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Entrepreneurs_Prog.jpg
 ---

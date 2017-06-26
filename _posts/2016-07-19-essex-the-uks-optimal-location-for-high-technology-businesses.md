@@ -9,7 +9,7 @@ metadesc: Essex The UK's optimal location for high-technology businesses. Cambri
   UK High-Technology Cluster.
 posturl: essex-the-uks-optimal-location-for-high-technology-businesses
 pub_date: '2016-07-19 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/EIP3_160PX_TH.jpg
 ---

@@ -10,7 +10,7 @@ metadesc: "\xA3500,000 business growth loan fund offered to innovative businesse
   \ investment loans."
 posturl: GBP500000-business-growth-loan-fund-offered-to-innovative-businesses
 pub_date: '2016-03-30 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Office_mini.jpg
 ---

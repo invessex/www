@@ -9,7 +9,7 @@ metadesc: For UK business relocation and professional business relocation servic
   contact Invest Essex today! Email contact@investessex.co.uk.
 posturl: GBP1-1m-for-learning-technologies
 pub_date: '2014-04-15 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster

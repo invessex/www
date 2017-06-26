@@ -9,7 +9,7 @@ metadesc: New Harlow MedTech Innovation Centre announced. Science park campuses 
   attract international investment.
 posturl: new-harlow-medtech-innovation-centre
 pub_date: '2016-03-14 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Masterplan-image-2_mini.jpg
 ---

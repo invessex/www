@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Aon plc
 partner-sector: insurance
 url: aon-plc

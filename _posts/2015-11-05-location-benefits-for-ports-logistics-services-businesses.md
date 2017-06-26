@@ -8,7 +8,7 @@ layout: post
 metadesc: Portcentric distribution from EssexThe Savings
 posturl: location-benefits-for-ports-logistics-services-businesses
 pub_date: '2015-11-05 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Blog_3_mini.jpg
 ---

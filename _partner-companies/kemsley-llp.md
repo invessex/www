@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Kemsley LLP
 partner-sector: commercial-property
 url: kemsley-llp

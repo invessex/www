@@ -9,7 +9,7 @@ metadesc: Business Development Rate Relief Scheme to encourage and support busin
   growth in the Uttlesford District
 posturl: business-development-rate-relief-scheme
 pub_date: '2016-08-11 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/EX5_mini.jpg
 ---

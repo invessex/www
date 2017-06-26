@@ -10,7 +10,7 @@ metadesc: The London-Essex UK Finance Corridor - London & international connecti
   advantages. London-Essex UK Finance Corridor key locations and connectivity.
 posturl: the-london-essex-uk-finance-corridor-london-international-connectivity-advantages
 pub_date: '2016-05-10 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/59523-640x360-stansted-check-in-passengers_mini.jpg
 ---

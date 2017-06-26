@@ -9,7 +9,7 @@ metadesc: University of Essex Knowledge Gateway, Lord Ashcroft International Bus
   School
 posturl: essex-universities-recognised-for-business-links
 pub_date: '2015-02-24 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/ARU_160thpx.jpg
 ---

@@ -9,7 +9,7 @@ metadesc: Japanese specialist plastics company opens first UK premises in Essex.
   Research Park chosen for company's first R&D location outside Japan
 posturl: japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
 pub_date: '2016-11-17 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Science_Village_165.jpg
 ---

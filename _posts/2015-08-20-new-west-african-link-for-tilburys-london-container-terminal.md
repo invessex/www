@@ -9,7 +9,7 @@ metadesc: New Euraf1 service between Northern Europe & West Africa stops at Port
   Tilbury
 posturl: new-west-african-link-for-tilburys-london-container-terminal
 pub_date: '2015-08-20 00:00:00'
-sectors:
+categories:
 - null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/CMA_mini.jpg
 ---

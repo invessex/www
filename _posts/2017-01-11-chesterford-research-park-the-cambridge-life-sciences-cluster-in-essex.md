@@ -9,7 +9,7 @@ metadesc: Chesterford Research Park The Cambridge Life Sciences Cluster, in Esse
   Essex contributes to the Cambridge life sciences cluster
 posturl: chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex
 pub_date: '2017-01-11 00:00:00'
-sectors:
+categories:
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/CRP4%2C_External_Robinson_Bldg_165.jpg
 ---

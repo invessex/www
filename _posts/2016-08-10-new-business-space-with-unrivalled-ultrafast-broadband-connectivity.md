@@ -10,7 +10,7 @@ metadesc: New business space with unrivalled ultrafast broadband connectivity wi
   companies.
 posturl: new-business-space-with-unrivalled-ultrafast-broadband-connectivity
 pub_date: '2016-08-10 00:00:00'
-sectors:
+categories:
 - high-technology-cluster
 - london-essex-uk-finance-corridor
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Colchester-thumb-CDB-3_mini.jpg

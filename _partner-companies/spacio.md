@@ -1,4 +1,5 @@
 ---
+layout: partner-company
 title: Spacio
 partner-sector: business-services
 url: spacio

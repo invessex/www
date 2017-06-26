@@ -8,7 +8,7 @@ layout: post
 metadesc: Cargo air freight London Stansted INVEST Essex
 posturl: turkish-airlines-begins-operating-out-of-london-stansted-airport
 pub_date: '2015-10-29 00:00:00'
-sectors:
+categories:
 - uk-multimodal-gateway-essex
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/TurkishAirplines_Cargo_165px_72dpi.jpg
 ---

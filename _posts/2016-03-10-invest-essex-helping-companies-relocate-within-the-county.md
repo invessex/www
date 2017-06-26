@@ -9,7 +9,7 @@ metadesc: INVEST Essex helping companies relocate within the county. Essex offer
   significant cost advantages for companies looking to be close to London & Cambridge.
 posturl: invest-essex-helping-companies-relocate-within-the-county
 pub_date: '2016-03-10 00:00:00'
-sectors:
+categories:
 - london-essex-uk-finance-corridor
 - life-sciences-healthcare-cluster
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Fairmont_surgical_mini.jpg
