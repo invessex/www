@@ -9,7 +9,7 @@
       instantsearch.widgets.searchBox({
         container: '#search-box',
         autofocus: false,
-        placeholder: 'What are you looking for'
+        placeholder: 'Keywords or Phrase'
       })
     );
     search.addWidget(
@@ -17,7 +17,7 @@
         container: '#hits-container',
         templates: {
           empty: 'No results',
-          item: '{{ title }} <br/> in: {{ layout }}<br/><a class="button" href="{{ url }}">Read More</a>'
+          item: '<h4>{{{_highlightResult.title.value}}}</h4> {{{_highlightResult.text.value}}}<br/> in: {{ layout }}<br/><a class="btn" href="{{ url }}">Read More</a>'
         },
         hitsPerPage: 10
       })
