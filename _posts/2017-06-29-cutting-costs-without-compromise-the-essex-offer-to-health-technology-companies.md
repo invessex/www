@@ -29,8 +29,7 @@ To start with savings, health technology companies expanding in Essex can benefi
 
 ### Harlow Enterprise Zone: Exemplifying the Essex Advantage
 
-
-{% include right-image.html src="//investessex.co.uk/uploads/blog/Harlow_ez_400.jpg" caption="Harlow Enterprise Zone" %}
+{% include right-image.html src="investessex.co.uk/uploads/blog/Harlow_ez_400.jpg" caption="Harlow Enterprise Zone" %}
 
 [Harlow Enterprise Zone](http://investessex.co.uk/studies/place-studies/harlow-enterprise-zone) (EZ) exemplifies Essex’s location advantages for health technology companies. Comprising 51 acres of development land, the zone’s prime location offers fast access to the M11 motorway and London Stansted Airport, while enabling access to both Cambridge and London in less than 1 hour. <sup>[2]</sup> <sup>[3]</sup>&nbsp;
 
