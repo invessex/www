@@ -23,7 +23,9 @@ Cambridge and London offer everything you’d expect from major technology and b
 
 ### Reduced property costs, more expansion space…
 
-![Chesterford Research Park](http://www.investessex.co.uk/uploads/about/Chesterford_RP_2_700.jpg)To start with savings, health technology companies expanding in Essex can benefit from average property cost that are 33% lower than Cambridge and 46% lower than London. <sup>[1]</sup> With regard to expansion space, Essex offers a range of available property solutions for health technology companies, including Enterprise Zones and Research Parks, offering custom-designed, specialist accommodation for businesses of all sizes.
+![Chesterford Research Park](http://www.investessex.co.uk/uploads/about/Chesterford_RP_2_700.jpg)
+
+To start with savings, health technology companies expanding in Essex can benefit from average property cost that are 33% lower than Cambridge and 46% lower than London. <sup>[1]</sup> With regard to expansion space, Essex offers a range of available property solutions for health technology companies, including Enterprise Zones and Research Parks, offering custom-designed, specialist accommodation for businesses of all sizes.
 
 ### Harlow Enterprise Zone: Exemplifying the Essex Advantage
 
@@ -32,7 +34,7 @@ Cambridge and London offer everything you’d expect from major technology and b
 > "We’re offering high-quality science park space at a significantly lower cost per square foot than Cambridge or London."
 >
 >
-> Andrew Bramidge, Project Director,&nbsp;Harlow Enterprise Zone
+> Andrew Bramidge, Project Director, Harlow Enterprise Zone
 
 But the site’s advantages for health technology companies go well beyond cost savings.&nbsp;
 
@@ -44,7 +46,7 @@ But the site’s advantages for health technology companies go well beyond cost 
 > There are several advantages to choosing an Enterprise Zone, such as the significant business rate discounts offered to companies who commit to operating on the site for a minimum of 5 years.”
 >
 >
-> Andrew Bramidge, Project Director,&nbsp;Harlow Enterprise Zone
+> Andrew Bramidge, Project Director, Harlow Enterprise Zone
 
 Other benefits include simplified planning via a local development order and superfast broadband.
 
