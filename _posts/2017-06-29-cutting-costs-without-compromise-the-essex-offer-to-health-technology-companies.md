@@ -54,8 +54,6 @@ Other benefits include simplified planning via a local development order and sup
 
 ### Diverse high-technology capabilities…
 
-![Raytheon building at Harlow Enterprise Zone](http://www.investessex.co.uk/uploads/about/Raytheon_approved_DSC_6790a_400.jpg)
-
 {% include right-image.html src="http://www.investessex.co.uk/uploads/about/Raytheon_approved_DSC_6790a_400.jpg" caption=" Public Health England Science Hub" %}
 
 But there’s another Essex advantage for health technology companies that Harlow Enterprise Zone neatly exemplifies. From a technology perspective, Essex is characterised by a unique convergence of competencies, spanning medical devices, pharmaceuticals, advanced electronics and ICT, including ‘big data’ analytics. These capabilities are represented at Harlow EZ by a state-of-the-art data centre and companies, such as [Raytheon](http://investessex.co.uk/studies/case-studies/raytheon-company), that serve diverse high-technology sectors, including healthcare, aerospace and defence. Public Health England (PHE) has also selected the zone as the location for its major new Public Health Science Hub. <sup>[2] [4]</sup>
