@@ -79,30 +79,3 @@ Contact [INVEST Essex](http://investessex.co.uk/)to find out more about the Esse
 <br><sup>[2] </sup>Harlow EZ: [http://harlowez.org.uk](http://harlowez.org.uk/)
 <br><sup>[3]</sup> Google Maps, 2015
 <br><sup>[4]</sup>[https://www.gov.uk/government/publications/phe-harlow-science-hub-proposals](https://www.gov.uk/government/publications/phe-harlow-science-hub-proposals)&nbsp;
-
-<div class="news-article-footer">
-
-                        <ul class="clearfix">
-                            <li class="date"><span>Date:</span> 02/20/2017</li>
-                            <li><span>Posted By:</span> Anastasija Tomm</li>
-                        </ul>
-
-                        <ul class="clearfix">
-                        	<li class="marker">Posted In:</li>
-                            <li class="link"><a href="/blog/sector/life-sciences-healthcare-cluster">Life Sciences &amp; Healthcare Cluster</a></li>
-                        </ul>
-
-</div>
-
-<div class="news-addthis">
-
-                        <div class="addthis_toolbox addthis_default_style marginTMed">
-                        <a itemprop="url" class="addthis_button_facebook_like at300b" fb:like:layout="button_count"><div class="fb-like fb_iframe_widget" data-layout="button_count" data-show_faces="false" data-share="false" data-action="like" data-width="90" data-height="25" data-font="arial" data-href="http://investessex.co.uk/blog/cutting-costs-without-compromise-the-essex-offer-to-health-technology-compa" data-send="false" style="height: 25px;" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=172525162793917&amp;container_width=0&amp;font=arial&amp;height=25&amp;href=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;share=false&amp;show_faces=false&amp;width=90"><span style="vertical-align: bottom; width: 61px; height: 20px;"><iframe name="f8388e3fe453b" width="90px" height="25px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.6/plugins/like.php?action=like&amp;app_id=172525162793917&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df14fb791c0326b4%26domain%3Dinvestessex.co.uk%26origin%3Dhttp%253A%252F%252Finvestessex.co.uk%252Ff24ea5cd2787db%26relation%3Dparent.parent&amp;container_width=0&amp;font=arial&amp;height=25&amp;href=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;share=false&amp;show_faces=false&amp;width=90" style="border: none; visibility: visible; width: 61px; height: 20px;"></iframe></span></div></a>
-                        <a itemprop="url" class="addthis_button_tweet at300b"><div class="tweet_iframe_widget" style="width: 62px; height: 25px;"><span><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" style="position: static; visibility: visible; width: 60px; height: 20px;" data-url="http://investessex.co.uk/blog/cutting-costs-without-compromise-the-essex-offer-to-health-technology-compa#.WVULa5y9PBs.twitter" src="http://platform.twitter.com/widgets/tweet_button.bac917c749f65aefd5f37c272c7c3538.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa%23.WVULa3UrJcY&amp;size=m&amp;text=Cutting%20Costs%20Without%20Compromise%3A%20the%20Essex%20Offer%20to%20Health%20Technology%20Companies&amp;time=1498745708358&amp;type=share&amp;url=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa%23.WVULa5y9PBs.twitter"></iframe></span></div></a>
-                        <a itemprop="url" class="addthis_button_google_plusone at300b"><div class="google_plusone_iframe_widget" style="width: 90px; height: 25px;"><span><div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 70px; height: 15px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 70px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 15px;" tabindex="0" vspace="0" width="100%" id="I0_1498745708181" name="I0_1498745708181" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;size=small&amp;hl=en-US&amp;origin=http%3A%2F%2Finvestessex.co.uk&amp;url=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_GB.LNP_qAiM1KE.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMlEm5_5LN4jnP41jBzCYmS4mNhHQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1498745708181&amp;parent=http%3A%2F%2Finvestessex.co.uk&amp;pfname=&amp;rpctoken=21407986" data-gapiattached="true" title="+1"></iframe></div></span></div></a>
-                        <a itemprop="url" class="addthis_counter addthis_pill_style addthis_nonzero" href="#" style="display: inline-block;"><a class="atc_s addthis_button_compact">Share<span></span></a><a class="addthis_button_expanded" target="_blank" title="More" href="#">2</a></a>
-                        <div class="atclear"></div></div>
-                        <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-                        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50100d11248d2cf6"></script>
-
- </div>
