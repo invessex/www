@@ -63,7 +63,7 @@ The companies in Essex’s high-tech cluster research, develop and manufacture p
 * Life Sciences and Healthcare
 * Renewable Energies
 
-{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf" name="AdvancedManufacturing_Essex_2015_LoRes .pdf "%}
+{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf" name="Essex Advanced Manufacturing pdf "%}
 
 ### Knowledge and innovation
 

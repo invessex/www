@@ -32,6 +32,6 @@ One of the company’s biggest competitive advantages is the quality and experie
 
 This local depth of skills enables the company to look to the future with confidence. “We have invested heavily in a new research and development facility to enable us to maintain and develop our innovative range of products and solutions,” says Paul Wenden. “Fläkt Woods is building on a tradition of specialist engineering skills in Essex and is well placed to succeed in global markets.”
 
-* Associated Files{: .header}
+* Associated Files
 * [IE_Flakt_Woods .pdf (281 KB)](//clarity-strategies.github.io/ie-uploads/uploads/studies/IE_Flakt_Woods.pdf){: .btn}
 {: .downloadable-files}

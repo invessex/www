@@ -44,8 +44,7 @@ study_url: cml-microsystems
 	Essex has long proven a valuable base for technology companies like CML Microsystems, with an established community of high-calibre skills and suppliers, as well as excellent transport links to support the high levels of collaboration the company relies on.</p>
    
                     
-                    
-                        	<ul class="downloadable-files">                        
-                            	<li class="header">Associated Files</li>
-                            <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_CML.pdf" alt="" class="btn ugdv_link" target="_blank">IE_CML .pdf <span>(231 KB)</span></a></li>
-                            </ul>
+<ul class="downloadable-files">                        
+  <li class="header">Associated Files</li>
+  <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_CML.pdf" alt="" class="btn ugdv_link" target="_blank">IE_CML .pdf <span>(231 KB)</span></a></li>
+</ul>

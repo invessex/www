@@ -39,9 +39,7 @@ study_url: j-w-froehlich-uk
 		“Our customers are looking for increasingly sophisticated methods of testing,” says Jeremy Vaughan. “Essex has the skills infrastructure to support the continuing growth of our business.”</p>
 </blockquote>
    
-                    
-                    
-                        	<ul class="downloadable-files">                        
-                            	<li class="header">Associated Files</li>
-                            <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_JW_Froehlich.pdf" alt="" class="btn ugdv_link" target="_blank">IE_JW_Froehlich .pdf <span>(303 KB)</span></a></li>
-                            </ul>
+<ul class="downloadable-files">                        
+<li class="header">Associated Files</li>
+<li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_JW_Froehlich.pdf" alt="" class="btn ugdv_link" target="_blank">IE_JW_Froehlich .pdf <span>(303 KB)</span></a></li>
+</ul>

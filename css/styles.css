@@ -250,8 +250,13 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 		
 /* -----------------------------------
    Euro Dev Fund Logo
--------------------------------------*/  
-#erdf{position: fixed; top:2px; right: 64px; z-index: 4000;}
+-------------------------------------*/ 
+@media only screen and (max-width: 1300px) { 
+#erdf{position: fixed; top:4px; right: 4px; z-index: 4000;}
+}
+@media only screen and (min-width: 1300px) { 
+#erdf{position: fixed; top:1px; right: 4px; z-index: 4000;}
+}
 
 
 	
@@ -402,7 +407,7 @@ div.fp-title {
 }
 
 @media only screen and (max-width: 768px)  {
-	#erdf{right: 94px}
+	/* #erdf{right: 94px} */
 }
 
 @media (max-width:992px) {
@@ -420,7 +425,7 @@ div.fp-title {
 }
 
 @media only screen and (max-width: 1024px)  {
-	#erdf{right: 114px}
+	/* #erdf{right: 114px}*/
 }
 
 .hero .get-it h1, .hero .get-it p {
@@ -484,7 +489,12 @@ div.fp-title {
 	border: 1px solid #ffffff;
 	color: #ffffff;
 }
-
+/* ---------------------------------
+ On Hover Drop Downs
+------------------------------------- */
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
 /*--------------------------------------
    Highlight active Nav item
 -------------------------------------*/
@@ -496,20 +506,50 @@ div.fp-title {
 /* ------------------------------------ 
    Homepage nav
    ------------------------------------ */
+   i.fa.fa-search {
+    font-size: 32px;
+	line-height: 24px;
+	padding: 8px 0px;
+}
+.dropdown-menu>li>a{font-size: 18px;}
+
+.navbar-toggle {
+    position: fixed;
+    /* float: right; */
+    margin-left: 95px;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #6ba00f;
+	opacity: 0.7;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #6ba00f;
+	background-color: #6ba00f;
+	opacity: 0.7;
+}
 @media (min-width: 768px){
 .navbar-nav {
     float: left;
     margin: 0;
-    margin-left: 30px;
+    margin-left: 10px;
   }
 .navbar-nav>li>a {
     padding-top: 5px;
     padding-bottom: 0px;
 	/*text-transform: uppercase;*/
-	font-size: 15px;
+	font-size: 18px;
+  }
+  .nav>li>a {
+   padding: 5px 10px 0px 10px;
   }
 }
+
 @media (max-width: 1200px) {
+	
     .navbar-header {
         float: none;
     }
@@ -559,13 +599,13 @@ div.fp-title {
     margin-top: 2px;
 	
 	}
-.navbar-default .navbar-nav>li>a{ color: white;}
+.navbar-default .navbar-nav>li>a{ color: white;    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.9);*/}
 .navbar-default .in .navbar-nav>li>a{color: #0d0000;}
 @media (min-width: 768px){
 .white-background{background-color:rgba(65, 119, 35, 0.9)/*rgba(105, 158, 16, 0.8)*/;}
 .white-background .navbar-nav>li>a{ color: white;}
 }
-@media (min-width: 768px){
+@media (min-width: 1200px){
 .nav-background{background-color:rgba(65, 119, 35, 0.9)/*rgba(105, 158, 16, 0.8)*/;}
 .nav-background .navbar-nav>li>a{ color: white;}
 }
@@ -1245,7 +1285,7 @@ header.section-header .btn-header:hover {
 }
 
 .contact-panel .panel.last {	
-	margin-bottom: 60px;		
+	margin-bottom: 4px;		
 }
 
 .contact-panel .panel-body {
@@ -1496,7 +1536,46 @@ footer ul.social-icons>li.to-top>a {
 	font-size: 24px;
 }
 
+/* ------------------------------
+Contact bar Social icons
+----------------------------------*/
+/*footer ul.social-icons>li {
+	float: left;
+	display: block;
+}*/
 
+.container-contact-bar .social-icons span a {	  
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	color: #ffffff;
+	line-height: 40px;
+	text-align: center;
+	margin-left: 2px;
+	font-size: 18px;
+	
+}
+.homepage.container-contact-bar .social-icons span a {
+padding-top: 10px;
+}
+.container-contact-bar .social-icons span.youtube>a {
+	background: #d62424;	
+}
+
+.container-contact-bar .social-icons span.linkedin>a {
+	background: #0177b5;	
+}
+
+.container-contact-bar .social-icons span.twitter>a {
+	background: #2caae1;	
+}
+
+.container-contact-bar .social-icons span.to-top>a {
+	background: #ffffff;	
+	color: #292727;
+	font-size: 24px;
+	padding-top: 4px;
+}
 
 /* ------------------------------------
    Subpages  (Begin CSS For all other Pages)
@@ -3554,7 +3633,7 @@ only screen and (max-width: 760px),
 	}
 	
 	.contact-panel .panel-body {
-		padding: 45px 15px 30px 15px;	
+		padding: 4px 15px 4px 15px;	
 	}
 	
 	.gmap-infrastructure-map {

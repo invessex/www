@@ -35,7 +35,7 @@ Communication, Space Communication, Radar and Automation.</p>
 <p>The electronics and advanced technology skills that have continued to develop make Essex a prime location for companies looking for the highest levels of technical expertise – a fitting tribute to Marconi’s legacy.</p>   
                     
                     
-                        	<ul class="downloadable-files">                        
-                            	<li class="header">Associated Files</li>
-                            <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_Marconi.pdf" alt="" class="btn ugdv_link" target="_blank">IE_Marconi .pdf <span>(219 KB)</span></a></li>
-                            </ul>
+<ul class="downloadable-files">                        
+  <li class="header">Associated Files</li>
+  <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_Marconi.pdf" alt="" class="btn ugdv_link" target="_blank">IE_Marconi .pdf <span>(219 KB)</span></a></li>
+</ul>

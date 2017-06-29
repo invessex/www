@@ -39,7 +39,7 @@ study_url: gigawave
    
                     
                     
-                        	<ul class="downloadable-files">                        
-                            	<li class="header">Associated Files</li>
-                            <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_Gigawave.pdf" alt="" class="btn ugdv_link" target="_blank">IE_Gigawave .pdf <span>(229 KB)</span></a></li>
-                            </ul>
+<ul class="downloadable-files">                        
+  <li class="header">Associated Files</li>
+  <li><a href="http://docs.google.com/viewer?url=http://investessex.co.uk/uploads/studies/IE_Gigawave.pdf" alt="" class="btn ugdv_link" target="_blank">IE_Gigawave .pdf <span>(229 KB)</span></a></li>
+</ul>

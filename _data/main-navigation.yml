@@ -42,5 +42,5 @@
   link: /blog/
 - name: Contact<br/> Us
   link: /contacts/
-- name: Search<br/>INVEST Essex
+- name: <i class="fa fa-search"></i>
   link: /search

@@ -97,12 +97,18 @@ if(redirect !=false){
 <noscript><img src="http://svr-prc-01.com/images/track/23297.png?trk_user=23297&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0" width="0" style="display:none;" /></noscript> -->
 </head>
   <body data-page="{{page.url}} and {{page.layout}}">
-	  <div id="erdf">
-<img src="//res.cloudinary.com/investessex/image/upload/h_48/erdf.jpg">
+<div id="erdf">
+<picture>
+
+<source media="(min-width: 1300px)" sizes="(min-width: 1300px) 100vw"
+srcset="//res.cloudinary.com/investessex/image/upload/h_49/erdfpng.png">
+
+<img src="//res.cloudinary.com/investessex/image/upload/h_42/erdfpng.png" alt="European Regional Development Fund">
+</picture>
 </div>
 
 {% include mainnav.html %}
-
+{% include contact-bar.html %}
 {{ content }}   
   
 {% include footer.html %}

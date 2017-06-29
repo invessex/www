@@ -56,7 +56,7 @@ Establishing operations at UK Multimodal Gateway: Essex can enable logistics and
 
 Essex combines more than 1,000 acres of port-adjacent, tri-modally connected logistics and distribution sites with a specialist logistics workforce and fast access to UK, European and global markets – by road, rail, sea and air.
 
-{% include download.html size="5" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf" name="Essex_The_UK_Multimodal_Gateway .pdf"%}
+{% include download.html size="5" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/Essex_The_UK_Multimodal_Gateway.pdf" name="Essex Multimodal Gateway pdf"%}
 
 ### Global, Multimodal Transport Connectivity
 

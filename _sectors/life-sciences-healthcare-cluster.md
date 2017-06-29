@@ -61,10 +61,9 @@ Essex’s Life Sciences and Healthcare cluster comprises around 300 companies (E
 * Pharmaceutical products and preparations
 * Natural science and engineering research
 
-{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf" name="LifeSciences_2015_LoRes .pdf"%}
+{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf" name="Essex Life Sciences pdf"%}
 
 ### Knowledge and Innovation
-
 
 Essex’s strategic location - between London and Cambridge - provides businesses with direct access to world-leading centres of Life Science and Healthcare research and development . . .
 

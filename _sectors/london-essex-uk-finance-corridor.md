@@ -70,7 +70,7 @@ Fast, direct access to London and the City provides Essex-based companies with a
 **Professional services**
 <br>Essex is the location of choice for a diverse range of professional services companies in sub-sectors including accounting and legal services. Many of these business serve, or have links to, the financial services sector in the London area.
 
-{% include download.html size="1" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf" name="London-Essex_UK_Finance_Corridor-_Business_Benefits .pdf "%}
+{% include download.html size="1" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf" name="Essex Finance Corridor pdf "%}
 
 ### Connectivity to London & Worldwide
 

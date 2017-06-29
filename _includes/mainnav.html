@@ -13,7 +13,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="/">
-                    <img class="ielogo" src="//clarity-strategies.github.io/ie-uploads/images/global/logo-invest-essex.jpg"/>
+                    <img class="ielogo" src="//res.cloudinary.com/investessex/image/upload/c_scale,h_48/invest-essex-logo.png"/>
             <!--<svg width="97" height="48">
 				<image xlink:href="//clarity-strategies.github.io/ie-uploads/images/global/logo-invest-essex.svg" src="//clarity-strategies.github.io/ie-uploads/images/global/logo-invest-essex.jpg" width="97" height="48" border="0" />
 			</svg>-->
@@ -49,9 +49,9 @@
                         {% if nav.submenu != null %}
                         
                         {% if nav.link == thispage %}
-                        <li class="active">    
+                        <li class="dropdown active">    
                         {% else %}
-                        <li>
+                        <li class="dropdown">
                         {% endif %}
                         <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }} ▼</a>
                         <ul class="dropdown-menu">
@@ -74,6 +74,6 @@
             
         </nav>
 
-        
+    
 
  
