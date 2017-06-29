@@ -16,7 +16,7 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165,w_
 
   
                 
-					<p><img alt="Essex UK Health Technology Cluster" src="http://www.investessex.co.uk/uploads/about/EUHeTC_Icon_FINAL.png" style="width: 600px; height: 171px; margin-left: 2px; margin-right: 2px;"></p>
+<p><img alt="Essex UK Health Technology Cluster" src="http://www.investessex.co.uk/uploads/about/EUHeTC_Icon_FINAL.png" style="width: 600px; height: 171px; margin-left: 2px; margin-right: 2px;"></p>
 
 <p><strong>Reduced costs and strategically located specialist sites are attracting health technology companies to Essex.</strong></p>
 
@@ -83,7 +83,7 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165,w_
 <sup>[4]</sup><a href="https://www.gov.uk/government/publications/phe-harlow-science-hub-proposals" target="_blank">https://www.gov.uk/government/publications/phe-harlow-science-hub-proposals</a>&nbsp;</p>
                     
                     
-                    <div class="news-article-footer">
+<div class="news-article-footer">
                                     
                         <ul class="clearfix">
                             <li class="date"><span>Date:</span> 02/20/2017</li>
@@ -97,9 +97,9 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165,w_
                         </ul>
                         
                                       
-                    </div>  
+</div>  
                     
-                    <div class="news-addthis">
+ <div class="news-addthis">
                     
                         <div class="addthis_toolbox addthis_default_style marginTMed">
                         <a itemprop="url" class="addthis_button_facebook_like at300b" fb:like:layout="button_count"><div class="fb-like fb_iframe_widget" data-layout="button_count" data-show_faces="false" data-share="false" data-action="like" data-width="90" data-height="25" data-font="arial" data-href="http://investessex.co.uk/blog/cutting-costs-without-compromise-the-essex-offer-to-health-technology-compa" data-send="false" style="height: 25px;" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=172525162793917&amp;container_width=0&amp;font=arial&amp;height=25&amp;href=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;share=false&amp;show_faces=false&amp;width=90"><span style="vertical-align: bottom; width: 61px; height: 20px;"><iframe name="f8388e3fe453b" width="90px" height="25px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.6/plugins/like.php?action=like&amp;app_id=172525162793917&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df14fb791c0326b4%26domain%3Dinvestessex.co.uk%26origin%3Dhttp%253A%252F%252Finvestessex.co.uk%252Ff24ea5cd2787db%26relation%3Dparent.parent&amp;container_width=0&amp;font=arial&amp;height=25&amp;href=http%3A%2F%2Finvestessex.co.uk%2Fblog%2Fcutting-costs-without-compromise-the-essex-offer-to-health-technology-compa&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;share=false&amp;show_faces=false&amp;width=90" style="border: none; visibility: visible; width: 61px; height: 20px;" class=""></iframe></span></div></a>
@@ -110,4 +110,4 @@ thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165,w_
                         <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
                         <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50100d11248d2cf6"></script>
                     
-                    </div>         
+ </div>         
