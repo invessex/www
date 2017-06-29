@@ -1572,10 +1572,9 @@ padding-top: 10px;
 }
 
 .container-contact-bar .social-icons span.to-top>a {
-	background: #ffffff;	
-	color: #292727;
-	/*font-size: 24px;
-	padding-top: 4px;*/
+    background: #6ba00f;
+    color: #fff;
+    padding-left: 1px;
 }
 
 /* ------------------------------------
