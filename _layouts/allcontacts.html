@@ -11,8 +11,9 @@ title: All Contacts
                 </header>              
             </div>            
          </div>         
-     </article>     
-</section>
+  </article>
+</section>        
+
 {% for contact in site.contacts %}
     {% assign mod = forloop.index | modulo: 2 %}
     {% if mod == 0 %}
@@ -37,12 +38,15 @@ title: All Contacts
                                     <div class="details">
                                         <h5>{{ contact.name }}</h5>
                                         <p class="job-title">{{ contact.job_title }}</p>
+                                        
                                         <p class="phone-number">{{ contact.telno}}</p>
+                                        <p class="postal-address notwhite">{{ site.postal-address }}</p>
                                         <ul class="social-icons clearfix">
                                             <li class="twitter"><a href="https://twitter.com/{{ contact.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                             <li class="linkedin"><a href="https://www.linkedin.com/in/{{contact.linkedin}}/" target="_blank"><i class="fa fa-linkedin"></i></a></li>                                               
                                             <li class="email"><a href="mailto:{{contact.email}}"><i class="fa fa-envelope"></i></a></li>
                                         </ul>
+                                        
                                     </div>                                                                
                                     <div class="bio">
                                         <h5>Biography</h5>
@@ -60,7 +64,10 @@ title: All Contacts
                     </div>                    			
                 </div>               
             </div>
-        </div>        
+        </div>  
+        
      </article>     
 </section>
 {% endfor%}
+
+

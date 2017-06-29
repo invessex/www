@@ -655,8 +655,8 @@ header.section-header>h2, header.section-header>h3 {
 	font-size: 38px;
 	line-height: 32px; 
 }
-header.section-header>h3.notwhite{
-	color: black;
+header.section-header>h3.notwhite, .notwhite{
+	color: black!important;
 }
 header.section-header>h2>br {
 	content: " ";
@@ -1211,9 +1211,9 @@ header.section-header .btn-header:hover {
 
 
 /* ------------------------------------
-   Contact Accordion Block 
+   Contact (Accordion Block)
    ------------------------------------  */
-   
+.postal-address{ color: #fff; font-size: 14px;}   
 .container-contact  header.section-header {
 	margin-bottom: 0px;
 }
