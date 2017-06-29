@@ -511,7 +511,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	line-height: 24px;
 	padding: 8px 0px;
 }
-.dropdown-menu>li>a{font-size: 18px;}
+.dropdown-menu>li>a{font-size: 14px; text-transform: uppercase;}
 
 .navbar-toggle {
     position: fixed;
