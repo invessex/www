@@ -1553,6 +1553,7 @@ Contact bar Social icons
 	text-align: center;
 	margin-left: 2px;
 	font-size: 18px;
+	border-radius: 50%;
 	
 }
 .homepage.container-contact-bar .social-icons span a {
@@ -1573,8 +1574,8 @@ padding-top: 10px;
 .container-contact-bar .social-icons span.to-top>a {
 	background: #ffffff;	
 	color: #292727;
-	font-size: 24px;
-	padding-top: 4px;
+	/*font-size: 24px;
+	padding-top: 4px;*/
 }
 
 /* ------------------------------------
