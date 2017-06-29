@@ -23,7 +23,7 @@ Cambridge and London offer everything you’d expect from major technology and b
 
 ### Reduced property costs, more expansion space…
 
-{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/w_400/Chesterford_RP_2_700.jpg" caption="Chesterford Research Park" %}
+{% include left-image.html src="//res.cloudinary.com/investessex/image/upload/w_400/Chesterford_RP_2_700.jpg" caption="Chesterford Research Park" %}
 
 To start with savings, health technology companies expanding in Essex can benefit from average property cost that are 33% lower than Cambridge and 46% lower than London. <sup>[1]</sup> With regard to expansion space, Essex offers a range of available property solutions for health technology companies, including Enterprise Zones and Research Parks, offering custom-designed, specialist accommodation for businesses of all sizes.
 
@@ -36,7 +36,7 @@ To start with savings, health technology companies expanding in Essex can benefi
 >
 > Andrew Bramidge, Project Director, Harlow Enterprise Zone
 
-{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/v1498750357/Harlow_ez_400_hxcraw.jpg" caption="Harlow Enterprise Zone" %}
+{% include left-image.html src="//res.cloudinary.com/investessex/image/upload/v1498750357/Harlow_ez_400_hxcraw.jpg" caption="Harlow Enterprise Zone" %}
 
 [Harlow Enterprise Zone](http://investessex.co.uk/studies/place-studies/harlow-enterprise-zone) (EZ) exemplifies Essex’s location advantages for health technology companies. Comprising 51 acres of development land, the zone’s prime location offers fast access to the M11 motorway and London Stansted Airport, while enabling access to both Cambridge and London in less than 1 hour. <sup>[2]</sup> <sup>[3]</sup>&nbsp;
 
