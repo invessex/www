@@ -27,6 +27,8 @@ Cambridge and London offer everything you’d expect from major technology and b
 
 To start with savings, health technology companies expanding in Essex can benefit from average property cost that are 33% lower than Cambridge and 46% lower than London. <sup>[1]</sup> With regard to expansion space, Essex offers a range of available property solutions for health technology companies, including Enterprise Zones and Research Parks, offering custom-designed, specialist accommodation for businesses of all sizes.
 
+### &nbsp;
+
 ### Harlow Enterprise Zone: Exemplifying the Essex Advantage
 
 > "We’re offering high-quality science park space at a significantly lower cost per square foot than Cambridge or London."
