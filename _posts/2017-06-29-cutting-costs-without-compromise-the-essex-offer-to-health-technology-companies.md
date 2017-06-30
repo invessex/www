@@ -42,7 +42,7 @@ To start with savings, health technology companies expanding in Essex can benefi
 
 But the site’s advantages for health technology companies go well beyond cost savings.
 
-{:.clearfix}
+___{:.clearfix}
 
 ### Bespoke properties and Enterprise Zone benefits…
 
