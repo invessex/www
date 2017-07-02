@@ -11,7 +11,7 @@ pub_date: 2017-02-20 00:00:00
 categories:
   - life-sciences-healthcare-cluster
 tags:
-thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165,w_165/v1498745733/Chesterford_RP_2_700.jpg'
+thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165/Chesterford_RP_2_700.jpg'
 ---
 
 
@@ -33,7 +33,6 @@ To start with savings, health technology companies expanding in Essex can benefi
 
 > "We’re offering high-quality science park space at a significantly lower cost per square foot than Cambridge or London."
 >
->
 > Andrew Bramidge, Project Director, Harlow Enterprise Zone
 
 {% include right-image.html src="//res.cloudinary.com/investessex/image/upload/v1498750357/Harlow_ez_400_hxcraw.jpg" caption="Harlow Enterprise Zone" %}
@@ -42,7 +41,8 @@ To start with savings, health technology companies expanding in Essex can benefi
 
 But the site’s advantages for health technology companies go well beyond cost savings.
 
-___{:.clearfix}
+_ _ _ _ 
+{:.clearfix}
 
 ### Bespoke properties and Enterprise Zone benefits…
 

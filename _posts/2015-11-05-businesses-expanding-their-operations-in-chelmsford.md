@@ -10,7 +10,6 @@ metadesc: "City of Chelmsford, stand C36 at MIPIM UK, Olympia 21st \u2013 23rd O
 posturl: businesses-expanding-their-operations-in-chelmsford
 pub_date: '2015-11-05 00:00:00'
 categories:
-- null
 thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/blog/Baetelle_mini.jpg
 ---
 

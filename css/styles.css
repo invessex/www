@@ -2378,7 +2378,16 @@ padding-top: 10px;
 
 /* ------------------------------------
    Blog
-   ------------------------------------  */   
+   ------------------------------------  */  
+figure {box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2),0 2px 7px 0 rgba(0,0,0,0.19) !important;} 
+
+figure.float-right{float:right; xpadding:10px; margin: 0 0 30px 30px ; }
+
+figure.float-left{float:left; xpadding:10px; margin: 0 30px 30px 0px ;}
+
+figure.centre-image{xpadding:10px; margin: 0 0 30px 0 ; margin-left: auto; margin-right: auto;}
+
+figcaption{text-align:center;font-size:14px;padding:8px;}
    
 .container-studies-filters .col-form-filter	#newsFilters select {
 	width: 250px;
@@ -3540,9 +3549,8 @@ only screen and (max-width: 760px),
 		display: block;
 	}
 	
-	
 	.col-listing-content>.content blockquote {
-		margin: 60px 0; 
+		margin: 20px 0;
 		padding: 0 30px;
 	}
 	
