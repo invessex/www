@@ -173,7 +173,7 @@ title: Invest Essex
   <div class="black-overlay"></div>
   <div class="content">
     <ul class="news-categories clearfix">                            
-      <li><a href="sectors/{{ post.sectors[0] }}">{{ post.sectors[0] | replace: '-', ' ' | capitalize }}</a></li>
+      <li><a href="sectors/{{ post.categories[0] }}">{{ post.categories[0] | replace: '-', ' ' | capitalize }}</a></li>
     </ul>
     <h3>{{ post.heading }}</h3>
     <p>{{ post.content | truncate: 150 | replace: '**', ' ' }} ...</p>
