@@ -17,9 +17,9 @@ tags:
 thumbnail_image: '//res.cloudinary.com/investessex/image/upload/were_hiring.jpg'
 ---
 
-{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/w_200/lets-do-business.jpg" width="200" caption="Let's Do Business Group"%}
-
 The Let’s Do Business Group is one of the leading providers of business support across the South East providing business advice, training, finance and networking opportunities.  Let’s Do Business Group delivers the INVEST Essex service under contract to Essex County Council.
+
+{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/w_200/lets-do-business.jpg" width="200" caption="Let's Do Business Group"%}
 
 [INVEST Essex](http://www.investessex.co.uk/) is the Inward Investment and Business Development Agency for Greater Essex working to attract new business investment and growth into one of the UK’s key economies.
 

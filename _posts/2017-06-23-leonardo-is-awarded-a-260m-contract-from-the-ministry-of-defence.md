@@ -14,9 +14,9 @@ tags:
 thumbnail_image: '//res.cloudinary.com/investessex/image/upload/c_limit,h_165/Abigail_Sampson_Basildon_Apprentice_400.jpg'
 ---
 
-{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/IFF_Mode_5_Skytale_Infographic_700.jpg" width="400" caption="Team Skytale" %}
-
 Global high-tech company Leonardo, which has its UK headquarters in Essex, has signed a contract with the UK Ministry of Defence (MOD) worth £260m. The contract will see Leonardo and military sensor company Hensoldt upgrade the IFF (Identification Friend or Foe) technology on more than 350 of the UK’s operational aircraft, naval vessels and ground-based air defence systems to the latest ‘Mode-5’ standard.
+
+{% include right-image.html src="//res.cloudinary.com/investessex/image/upload/IFF_Mode_5_Skytale_Infographic_700.jpg" width="400" caption="Team Skytale" %}
 
 The IFF technology, central to all military operations, is used to identify friendly forces and the advanced technology system allows UK forces to operate safely alongside NATO allies. In the UK, Leonardo has previously delivered Mode-5 IFF for the Royal Navy’s aircraft carriers and the Royal Air Force’s Typhoons. Together, working as ‘Team Skytale’, Leonardo and Hensoldt are Europe’s leading provider of Mode-5 IFF solutions.
 

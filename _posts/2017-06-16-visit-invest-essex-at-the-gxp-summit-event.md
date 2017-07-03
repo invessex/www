@@ -16,10 +16,10 @@ categories:
 tags: 
 thumbnail_image: '//res.cloudinary.com/investessex/image/upload/InvestEssex_Still_01_mini.jpg'
 ---
+ 
+Advance your international & cross border business strategy at the [Global Expansion Summit](https://www.gxpsummit.com/) in London from 18 to 20 June 2017
 
 {% include youtube.html id="ig-dQttQIRU?ecver=2" %}
-  
-Advance your international & cross border business strategy at the [Global Expansion Summit](https://www.gxpsummit.com/) in London from 18 to 20 June 2017
  
 Attendees from 700+ companies and 62 countries including 400+ C-Suite and 120+ speakers...  
 
