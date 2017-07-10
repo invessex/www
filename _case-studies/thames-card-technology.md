@@ -51,7 +51,7 @@ In 2014 £3.2m growth funding was secured by Thames from the private equity inve
 
 ### Accreditations
 
-![Largest credit card processor](//clarity-strategies.github.io/ie-uploads/uploads/studies/Infographic.png)
+![Largest credit card processor](//clarity-strategies.github.io/ie-uploads/uploads/studies/Infographic.png){: .right-image}
 
 Thames Card Technology was first accredited to manufacture MasterCard and Visa products in 1999. In 2004 the company achieved the Logical Security accreditations to enable them to manufacture and personalise EMV banking Chip & PIN cards. With these accreditations and working in partnership with Morpho, Thames offers a complete EMV chip card manufacturing and personalisation solution.
 
