@@ -17,7 +17,7 @@ study_url: thames-card-technology
 ---
 
 
-![Thames Card Technology](//clarity-strategies.github.io/ie-uploads/uploads/studies/Business_Growth_Fund_400.jpg)Thames Card Technology is one of the UK’s largest plastic card manufacturers supplying many blue chip customers across industries including financial services, retail, ID and telecoms, and delivering its product globally to more than 60 countries.
+![Thames Card Technology](//clarity-strategies.github.io/ie-uploads/uploads/studies/Business_Growth_Fund_400.jpg){: .right-image}Thames Card Technology is one of the UK’s largest plastic card manufacturers supplying many blue chip customers across industries including financial services, retail, ID and telecoms, and delivering its product globally to more than 60 countries.
 
 Thames has over 20 years’ experience in manufacturing, personalising and distributing plastic cards for customers all over the world. Operating from a single secure site in Essex the company employs over 200 people and works with clients from various different industries ranging from banking and retail to telecoms and ID.
 
@@ -27,7 +27,7 @@ Thames Card Technology has seen continual growth in recent years and continues t
 
 The company have also been working with TUI UK & Ireland, manufacturing the next generation of travel money cards. The prepaid cards offer a multi-currency solution for travellers and can be used to make a payment in any country or currency, where the MasterCard symbol is displayed.
 
-![Atlantic Zeizer Persomaster](//clarity-strategies.github.io/ie-uploads/uploads/about/Atlantic_Zeiser_Persomaster.jpg)Thames also recently announced a £2m investment in state of the art personalisation equipment to increase card personalisation capacity by 60%, bring loyalty keyfob encapsulation in-house and deliver greater efficiency.
+![Atlantic Zeizer Persomaster](//clarity-strategies.github.io/ie-uploads/uploads/about/Atlantic_Zeiser_Persomaster.jpg){: .right-image}Thames also recently announced a £2m investment in state of the art personalisation equipment to increase card personalisation capacity by 60%, bring loyalty keyfob encapsulation in-house and deliver greater efficiency.
 
 ### Collaboration with long-term partners
 
