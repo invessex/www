@@ -22,7 +22,6 @@ thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/diabe
 study_url: arecor
 ---
 
-
 ![Biopharmaceutical study](//clarity-strategies.github.io/ie-uploads/uploads/about/research-lab_400.jpg){: .right-image}Arecor is a leading biopharmaceutical company who is developing a portfolio of products to enable improved treatments for diabetes care. These products will enable next generation technology and improve quality of life for those with diabetes. Through its innovative formulation approach/technology platform Arestat™ Arecor is able to offer significant advancements in this area by delivering products such as…
 
 * Highly concentrated formulations of insulin
