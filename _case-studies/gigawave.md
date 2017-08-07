@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: Gigawave
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Gigawave_banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Gigawave_banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
 tags:
@@ -10,7 +10,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: Gigawave - Innovative support for global broadcasting.
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Gigawave_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Gigawave_Tile.jpg
 study_url: gigawave
 ---
 

@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: Tarmin Inc.
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Tarmin_banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Tarmin_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 tags:
@@ -10,7 +10,7 @@ related: null
 sectors: null
 synopsis: Tarmin Inc, a specialist provider of data management and storage technologies,
   has grown from a start-up in Essex to a leading...
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Tarmin_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Tarmin_Tile.jpg
 study_url: tarmin-inc
 ---
 

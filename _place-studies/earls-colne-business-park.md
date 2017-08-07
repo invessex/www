@@ -3,7 +3,7 @@ Author: pxadmin
 display: false
 contact: david-rooke
 heading: Earls Colne Business Park
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/PS_EarlesColnes_Banner.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -17,7 +17,7 @@ sectors:
 - uk-multimodal-gateway-essex
 tags:
 - keysite
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_EarlesColnes_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/PS_EarlesColnes_Tile.jpg
 study_url: earls-colne-business-park
 ---
 

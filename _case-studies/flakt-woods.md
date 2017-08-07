@@ -2,14 +2,14 @@
 Author: Jacinda
 contact: robert-edge
 heading: "Fl\xE4kt Woods"
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Flaktwood_banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 tags:
 related: null
 sectors: null
 synopsis: "Fl\xE4kt Woods - Bringing air to life."
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Flaktwood_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Flaktwood_Tile.jpg
 study_url: flakt-woods
 ---
 
@@ -33,5 +33,5 @@ One of the company’s biggest competitive advantages is the quality and experie
 This local depth of skills enables the company to look to the future with confidence. “We have invested heavily in a new research and development facility to enable us to maintain and develop our innovative range of products and solutions,” says Paul Wenden. “Fläkt Woods is building on a tradition of specialist engineering skills in Essex and is well placed to succeed in global markets.”
 
 * Associated Files
-* [IE_Flakt_Woods .pdf (281 KB)](//clarity-strategies.github.io/ie-uploads/uploads/studies/IE_Flakt_Woods.pdf){: .btn}
+* [IE_Flakt_Woods .pdf (281 KB)](//images-investessex.firebaseapp.com/uploads/studies/IE_Flakt_Woods.pdf){: .btn}
 {: .downloadable-files}

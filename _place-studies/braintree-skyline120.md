@@ -3,7 +3,7 @@ Author: pxadmin
 display: false
 contact: david-rooke
 heading: Braintree Skyline120
-hero_image: http://clarity-strategies.github.io/ie-uploads/uploads/studies/PS_BraintreeSkyline_Banner.jpg
+hero_image: http://images-investessex.firebaseapp.com/uploads/studies/PS_BraintreeSkyline_Banner.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -17,7 +17,7 @@ sectors:
 - uk-multimodal-gateway-essex
 tags:
 - keysite
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Skyline120_555x440.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Skyline120_555x440.jpg
 study_url: braintree-skyline120
 ---
 

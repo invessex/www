@@ -3,7 +3,7 @@ Author: pxadmin
 display: false
 contact: david-rooke
 heading: Harwich International Port
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Sunset_over_harwich_940.jpg
 layout: place-study
 pub_date: 2012-08-23 00:00:00
 related:
@@ -19,7 +19,7 @@ sectors:
 - life-sciences-healthcare-cluster
 tags:
 - asset
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Sunset_over_harwich_940.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Sunset_over_harwich_940.jpg
 study_url: harwich-international-port
 ---
 

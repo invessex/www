@@ -3,7 +3,7 @@ Author: pxadmin
 display: true
 contact: robert-edge
 heading: London Stansted Airport
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_StansteadAirport_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/PS_StansteadAirport_Banner.jpg
 layout: place-study
 pub_date: 2017-02-17 00:00:00
 related:
@@ -19,7 +19,7 @@ sectors:
 - uk-multimodal-gateway-essex
 tags:
 - asset
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LondonStansted_555x440.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/LondonStansted_555x440.jpg
 study_url: london-stansted-airport
 ---
 

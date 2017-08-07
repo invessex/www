@@ -6,8 +6,8 @@ sector_url: life-sciences-healthcare-cluster
 H1: Life Sciences and Healthcare Cluster
 synopsis: 'Essex is located at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses within Europe’s largest Life Sciences and Healthcare technologies cluster.'
 home_synopsis: 'Essex is at the heart of the London-Stansted-Cambridge Innovation Corridor, positioning businesses in Europe’s largest Life Sciences & Healthcare technologies cluster'
-synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/LifeSc_Synopsis_555x300.jpg
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/LifeSc_Hero_Overlay_1980x600.jpg
+synopsis_image: //images-investessex.firebaseapp.com/uploads/services/LifeSc_Synopsis_555x300.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/headers/LifeSc_Hero_Overlay_1980x600.jpg
 logo_carousel: partner-life-sciences
 testimonial_carousel: testimonials-life-sciences
 contact: dave-russell-graham
@@ -61,7 +61,7 @@ Essex’s Life Sciences and Healthcare cluster comprises around 300 companies (E
 * Pharmaceutical products and preparations
 * Natural science and engineering research
 
-{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/LifeSciences_2015_LoRes.pdf" name="Essex Life Sciences pdf"%}
+{% include download.html size="3" url="//images-investessex.firebaseapp.com/uploads/pdf/LifeSciences_2015_LoRes.pdf" name="Essex Life Sciences pdf"%}
 
 ### Knowledge and Innovation
 
@@ -116,6 +116,6 @@ See here for Essex County Council's response to the Government's Industrial Stra
 {% 
 include download.html 
 size="6" 
-url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" 
+url="//images-investessex.firebaseapp.com/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" 
 name="Essex Industrial Strategy .pdf"
 %}
