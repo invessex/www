@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: CML Microsystems
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CML_Tile.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/CML_Tile.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 tags:
@@ -10,7 +10,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: CML Microsystems - Global innovation in integrated circuits.
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/CML_Banner.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/CML_Banner.jpg
 study_url: cml-microsystems
 ---             
 

@@ -6,7 +6,7 @@ url: "https://honeydew-pooch.cloudvent.net"
 baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
-cdn_images: '//clarity-strategies.github.io/ie-uploads/uploads'
+cdn_images: '//images-investessex.firebaseapp.com/uploads'
 postal-address: 'Suite 8C, Kingsdale Business Centre, Regina Road, Chelmsford. CM1 1PE'
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)

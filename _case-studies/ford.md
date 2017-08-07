@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: Ford
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Ford_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Ford_Banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
 tags:
@@ -11,7 +11,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: Ford - Britain’s most popular car brand. Based at four locations in Essex.
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Ford_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Ford_Tile.jpg
 study_url: ford
 ---
 <p>Ford - Britain’s most popular car brand</p>
@@ -30,5 +30,5 @@ study_url: ford
 <p>
 	Ford has been one of the outstanding success stories for the Essex business community, with its long track record of engineering excellence, product quality and market leadership.</p>
    
- {% include download.html url="//clarity-strategies.github.io/ie-uploads/uploads/studies/IECS_ford.pdf" name="Ford Case Study" size="0.34" %}
+ {% include download.html url="//images-investessex.firebaseapp.com/uploads/studies/IECS_ford.pdf" name="Ford Case Study" size="0.34" %}
 

@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: david-rooke
 heading: J W Froehlich UK
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JW_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/JW_Banner.jpg
 layout: case-study
 pub_date: '2012-08-22 00:00:00'
 tags:
@@ -10,7 +10,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: JW Froehlich UK - Testing the world’s engines.
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JW_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/JW_Tile.jpg
 study_url: j-w-froehlich-uk
 ---
                 

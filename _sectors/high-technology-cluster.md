@@ -6,8 +6,8 @@ sector_url: high-technology-cluster
 H1: High-Technology Cluster
 synopsis: 'Essex is the location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity.'
 home_synopsis: 'Location of choice for high-technology businesses seeking world-class knowledge, highly skilled personnel, access to specialist funding and global connectivity'
-synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/HighTechClusters_555x440.jpg
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/HighTechClusters_1980x600.jpg
+synopsis_image: //images-investessex.firebaseapp.com/uploads/services/HighTechClusters_555x440.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/headers/HighTechClusters_1980x600.jpg
 logo_carousel: partner-advanced-electronics
 testimonial_carousel: testimonials-advanced-electronics
 contact: simon-papworth
@@ -63,7 +63,7 @@ The companies in Essex’s high-tech cluster research, develop and manufacture p
 * Life Sciences and Healthcare
 * Renewable Energies
 
-{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf" name="Essex Advanced Manufacturing pdf "%}
+{% include download.html size="3" url="//images-investessex.firebaseapp.com/uploads/pdf/AdvancedManufacturing_Essex_2015_LoRes.pdf" name="Essex Advanced Manufacturing pdf "%}
 
 ### Knowledge and innovation
 
@@ -116,4 +116,4 @@ Essex delivers unbeaten access to UK and international markets, for business peo
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-{% include download.html size="6" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}
+{% include download.html size="6" url="//images-investessex.firebaseapp.com/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}

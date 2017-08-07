@@ -2,7 +2,7 @@
 name: Robert Edge
 contact_url: robert-edge
 job_title: Inward Investment Manager (UK Multimodal Gateway - Essex)
-photo: //clarity-strategies.github.io/ie-uploads/uploads/contacts/REdge_175px.jpg
+photo: //images-investessex.firebaseapp.com/uploads/contacts/REdge_175px.jpg
 telno: +44 (0) 7515 199255
 twitter: investessex
 linkedin: edgetradeinvest

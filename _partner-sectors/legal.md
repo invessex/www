@@ -2,14 +2,14 @@
 permalink: /partners/legal
 title: Legal
 sector_url: legal
-listing_image: //clarity-strategies.github.io/ie-uploads/uploads/services/Legal_List_555x300.jpg
+listing_image: //images-investessex.firebaseapp.com/uploads/services/Legal_List_555x300.jpg
 related-sectors:
   - high-technology-cluster
   - london-essex-uk-finance-corridor
   - life-sciences-healthcare-cluster
   - uk-multimodal-gateway-essex
 contact: david-rooke
-hero_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Legal_1980x600.jpg
+hero_image: //images-investessex.firebaseapp.com//uploads/services/Legal_1980x600.jpg
 related-case-studies:
 related-place-studies:
   - braintree-skyline120

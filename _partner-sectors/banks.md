@@ -2,11 +2,11 @@
 permalink: /partners/banks
 title: Banks in Essex
 sector_url: banks
-listing_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Banks_List_555x300.jpg
+listing_image: //images-investessex.firebaseapp.com//uploads/services/Banks_List_555x300.jpg
 related-sectors:
   - london-essex-uk-finance-corridor
 contact: corinne-hearne
-hero_image: //clarity-strategies.github.io/ie-uploads//uploads/services/Banks_1980x600.jpg
+hero_image: //images-investessex.firebaseapp.com//uploads/services/Banks_1980x600.jpg
 related-case-studies:
   - james-hallam-ltd-insurance-brokers
 related-place-studies:

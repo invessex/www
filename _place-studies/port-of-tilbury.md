@@ -2,7 +2,7 @@
 contact: robert-edge
 display: true
 heading: Port of Tilbury
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_TilburyPort_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/PS_TilburyPort_Banner.jpg
 layout: place-study
 pub_date: 2017-02-10 00:00:00
 related:
@@ -17,7 +17,7 @@ sectors:
 - life-sciences-healthcare-cluster
 tags:
 - asset
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/LCT_June_2016_555.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/LCT_June_2016_555.jpg
 study_url: port-of-tilbury
 ---
 

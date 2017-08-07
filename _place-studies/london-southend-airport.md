@@ -3,7 +3,7 @@ Author: pxadmin
 display: false
 contact: david-rooke
 heading: London Southend Airport
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/PS_SouthendAirport_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/PS_SouthendAirport_Banner.jpg
 layout: place-study
 pub_date: 2017-04-27 00:00:00
 related:
@@ -19,7 +19,7 @@ sectors:
 - uk-multimodal-gateway-essex
 tags:
 - asset
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Southend_Airport_aerial_555.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Southend_Airport_aerial_555.jpg
 study_url: london-southend-airport
 ---
 

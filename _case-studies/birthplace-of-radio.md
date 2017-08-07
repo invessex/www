@@ -2,7 +2,7 @@
 Author: pxadmin
 contact: simon-papworth
 heading: Birthplace of Radio
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Radio_Banner.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/Radio_Banner.jpg
 layout: case-study
 pub_date: '2012-08-23 00:00:00'
 tags:
@@ -10,7 +10,7 @@ related:
 sectors:
 - high-technology-cluster
 synopsis: Marconi - Inventor of radio communications.
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/Birth_Radio_Tile.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/Birth_Radio_Tile.jpg
 study_url: birthplace-of-radio
 ---
 
@@ -35,5 +35,5 @@ Today, mid-Essex is the centre of a dynamic innovation community that draws dire
 The electronics and advanced technology skills that have continued to develop make Essex a prime location for companies looking for the highest levels of technical expertise – a fitting tribute to Marconi’s legacy.   
                     
 * Associated Files
-* [IE_Marconi .pdf  (219 KB)](//clarity-strategies.github.io/ie-uploads/uploads/studies/IE_Marconi.pdf){: .btn}
+* [IE_Marconi .pdf  (219 KB)](//images-investessex.firebaseapp.com/uploads/studies/IE_Marconi.pdf){: .btn}
 {: .downloadable-files}                  

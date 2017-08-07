@@ -30,7 +30,7 @@ The response covers four priority areas…
 
 Download our full response to the Industrial Strategy below.
 
-{% include download.html size="3" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="Essex Response To The Industrial Strategy pdf "%}
+{% include download.html size="3" url="//images-investessex.firebaseapp.com/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="Essex Response To The Industrial Strategy pdf "%}
 
 ### About INVEST Essex
 

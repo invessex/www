@@ -22,18 +22,18 @@ for iname in os.listdir(os.getcwd()):
 
 # Images in BlogPosts
 # in Yaml
-# post['thumb'] = post['thumb'].replace('//investessex.co.uk/uploads/','//clarity-strategies.github.io/ie-uploads/uploads/')
+# post['thumb'] = post['thumb'].replace('//investessex.co.uk/uploads/','//images-investessex.firebaseapp.com/uploads/')
 
 # in content
 # 'http://www.investessex.co.uk/uploads/'  
 # AND src='../uploads/'
 # TO
-# src='//clarity-strategies.github.io/ie-uploads/uploads/
+# src='//images-investessex.firebaseapp.com/uploads/
 
 # Images in Studies
 # in Yaml
-# post['heroimg'] = post['heroimg'].replace('//investessex.co.uk/uploads/','//clarity-strategies.github.io/ie-uploads/uploads/')
-#post['heroimg'] = post['heroimg'].replace('//www.investessex.co.uk/uploads/','//clarity-strategies.github.io/ie-uploads/uploads/')
+# post['heroimg'] = post['heroimg'].replace('//investessex.co.uk/uploads/','//images-investessex.firebaseapp.com/uploads/')
+#post['heroimg'] = post['heroimg'].replace('//www.investessex.co.uk/uploads/','//images-investessex.firebaseapp.com/uploads/')
 # in content
-# post['content'] = post['content'].replace('http://www.investessex.co.uk/uploads/' ,'//clarity-strategies.github.io/ie-uploads/uploads/')
+# post['content'] = post['content'].replace('http://www.investessex.co.uk/uploads/' ,'//images-investessex.firebaseapp.com/uploads/')
 

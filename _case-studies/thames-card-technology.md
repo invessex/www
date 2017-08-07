@@ -2,7 +2,7 @@
 Author:
 contact: corinne-hearne
 heading: One of the UK’s largest plastic card manufacturers
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/TCT_Building2_600H.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/TCT_Building2_600H.jpg
 layout: case-study
 pub_date: 2017-04-24 00:00:00
 tags:
@@ -12,12 +12,12 @@ related:
 sectors:
   - london-essex-uk-finance-corridor
 synopsis: Thames Card Technology supply blue chip customers across various industries
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/ThamesCard_36-feature-555.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/ThamesCard_36-feature-555.jpg
 study_url: thames-card-technology
 ---
 
 
-![Thames Card Technology](//clarity-strategies.github.io/ie-uploads/uploads/studies/Business_Growth_Fund_400.jpg){: .right-image}Thames Card Technology is one of the UK’s largest plastic card manufacturers supplying many blue chip customers across industries including financial services, retail, ID and telecoms, and delivering its product globally to more than 60 countries.
+![Thames Card Technology](//images-investessex.firebaseapp.com/uploads/studies/Business_Growth_Fund_400.jpg){: .right-image}Thames Card Technology is one of the UK’s largest plastic card manufacturers supplying many blue chip customers across industries including financial services, retail, ID and telecoms, and delivering its product globally to more than 60 countries.
 
 Thames has over 20 years’ experience in manufacturing, personalising and distributing plastic cards for customers all over the world. Operating from a single secure site in Essex the company employs over 200 people and works with clients from various different industries ranging from banking and retail to telecoms and ID.
 
@@ -27,7 +27,7 @@ Thames Card Technology has seen continual growth in recent years and continues t
 
 The company have also been working with TUI UK & Ireland, manufacturing the next generation of travel money cards. The prepaid cards offer a multi-currency solution for travellers and can be used to make a payment in any country or currency, where the MasterCard symbol is displayed.
 
-![Atlantic Zeizer Persomaster](//clarity-strategies.github.io/ie-uploads/uploads/about/Atlantic_Zeiser_Persomaster.jpg){: .right-image}Thames also recently announced a £2m investment in state of the art personalisation equipment to increase card personalisation capacity by 60%, bring loyalty keyfob encapsulation in-house and deliver greater efficiency.
+![Atlantic Zeizer Persomaster](//images-investessex.firebaseapp.com/uploads/about/Atlantic_Zeiser_Persomaster.jpg){: .right-image}Thames also recently announced a £2m investment in state of the art personalisation equipment to increase card personalisation capacity by 60%, bring loyalty keyfob encapsulation in-house and deliver greater efficiency.
 
 ### Collaboration with long-term partners
 
@@ -51,7 +51,7 @@ In 2014 £3.2m growth funding was secured by Thames from the private equity inve
 
 ### Accreditations
 
-![Largest credit card processor](//clarity-strategies.github.io/ie-uploads/uploads/studies/Infographic.png){: .right-image}
+![Largest credit card processor](//images-investessex.firebaseapp.com/uploads/studies/Infographic.png){: .right-image}
 
 Thames Card Technology was first accredited to manufacture MasterCard and Visa products in 1999. In 2004 the company achieved the Logical Security accreditations to enable them to manufacture and personalise EMV banking Chip & PIN cards. With these accreditations and working in partnership with Morpho, Thames offers a complete EMV chip card manufacturing and personalisation solution.
 

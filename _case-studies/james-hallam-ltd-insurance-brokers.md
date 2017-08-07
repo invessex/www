@@ -2,7 +2,7 @@
 Author: Paul Martin
 contact: corinne-hearne
 heading: James Hallam Ltd - Insurance Brokers
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/ECC5_940x327.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/studies/ECC5_940x327.jpg
 layout: case-study
 pub_date: '2014-04-11 00:00:00'
 tags:
@@ -11,7 +11,7 @@ related: null
 sectors:
 - london-essex-uk-finance-corridor
 synopsis: Essex is convenient for London, train services makes it easy to meet clients
-thumbnail_image: //clarity-strategies.github.io/ie-uploads/uploads/studies/JamesHallam_555x440.jpg
+thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/JamesHallam_555x440.jpg
 study_url: james-hallam-ltd-insurance-brokers
 ---
 

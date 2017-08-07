@@ -6,8 +6,8 @@ sector_url: london-essex-uk-finance-corridor
 H1: London Essex UK Finance Corridor
 synopsis: 'Located on the doorstep of the City of London and Canary Wharf Essex is an ideal location for companies in the Business, Professional and Financial Services sector.'
 home_synopsis: 'Located on the doorstep of the City of London and Canary Wharf Essex is an ideal location for companies in the Business, Professional and Financial Services sector.'
-synopsis_image: //clarity-strategies.github.io/ie-uploads/uploads/services/BPDF_Synopsis_555x300.jpg
-hero_image: //clarity-strategies.github.io/ie-uploads/uploads/headers/BPFS_Hero_Overlay_1980x600.jpg
+synopsis_image: //images-investessex.firebaseapp.com/uploads/services/BPDF_Synopsis_555x300.jpg
+hero_image: //images-investessex.firebaseapp.com/uploads/headers/BPFS_Hero_Overlay_1980x600.jpg
 logo_carousel: 'partner-business-professional-financial-services'
 testimonial_carousel: 'testimonials-business-professional-financial-services'
 contact: corinne-hearne
@@ -70,7 +70,7 @@ Fast, direct access to London and the City provides Essex-based companies with a
 **Professional services**
 <br>Essex is the location of choice for a diverse range of professional services companies in sub-sectors including accounting and legal services. Many of these business serve, or have links to, the financial services sector in the London area.
 
-{% include download.html size="1" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf" name="Essex Finance Corridor pdf "%}
+{% include download.html size="1" url="//images-investessex.firebaseapp.com/uploads/pdf/London-Essex_UK_Finance_Corridor-_Business_Benefits.pdf" name="Essex Finance Corridor pdf "%}
 
 ### Connectivity to London & Worldwide
 
@@ -137,4 +137,4 @@ The University of Essex achieves high rankings versus UK and international compe
 
 See here for Essex County Council's response to the Government's Industrial Strategy...
 
-{% include download.html size="6" url="//clarity-strategies.github.io/ie-uploads/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}
+{% include download.html size="6" url="//images-investessex.firebaseapp.com/uploads/pdf/DS17_5636_Industrial_Strategy.pdf" name="DS17_5636_Industrial_Strategy .pdf"%}
