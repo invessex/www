@@ -51,7 +51,9 @@ title: Case Studies
         </div>                        
     </div>
     {% if mod == 0 or forloop.last == true %}
-    MOD = {{ mod }}
+    {% for i in (1..mod) %}
+       <div class="col-sm-3"></div>
+    {% endfor %}
     <!-- close the row -->
     </div>
     {% endif %}
