@@ -50,7 +50,7 @@ title: Case Studies
             <a href="{{ study.url }}" class="btn btn-ghost">Read More</a>  
         </div>                        
     </div>
-    {% if mod == 0 %}
+    {% if mod == 0 or forloop.last == true %}
     <!-- close the row -->
     </div>
     {% endif %}
