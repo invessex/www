@@ -52,7 +52,7 @@ title: Case Studies
     </div>
     {% if mod == 0 or forloop.last == true %}
     MOD {{ mod }}
-    {% assign mod = 4-mod %}
+    {% assign mod = 4 | minus mod %}
     NEWMOD {{ mod }}
     {% for i in (1..mod) %}
        <div class="col-sm-3"></div>
