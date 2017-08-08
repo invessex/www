@@ -29,21 +29,23 @@ title: Case Studies
 <section class="container-full-width container-content container-auto-height light">
 <div class="container">
 {% for study in paginator.posts %}
-    {% assign mod = forloop.index | modulo: 2 %}
+    {% assign mod = forloop.index | modulo: 4 %}
     {% if mod == 1 %}
 <!-- open the row -->
     <div class="row">
     {% endif %}
 <!--  output the post-->
-    <div class="col-sm-6">            
+    <div class="col-sm-3">
+        <a href="{{ study.url }}" class="btn btn-ghost">Read More</a>            
         <div class="grid-2x2-block">
             <div class="image" style="background-image: url('{{study.thumbnail_image}}');">
                 <a href="{{ study.url }}"></a>
-            </div>            
-            <div class="content">                    
+            </div>          
+            <div class="content"> 
+                <!--<img class="image" src="{{study.thumbnail_image}}"/>-->
                 <h3>{{ study.heading }}</h3>
                 <p>{{study.synopsis}}</p>
-                <a href="{{ study.url }}" class="btn btn-ghost">Read More</a>
+                
             </div>    
         </div>                        
     </div>
@@ -54,10 +56,10 @@ title: Case Studies
 
 {% endfor %}
 
-
+<div class="clearfix1"></div>
 <!-- Pagination links -->
  {% if paginator.page_trail %}
-    <div id="pagination" class="pagination">
+    <div id="pagination" class=" pagination">
         <p class="current">Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</p>
     <ul>
     {% if paginator.previous_page %}
