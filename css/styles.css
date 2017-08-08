@@ -171,15 +171,7 @@ a, a>span, .carousel-nav-owl .controls>.owl-next, .carousel-nav-owl .controls>.o
 	transition:.5s;	
 }
 
- .clearfix1 {
-	clear: both;
-    content: ".";
-    
-    display: block;
-    height: 0;
-	visibility: hidden;
-	*/
-}
+
 
 /* ------------------------------------ 
    Generic Elements
@@ -400,7 +392,7 @@ div.fp-title {
 	line-height: 1.2;
 }
 .hero {
-  background:url(https://clarity-strategies.github.io/ie-uploads/images/global/home-hero.jpg) no-repeat center;
+  background:url(https://res.cloudinary.com/investessex/image/upload/v1499721683/home-hero.jpg) no-repeat center;
   background-size:cover;
   border:none;
 }
@@ -3523,6 +3515,10 @@ only screen and (max-width: 760px),
 		line-height: 22px;
 	}
 
+	   
+	   
+	
+	
 	.grid-2x2-block {
 		height: auto;
 		margin-bottom: 0;
@@ -3536,14 +3532,14 @@ only screen and (max-width: 760px),
 		padding: 30px 0px;
 	}	
 		
-	.grid-2x2-block .image {
+	.grid-2x2-block>.image {
 		position: relative;
 		width: 100%;
-		xheight: 250px;
+		height: 250px;
 	}	
 	
 	.grid-2x2-block>.content>h3 {
-		/*height: 68px;*/
+		height: 68px;
 		font-size: 34px;
 		line-height: 28px;
 	}
@@ -3867,11 +3863,11 @@ only screen and (max-width: 760px),
 	}	
 	
 	.grid-2x2-block>.content {
-		width: 100%;
+		width: 390px;
 	}
 		
 	.grid-2x2-block>.image {
-		width: 100%;
+		width: 455px;
 		height: 300px;
 	}
 	
@@ -4086,12 +4082,12 @@ only screen and (max-width: 760px),
 	}		   
 	
 	.grid-2x2-block>.content {
-		width: 100%;
+		width: 460px;
 	}	
 		
 	.grid-2x2-block>.image {
 		width: 100%;
-		height: 200px;
+		height: 300px;
 	}
 	
 	.listing-blog-block>.summary>.image {
@@ -4113,17 +4109,9 @@ only screen and (max-width: 760px),
 	
 }
 
-.row {
-    display: table;
-}
-
-[class*="col-"] {
-    float: none;
-    display: table-cell;
-    vertical-align: top;
-} 
    
-  
+   
+   
    
    
    
