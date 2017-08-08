@@ -51,10 +51,11 @@ title: Case Studies
         </div>                        
     </div>
     {% if mod == 0 or forloop.last == true %}
-    
+    {% if mod != 0 %}
     {% for i in (1..(4-mod)) %}
        <div class="col-sm-3"></div>
     {% endfor %}
+    {% endif %}
     <!-- close the row -->
     </div>
     {% endif %}
