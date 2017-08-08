@@ -52,8 +52,8 @@ title: Case Studies
     </div>
     {% if mod == 0 or forloop.last == true %}
     {% if mod != 0 %}
-    {% assign mod = 4 | minus: mod %}
-    {% for i in (1..mod) %}
+    {% assign sm3s = 4 | minus: mod %}
+    {% for i in (1..sm3s) %}
        <div class="col-sm-3"></div>
     {% endfor %}
 
