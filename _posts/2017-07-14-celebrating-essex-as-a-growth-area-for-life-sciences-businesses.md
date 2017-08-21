@@ -9,7 +9,7 @@ pub_date: 2017-07-14 00:00:00
 categories:
   - life-sciences-healthcare-cluster
 tags:
-thumbnail_image:
+thumbnail_image: //res.cloudinary.com/investessex/image/upload/v1503332349/Aerial-290716-high_165.jpg
 ---
 
 
