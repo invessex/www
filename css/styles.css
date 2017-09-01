@@ -3538,7 +3538,7 @@ only screen and (max-width: 760px),
 	.grid-2x2-block .image {
 		position: relative;
 		width: 100%;
-		xheight: 250px;
+		height: 250px;
 	}	
 	
 	.grid-2x2-block>.content>h3 {
