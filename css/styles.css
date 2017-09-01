@@ -5,8 +5,6 @@ Written by Anthony Casey
 -------------------------------------------------------------
 */ 
 
-
-
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -384,6 +382,10 @@ div.fp-title {
 	border-left: 6px solid #699e10;
 	padding: 8px;
 }
+.grid-2x2-block > .image {
+    width: 100%;
+    height: 300px;
+}
 }
 .jumbotron p {
     margin-bottom: 15px;
@@ -392,7 +394,7 @@ div.fp-title {
 	line-height: 1.2;
 }
 .hero {
-  background:url(https://res.cloudinary.com/investessex/image/upload/v1499721683/home-hero.jpg) no-repeat center;
+  background:url(https://clarity-strategies.github.io/ie-uploads/images/global/home-hero.jpg) no-repeat center;
   background-size:cover;
   border:none;
 }
@@ -404,6 +406,10 @@ div.fp-title {
     padding-right:30px;
     margin-left: -30px;
   }
+  .grid-2x2-block > .image {
+    width: 100%;
+    height: 150px;
+}
 }
 
 @media only screen and (max-width: 768px)  {
@@ -1672,8 +1678,8 @@ padding-top: 10px;
 
 .grid-2x2-block>.content>h3 {
 	text-transform: uppercase;
-	font-size: 36px;
-	line-height: 34px;
+	font-size: 24px;
+	line-height: 24px;
 }
 
 .grid-2x2-block>.content>h3>br {
@@ -3515,10 +3521,6 @@ only screen and (max-width: 760px),
 		line-height: 22px;
 	}
 
-	   
-	   
-	
-	
 	.grid-2x2-block {
 		height: auto;
 		margin-bottom: 0;
@@ -3532,16 +3534,16 @@ only screen and (max-width: 760px),
 		padding: 30px 0px;
 	}	
 		
-	.grid-2x2-block>.image {
+	.grid-2x2-block .image {
 		position: relative;
 		width: 100%;
-		height: 250px;
+		xheight: 250px;
 	}	
 	
 	.grid-2x2-block>.content>h3 {
-		height: 68px;
-		font-size: 34px;
-		line-height: 28px;
+		/*height: 68px;*/
+		font-size: 24pxpx;
+		line-height: 24px;
 	}
 
 		
@@ -3858,17 +3860,17 @@ only screen and (max-width: 760px),
 	}
 	
 	.grid-2x2-block {
-		height: 500px;
+		/*height: 500px;*/
 		margin-bottom: 80px;
 	}	
 	
 	.grid-2x2-block>.content {
-		width: 390px;
+		width: 100%;
 	}
 		
 	.grid-2x2-block>.image {
-		width: 455px;
-		height: 300px;
+		width: 100%;
+		/*height: 300px;*/
 	}
 	
 	
@@ -4082,12 +4084,12 @@ only screen and (max-width: 760px),
 	}		   
 	
 	.grid-2x2-block>.content {
-		width: 460px;
+		width: 100%;
 	}	
 		
 	.grid-2x2-block>.image {
 		width: 100%;
-		height: 200px;
+		/*height: 300px;*/
 	}
 	
 	.listing-blog-block>.summary>.image {
