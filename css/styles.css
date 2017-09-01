@@ -757,7 +757,7 @@ header.section-header .btn-header:hover {
 .col-how-help-cta>.image {
 	background: #333333;
 	width: 100%;
-	height: 250px;	
+	xheight: 250px;	
 	margin-bottom: 15px;
 }
 
