@@ -1,0 +1,25 @@
+<!--<section class="container-full-width container-content container-single-pager light">-->
+    <div class="container">
+      <div class="row">
+         <div class="col-sm-12 text-center">                 
+             <div id="carouselNavLogoCarousel" class="carousel-nav-owl carousel-nav-logo-carousel clearfix">
+                <div class="controls"></div>
+             </div> 
+                 <div id="carouselLogoCarousel" class="owl-carousel carousel-single-logos carousel-logo-carousel" data-logo-carousel-entry-id=""> <!-- 2420 -->
+                     {% for partner in  site.data.logo-carousels['partner-advanced-electronics'] %}
+                      <div class="inner {{ partner.company }}" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads{{ partner.logo }}')";></div>
+                     {% endfor %}
+                     {% for partner in  site.data.logo-carousels['partner-life-sciences'] %}
+                      <div class="inner {{ partner.company }}" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads{{ partner.logo }}')";></div>
+                     {% endfor %}
+                     {% for partner in  site.data.logo-carousels['partner-business-professional-financial-services'] %}
+                      <div class="inner {{ partner.company }}" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads{{ partner.logo }}')";></div>
+                     {% endfor %}
+                     {% for partner in  site.data.logo-carousels['partner-port-logistics'] %}
+                      <div class="inner {{ partner.company }}" style="background-image: url('//clarity-strategies.github.io/ie-uploads/uploads{{ partner.logo }}')";></div>
+                     {% endfor %}
+                 </div>
+         </div>            
+      </div>
+    </div>
+ <!--</section> -->
