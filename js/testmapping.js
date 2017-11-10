@@ -101,7 +101,7 @@ var features = [
       popup: 'University',
       image: '//res.cloudinary.com/investessex/image/upload/w_170/UniversityOfEssex.jpg',
       synopsis: "A public research university, ranked in the UK's top-20 for research excellence.",
-      link: 'investessex.co.uk/studies/place-studies/the-university-of-essex'
+      link: 'investessex.co.uk/studies/place-studies/university-of-essex'
     }, {
       position: new google.maps.LatLng(51.770672, 0.130563),
       type: 'KeySite',
