@@ -17,7 +17,7 @@
         container: '#hits-container',
         templates: {
           empty: 'No results',
-          item: '<h4>{{{_highlightResult.title.value}}}</h4> {{{_highlightResult.text.value}}}<br/> in: {{ layout }}<br/><a class="btn" href="{{ url }}">Read More</a>'
+          item: '<h4>{{{_highlightResult.title.value}}}</h4> {{{_highlightResult.text.value}}}<br/> in: <strong>{{ layout }}</strong><br/><a class="btn" href="{{ url }}">Read More</a>'
         },
         hitsPerPage: 10
       })
