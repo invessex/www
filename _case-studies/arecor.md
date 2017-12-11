@@ -5,15 +5,19 @@ heading: Arecor
 hero_image: //images-investessex.firebaseapp.com/uploads/studies/Chesterford_RP_2_1980.jpg
 layout: case-study
 pub_date: '2017-01-19 00:00:00'
-tags: 
-- leading-company
+tags:
+  - leading-company
 related:
-  - essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
+  - >-
+    essex-company-awarded-GBP1-05-million-towards-improving-treatment-for-diabetes-care
   - chesterford-research-park-the-cambridge-life-sciences-cluster-in-essex
-  - essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
-  - how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
+  - >-
+    essex-uk-at-the-heart-of-the-greater-south-east-england-life-sciences-and-healthcare-cluster
+  - >-
+    how-distinctive-health-technology-capabilities-attract-life-science-healthcare-companies-to-essex
   - japanese-specialist-plastics-company-opens-first-uk-premises-in-essex
-  - essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
+  - >-
+    essex-the-uks-optimal-location-for-life-sciences-and-health-technology-companies
   - chesterford-research-park-chosen-for-diabetes-research-laboratory-space
 sectors:
   - life-sciences-healthcare-cluster
@@ -22,7 +26,8 @@ thumbnail_image: //images-investessex.firebaseapp.com/uploads/studies/diabetes-1
 study_url: arecor
 ---
 
-![Biopharmaceutical study](//images-investessex.firebaseapp.com/uploads/about/research-lab_400.jpg){: .right-image}Arecor is a leading biopharmaceutical company who is developing a portfolio of products to enable improved treatments for diabetes care. These products will enable next generation technology and improve quality of life for those with diabetes. Through its innovative formulation approach/technology platform Arestat™ Arecor is able to offer significant advancements in this area by delivering products such as…
+
+![Biopharmaceutical study](//images-investessex.firebaseapp.com/uploads/about/research-lab_400.jpg){: .right-image}Arecor is a leading biopharmaceutical company who is developing a portfolio of products to enable improved treatments for diabetes care. These products will enable next generation technology and improve quality of life for those with diabetes. Through its innovative formulation approach/technology platform Arestat™ Arecor is able to offer significant advancements in this area by delivering products such as….
 
 * Highly concentrated formulations of insulin
 * Ultra-rapid acting insulins
@@ -53,7 +58,7 @@ Arecor has partnered with the world’s largest pharmaceutical and biotech compa
 
 The company joined major bioscience players such as AstraZeneca and Domainex who have all chosen Chesterford as the base from which to advance their research and development. Chesterford is a key location within the ‘London-Stansted-Cambridge Corridor’ – identified as an emerging growth area for life sciences businesses. These location advantages are combining to make Essex a significant centre of life sciences research and innovation.
 
-> “Arecor is experiencing significant growth and we required enhanced facilities that could meet our expansion requirements, both today and well into the future. We selected Chesterford because of the quality of innovative companies already located here, the Park’s location within the Cambridge cluster and the excellent central facilities.  Attracting top talent as we continue to grow is key to our future success and we feel that Chesterford is the ideal location from which we can continue to forge ahead.”
+> “Arecor is experiencing significant growth and we required enhanced facilities that could meet our expansion requirements, both today and well into the future. We selected Chesterford because of the quality of innovative companies already located here, the Park’s location within the Cambridge cluster and the excellent central facilities.&nbsp; Attracting top talent as we continue to grow is key to our future success and we feel that Chesterford is the ideal location from which we can continue to forge ahead.”
 >
 >
 > Dr Sarah Howell, CEO, Arecor
